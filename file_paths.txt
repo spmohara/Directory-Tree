@@ -1,0 +1,1809 @@
+640x480p30-4x3-0018.tif Thu, 19 Oct 2017 15:10:33 GMT 1067428
+tmp2/00015004.png Mon, 24 Oct 2016 20:27:57 GMT 390874
+images/640x480p30-4x3-0001-16bit.png Thu, 19 Oct 2017 15:20:48 GMT 43837
+images/640x480p30-4x3-0001-16bit.tif Thu, 19 Oct 2017 15:18:14 GMT 3797632
+images/640x480p30-4x3-0001-8bit.bmp Thu, 19 Oct 2017 15:20:49 GMT 921656
+images/640x480p30-4x3-0001-8bit.png Thu, 19 Oct 2017 15:20:48 GMT 34471
+images/640x480p30-4x3-0001-8bit.tif Thu, 19 Oct 2017 15:18:16 GMT 1068400
+nortxe-backup/ip.cfg Fri, 17 Feb 2017 22:38:45 GMT 1161
+nortxe-backup/box.cfg Wed, 23 Aug 2017 22:06:04 GMT 21317
+p1.jspf Fri, 19 Jan 2018 15:33:01 GMT 386
+tmp-fonts/WenQuanYiZenHei.ttf Fri, 19 Aug 2016 23:43:59 GMT 11841964
+audio/AnaVidovicRecuerdosdelaAlhambra.mp3 Fri, 19 Jan 2018 14:48:04 GMT 7017810
+audio/AnaVidovicLaCatedral.mp3 Fri, 19 Jan 2018 14:47:52 GMT 11218338
+audio/AnaVidovicAsturias.mp3 Fri, 19 Jan 2018 14:47:33 GMT 9927186
+clips/Artbeats_5_20Mbps-30fps-20sec.mp4 Tue, 17 Oct 2017 22:34:58 GMT 50207042
+clips/Artbeats_2_5Mbps-20sec-fast.mp4 Fri, 12 Jan 2018 23:12:18 GMT 11071720
+clips/Artbeats_1_5Mbps-20sec_fast.mp4 Fri, 12 Jan 2018 23:12:42 GMT 9701920
+Playlists/audio.jspf Fri, 19 Jan 2018 15:28:40 GMT 386
+Playlists/cycle-Samsung.jspf Thu, 19 Oct 2017 17:06:31 GMT 1166
+Playlists/local_artbeats_seamless.m3u8 Fri, 12 Jan 2018 23:16:24 GMT 167
+Playlists/artbeats.m3u8 Tue, 17 Oct 2017 19:37:55 GMT 246
+shares/win7/022713_BusinessCouncilDinner_HD.mp4 Fri, 01 Mar 2013 17:51:58 GMT 350418207
+shares/win7/022713_RosaParksStatue_HD-150mStofixAVsync.mp4 Fri, 01 Mar 2013 20:08:49 GMT 2012479660
+shares/win7/1080p50-networkUtilization.png Wed, 18 Mar 2015 18:54:08 GMT 94226
+shares/win7/1280x1024-1secSteps.m4v Tue, 04 Jun 2013 23:00:36 GMT 56018
+shares/win7/1280x1024-levelsStep4-20.mp4 Wed, 05 Jun 2013 18:48:29 GMT 11977
+shares/win7/1280x1024-levelsStep4-255.mp4 Wed, 05 Jun 2013 19:49:46 GMT 13032
+shares/win7/1280x720-1366-768/1280x1024p60(10x8)_42high30GOP5Mbps48k.MP4 Tue, 24 Sep 2013 20:05:28 GMT 49549029
+shares/win7/1280x720-1366-768/1280x1024p60(10x8)_42high30GOP5Mbps48k_aac.ts Tue, 24 Sep 2013 20:34:31 GMT 53730400
+shares/win7/1280x720-1366-768/1366x768p60(16x9)_42high30GOP5Mbps48k.MP4 Tue, 24 Sep 2013 20:04:39 GMT 50026056
+shares/win7/1280x720-1366-768/1366x768p60(16x9)_42high30GOP5Mbps48k_aac.ts Tue, 24 Sep 2013 20:32:37 GMT 54222772
+shares/win7/1280x720-1366-768/audioTrack-0.wav Thu, 26 Sep 2013 17:01:17 GMT 4591734
+shares/win7/1280x720-1366-768/audioTrack-1.wav Thu, 26 Sep 2013 17:01:17 GMT 4591734
+shares/win7/1280x720-1366-768/Thumbs.db Tue, 24 Sep 2013 21:31:46 GMT 138240
+shares/win7/1280x720p59.94-RosaParks-5Mbps.mp4 Fri, 22 Mar 2013 23:08:02 GMT 389126699
+shares/win7/1280x720p60_SME_graphics_test5-crf2.mp4 Tue, 10 Sep 2013 19:27:56 GMT 4649136
+shares/win7/1280x720p60_SME_graphics_test5-crf2_key_int1.mp4 Tue, 10 Sep 2013 19:01:29 GMT 232692034
+shares/win7/1920x1080-350zone-0.1step.mp4 Wed, 05 Jun 2013 23:00:32 GMT 2516104
+shares/win7/1920x1080p30_Toronto.mp4 Thu, 06 Jun 2013 20:58:51 GMT 191523737
+shares/win7/1920x1080p60-failed/1920x1080p30(16x9)-100Mbps100Mcrf1.mp4 Fri, 16 Jan 2015 20:25:13 GMT 550677427
+shares/win7/1920x1080p60-failed/1920x1080p60(16x9)-100Mbps100Mcrf1.mp4 Fri, 16 Jan 2015 21:34:50 GMT 347204295
+shares/win7/1920x1080p60-failed/1920x1080p60(16x9)-31main15GOP5Mbps44k-crf18-8Mbps-6Mbps.MP4 Mon, 21 Jul 2014 18:45:24 GMT 31298237
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-25Mbps-120s-baseline-1k.mp4 Fri, 15 Sep 2017 22:06:43 GMT 376573753
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-25Mbps-120s-baseline-1k_mp4.ts Fri, 15 Sep 2017 22:09:02 GMT 406730668
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-36Mbps-120s-1kHz.mp4 Fri, 15 Sep 2017 21:37:38 GMT 541400680
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-36Mbps-120s-1kHz_mp4.ts Fri, 15 Sep 2017 21:39:19 GMT 584406836
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-36Mbps-120s.mp4 Fri, 15 Sep 2017 18:30:28 GMT 540264407
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-36Mbps-120s_mp4.ts Fri, 15 Sep 2017 18:32:38 GMT 583215668
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-120s.mp4 Fri, 15 Sep 2017 17:52:26 GMT 600267074
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-120s_from_mp4.ts Fri, 15 Sep 2017 18:00:16 GMT 647903460
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s-baseline-1k.mp4 Fri, 15 Sep 2017 19:58:47 GMT 150529422
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s-baseline-1k_mp4.ts Fri, 15 Sep 2017 20:07:06 GMT 162465652
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s-baseline-silent-128k.ts Fri, 15 Sep 2017 16:56:32 GMT 162228020
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s-baseline-silent-from-mp4.ts Fri, 15 Sep 2017 16:51:22 GMT 162193616
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s-baseline-silent.mp4 Fri, 15 Sep 2017 16:41:34 GMT 150280008
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s-baseline-silent.ts Fri, 15 Sep 2017 16:44:39 GMT 162228020
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s-baseline.mp4 Fri, 15 Sep 2017 15:20:00 GMT 150275748
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s-baseline.ts Fri, 15 Sep 2017 15:21:56 GMT 162204520
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s.mp4 Thu, 14 Sep 2017 22:16:01 GMT 150275938
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-40Mbps-30s.ts Thu, 14 Sep 2017 22:37:00 GMT 162204708
+shares/win7/1920x1080p60-failed/1920x1080p60-UL-zone-45Mbps-10s-preset-slow-crf2-baseline.mp4 Fri, 15 Sep 2017 14:18:57 GMT 50196484
+shares/win7/1920x1080p60-failed/ffmpeg-20170914-151750.log Thu, 14 Sep 2017 22:18:20 GMT 13965
+shares/win7/1920x1080p60-failed/ffmpeg-20170914-151836.log Thu, 14 Sep 2017 22:19:06 GMT 13965
+shares/win7/1920x1080p60-failed/ffmpeg-20170914-151939.log Thu, 14 Sep 2017 22:19:39 GMT 4068
+shares/win7/1920x1080p60-failed/ffmpeg-20170914-152000.log Thu, 14 Sep 2017 22:20:00 GMT 4068
+shares/win7/1920x1080p60-failed/ffmpeg-20170914-152207.log Thu, 14 Sep 2017 22:23:10 GMT 20406
+shares/win7/1920x1080p60-failed/ffmpeg-20170914-152312.log Thu, 14 Sep 2017 22:23:59 GMT 17535
+shares/win7/1920x1080p60-failed/ffmpeg-20170914-152435.log Thu, 14 Sep 2017 22:25:14 GMT 16051
+shares/win7/1920x1080p60-failed/UL/4k-zone-000.bmp Thu, 31 Aug 2017 20:23:50 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-001.bmp Thu, 31 Aug 2017 20:23:50 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-002.bmp Thu, 31 Aug 2017 20:23:50 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-003.bmp Thu, 31 Aug 2017 20:23:51 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-004.bmp Thu, 31 Aug 2017 20:23:51 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-005.bmp Thu, 31 Aug 2017 20:23:51 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-006.bmp Thu, 31 Aug 2017 20:23:52 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-007.bmp Thu, 31 Aug 2017 20:23:52 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-008.bmp Thu, 31 Aug 2017 20:23:52 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-009.bmp Thu, 31 Aug 2017 20:23:53 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-010.bmp Thu, 31 Aug 2017 20:23:53 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-011.bmp Thu, 31 Aug 2017 20:23:54 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-012.bmp Thu, 31 Aug 2017 20:23:54 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-013.bmp Thu, 31 Aug 2017 20:23:54 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-014.bmp Thu, 31 Aug 2017 20:23:55 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-015.bmp Thu, 31 Aug 2017 20:23:55 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-016.bmp Thu, 31 Aug 2017 20:23:56 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-017.bmp Thu, 31 Aug 2017 20:23:56 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-018.bmp Thu, 31 Aug 2017 20:23:57 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-019.bmp Thu, 31 Aug 2017 20:23:59 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-020.bmp Thu, 31 Aug 2017 20:24:00 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-021.bmp Thu, 31 Aug 2017 20:24:01 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-022.bmp Thu, 31 Aug 2017 20:24:03 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-023.bmp Thu, 31 Aug 2017 20:24:03 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-024.bmp Thu, 31 Aug 2017 20:24:04 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-025.bmp Thu, 31 Aug 2017 20:24:04 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-026.bmp Thu, 31 Aug 2017 20:24:05 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-027.bmp Thu, 31 Aug 2017 20:24:08 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-028.bmp Thu, 31 Aug 2017 20:24:09 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-029.bmp Thu, 31 Aug 2017 20:24:09 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-030.bmp Thu, 31 Aug 2017 20:24:09 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-031.bmp Thu, 31 Aug 2017 20:24:10 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-032.bmp Thu, 31 Aug 2017 20:24:10 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-033.bmp Thu, 31 Aug 2017 20:24:11 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-034.bmp Thu, 31 Aug 2017 20:24:12 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-035.bmp Thu, 31 Aug 2017 20:24:14 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-036.bmp Thu, 31 Aug 2017 20:24:14 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-037.bmp Thu, 31 Aug 2017 20:24:15 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-038.bmp Thu, 31 Aug 2017 20:24:15 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-039.bmp Thu, 31 Aug 2017 20:24:16 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-040.bmp Thu, 31 Aug 2017 20:24:17 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-041.bmp Thu, 31 Aug 2017 20:24:17 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-042.bmp Thu, 31 Aug 2017 20:24:18 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-043.bmp Thu, 31 Aug 2017 20:24:18 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-044.bmp Thu, 31 Aug 2017 20:24:19 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-045.bmp Thu, 31 Aug 2017 20:24:22 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-046.bmp Thu, 31 Aug 2017 20:24:27 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-047.bmp Thu, 31 Aug 2017 20:24:32 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-048.bmp Thu, 31 Aug 2017 20:24:33 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-049.bmp Thu, 31 Aug 2017 20:24:34 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-050.bmp Thu, 31 Aug 2017 20:24:36 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-051.bmp Thu, 31 Aug 2017 20:24:37 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-052.bmp Thu, 31 Aug 2017 20:24:38 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-053.bmp Thu, 31 Aug 2017 20:24:38 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-054.bmp Thu, 31 Aug 2017 20:24:39 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-055.bmp Thu, 31 Aug 2017 20:24:39 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-056.bmp Thu, 31 Aug 2017 20:24:40 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-057.bmp Thu, 31 Aug 2017 20:24:42 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-058.bmp Thu, 31 Aug 2017 20:24:43 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/4k-zone-059.bmp Thu, 31 Aug 2017 20:24:44 GMT 6220854
+shares/win7/1920x1080p60-failed/UL/Thumbs.db Fri, 15 Sep 2017 15:28:38 GMT 41472
+shares/win7/1920x1200p60(16x10)_42high15GOP5Mbps48k.mp4 Wed, 01 May 2013 00:46:24 GMT 36095178
+shares/win7/32-LevelsTextLayersNoGridSpace.mp4 Wed, 12 Jun 2013 18:15:27 GMT 14982
+shares/win7/42Mbps/1080p50-CDP-crf16-42-31-base-new3minToneMap.mp4 Thu, 04 Jul 2013 00:41:33 GMT 949353924
+shares/win7/42Mbps/1080p50-CDP-crf16-42-31-high-new3minToneMap.mp4 Thu, 04 Jul 2013 00:44:26 GMT 948728155
+shares/win7/42Mbps/1080p50-CDP-crf16-42-31-main-new3minToneMap.mp4 Thu, 04 Jul 2013 00:43:18 GMT 948700467
+shares/win7/42Mbps/ffmpeg-20170914-145027.log Thu, 14 Sep 2017 21:53:28 GMT 44799
+shares/win7/42Mbps/ffmpeg-20170914-145619.log Thu, 14 Sep 2017 21:59:19 GMT 44819
+shares/win7/42Mbps/ffmpeg-20170914-150123.log Thu, 14 Sep 2017 22:01:32 GMT 11749
+shares/win7/42Mbps/kerryplaylist.jspf Thu, 22 Aug 2013 19:23:50 GMT 64
+shares/win7/42Mbps/Thumbs.db Mon, 28 Oct 2013 19:59:25 GMT 168448
+shares/win7/640x360/640x360p60(16x9)_noCABAC_42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:55:54 GMT 49221784
+shares/win7/640x360/Thumbs.db Thu, 17 Oct 2013 15:10:02 GMT 16896
+shares/win7/AnaheimDemoRm/CNBC Squawk Box 2012_7_3_8_8_32isom.MP4 Tue, 14 Apr 2015 21:19:20 GMT 336874280
+shares/win7/AnaheimDemoRm/CNN AC360 2011_5_15isom.MP4 Tue, 14 Apr 2015 18:16:56 GMT 250729753
+shares/win7/AnaheimDemoRm/ESPN Euro Cup Sports Desk 2012_7_3_8_1_14isom.MP4 Tue, 14 Apr 2015 20:16:50 GMT 336335427
+shares/win7/AnaheimDemoRm/FighterPilotIsom10M.mp4 Tue, 14 Apr 2015 21:17:12 GMT 127929396
+shares/win7/AnaheimDemoRm/sme_student_news_v2isom.mp4 Tue, 14 Apr 2015 21:20:18 GMT 217834171
+shares/win7/AnaheimDemoRm/Thumbs.db Tue, 14 Apr 2015 18:23:41 GMT 26112
+shares/win7/AnaheimDemoRm/Total_Business_Mastery_Speech_Forest_Hamilton_hd720isom2M.mp4 Tue, 14 Apr 2015 20:33:38 GMT 212916764
+shares/win7/Andy-remux/12-19/12.19 TO TEST WITH NEW SETTINGS.mp4 Tue, 20 Dec 2016 14:59:14 GMT 290744872
+shares/win7/Andy-remux/12-19/Artbeats1-movieMaker-forComputer.mp4 Mon, 19 Dec 2016 23:22:24 GMT 75735525
+shares/win7/Andy-remux/12-19/daily-an.mp4 Mon, 19 Dec 2016 17:02:48 GMT 166895499
+shares/win7/Andy-remux/12-19/daily-avanti.mp4 Mon, 19 Dec 2016 19:06:36 GMT 166895499
+shares/win7/Andy-remux/12-19/daily-v-copy-a-128k-yag.mp4 Tue, 20 Dec 2016 16:04:24 GMT 167381980
+shares/win7/Andy-remux/12-19/daily1-yag-mp3.mp4 Tue, 20 Dec 2016 21:55:38 GMT 244762867
+shares/win7/Andy-remux/12-19/My Movie.mp4 Mon, 19 Dec 2016 21:21:46 GMT 175029681
+shares/win7/Andy-remux/12-19/o_daily.mp4 Mon, 19 Dec 2016 19:32:28 GMT 166895499
+shares/win7/Andy-remux/12-19/problem-audio/daily-a128k.mp4 Mon, 19 Dec 2016 16:51:06 GMT 167388610
+shares/win7/Andy-remux/12-19/problem-audio/daily.mp4 Mon, 19 Dec 2016 13:11:00 GMT 167155898
+shares/win7/Andy-remux/12-19/Thumbs.db Mon, 19 Dec 2016 16:36:44 GMT 57344
+shares/win7/Andy-remux/daily1-a128k.mp4 Wed, 14 Dec 2016 22:45:36 GMT 238977796
+shares/win7/Andy-remux/daily1-a192k.mp4 Wed, 14 Dec 2016 21:49:22 GMT 248985573
+shares/win7/Andy-remux/daily1.mp4 Tue, 13 Dec 2016 15:11:00 GMT 233783465
+shares/win7/Andy-remux/daily1a.mp4 Tue, 13 Dec 2016 18:43:42 GMT 232781303
+shares/win7/Andy-remux/daily1b.mp4 Tue, 13 Dec 2016 20:13:58 GMT 220390976
+shares/win7/Andy-remux/daily1c.mp4 Tue, 13 Dec 2016 20:29:22 GMT 234666737
+shares/win7/Andy-remux/daily1d.mp4 Tue, 13 Dec 2016 22:56:30 GMT 250268607
+shares/win7/Andy-remux/daily1e.mp4 Tue, 13 Dec 2016 23:20:38 GMT 245566076
+shares/win7/Antrica-VLC/test-record-vlc.mp4 Tue, 21 Oct 2014 19:05:05 GMT 23670964
+shares/win7/Arecont/1012353583001_1174823067001_Don-Olson-Marble-Lobby-360.mp4 Thu, 06 Nov 2014 17:29:57 GMT 5680667
+shares/win7/Arecont/1012353583001_1174823374001_CV-Reps-Parking-Lot-Night-180.mp4 Thu, 06 Nov 2014 17:42:25 GMT 23630462
+shares/win7/Arecont/SuperSpeedway.mp4 Thu, 06 Nov 2014 19:07:49 GMT 38123575
+shares/win7/Arecont/SuperSpeedway.wmv Mon, 13 Mar 2006 22:47:12 GMT 141400478
+shares/win7/Arecont/SuperSpeedway.wmv - Shortcut.lnk Fri, 16 Jan 2015 22:39:09 GMT 1278
+shares/win7/Arecont/SuperSpeedway2.mp4 Thu, 06 Nov 2014 19:28:18 GMT 0
+shares/win7/Artbeats/1920x1080-Artbeats-3-v2.mp4 Tue, 22 Oct 2013 15:48:42 GMT 316804045
+shares/win7/Artbeats/1920x1080p30-Artbeats-3-v2.mp4 Tue, 22 Oct 2013 23:34:26 GMT 268755647
+shares/win7/Artbeats/Artbeats 4_1920x1080_2997_V_only.mp4 Fri, 19 Aug 2016 20:00:53 GMT 422215612
+shares/win7/Artbeats/Artbeats 5_37M_1920x1080_2997_V_only.mp4 Fri, 19 Aug 2016 17:46:14 GMT 409932902
+shares/win7/Artbeats/Artbeats1-5x2_1920x1080p30-50Mbps.mp4 Wed, 30 Dec 2015 00:58:42 GMT 5228568695
+shares/win7/Artbeats/Artbeats_1.mp4 Tue, 27 Aug 2013 23:45:34 GMT 412059858
+shares/win7/Artbeats/Artbeats_1.ts Tue, 14 Jan 2014 21:38:14 GMT 346060812
+shares/win7/Artbeats/Artbeats_1a-copy-test.mp4 Tue, 27 Aug 2013 23:45:34 GMT 412059858
+shares/win7/Artbeats/Artbeats_1b-copy-test.mp4 Tue, 27 Aug 2013 23:45:34 GMT 412059858
+shares/win7/Artbeats/Artbeats_1_1Mbps.ts Tue, 14 Jan 2014 22:13:32 GMT 12664620
+shares/win7/Artbeats/Artbeats_1_1Mbps.tsx Tue, 24 Feb 2015 17:44:56 GMT 766799
+shares/win7/Artbeats/Artbeats_1_25Mbps.mp4 Tue, 03 Sep 2013 14:22:09 GMT 342423126
+shares/win7/Artbeats/Artbeats_1_25Mbps_fast.mp4 Thu, 19 May 2016 14:41:43 GMT 342423812
+shares/win7/Artbeats/Artbeats_1_25_audio.mp4 Fri, 06 Dec 2013 21:26:44 GMT 346079232
+shares/win7/Artbeats/Artbeats_1_30Mbps.mp4 Tue, 27 Aug 2013 23:45:34 GMT 412059858
+shares/win7/Artbeats/Artbeats_1_30Mbps_fast.mp4 Wed, 03 Dec 2014 23:22:23 GMT 412060580
+shares/win7/Artbeats/Artbeats_2.mp4 Wed, 28 Aug 2013 13:47:11 GMT 338604840
+shares/win7/Artbeats/Artbeats_2_25Mbps.mp4 Tue, 03 Sep 2013 14:35:20 GMT 281815261
+shares/win7/Artbeats/Artbeats_2_25Mbps_fast.mp4 Fri, 24 Apr 2015 16:08:09 GMT 281815272
+shares/win7/Artbeats/Artbeats_3.mp4 Wed, 28 Aug 2013 13:53:14 GMT 327534146
+shares/win7/Artbeats/Artbeats_3_25Mbps-fast.mp4 Tue, 03 Mar 2015 17:01:24 GMT 281679649
+shares/win7/Artbeats/Artbeats_3_25Mbps.mp4 Tue, 03 Sep 2013 14:55:24 GMT 281679638
+shares/win7/Artbeats/Artbeats_3_25Mbps_2sec - Copy.mp4 Thu, 17 Oct 2013 14:54:25 GMT 7246661
+shares/win7/Artbeats/Artbeats_3_25Mbps_2sec-audio.mp4 Thu, 17 Oct 2013 15:01:54 GMT 7251759
+shares/win7/Artbeats/Artbeats_3_25Mbps_2sec.mp4 Thu, 17 Oct 2013 14:54:25 GMT 7246661
+shares/win7/Artbeats/Artbeats_4.mp4 Wed, 28 Aug 2013 13:57:13 GMT 263971843
+shares/win7/Artbeats/Artbeats_4_25Mbps.mp4 Tue, 03 Sep 2013 14:59:28 GMT 219489942
+shares/win7/Artbeats/Artbeats_4_25Mbps_fast.mp4 Fri, 24 Apr 2015 16:07:35 GMT 219489953
+shares/win7/Artbeats/Artbeats_5.mp4 Wed, 28 Aug 2013 14:01:36 GMT 275066366
+shares/win7/Artbeats/Artbeats_5_25Mbps.mp4 Tue, 03 Sep 2013 15:44:59 GMT 228332940
+shares/win7/Artbeats/Artbeats_5_25Mbps_fast.mp4 Fri, 24 Apr 2015 16:06:53 GMT 228332951
+shares/win7/Artbeats/live555/bipbop-gear1-all.ts Tue, 24 Feb 2015 17:39:15 GMT 46600312
+shares/win7/Artbeats/live555/bipbop-gear1-all.tsx Tue, 24 Feb 2015 17:38:56 GMT 3066580
+shares/win7/Artbeats/live555/live555MediaServer-0.85-10-20-14.exe Tue, 24 Feb 2015 17:24:50 GMT 329216
+shares/win7/Artbeats/live555/MPEG2TransportStreamIndexer.exe Tue, 24 Feb 2015 17:43:45 GMT 35840
+shares/win7/Artbeats/NAB_artifact/artbeats_football_2s.mp4 Tue, 21 Apr 2015 20:05:50 GMT 7630623
+shares/win7/Artbeats/NAB_artifact/artbeats_football_2s_0030.png Tue, 21 Apr 2015 20:11:00 GMT 2148085
+shares/win7/Artbeats/NAB_artifact/artbeats_football_2s_1888x1062.mp4 Wed, 22 Apr 2015 14:06:10 GMT 685904
+shares/win7/Artbeats/NAB_artifact/artbeats_football_2s_1904x1070.mp4 Wed, 22 Apr 2015 14:02:18 GMT 688342
+shares/win7/Artbeats/NAB_artifact/artbeats_football_2s_1904x1072.mp4 Wed, 22 Apr 2015 14:02:02 GMT 688293
+shares/win7/Artbeats/NAB_artifact/artbeats_football_2s_1912x1076.mp4 Wed, 22 Apr 2015 14:00:00 GMT 718133
+shares/win7/Artbeats/NAB_artifact/artbeats_football_3s.mp4 Thu, 18 Jun 2015 17:17:54 GMT 11404918
+shares/win7/Artbeats/NAB_artifact/artbeats_football_3s_1904x1070.mp4 Thu, 18 Jun 2015 17:45:18 GMT 1322398
+shares/win7/Artbeats/NAB_artifact/artbeats_football_4s.mp4 Thu, 18 Jun 2015 17:18:18 GMT 15298735
+shares/win7/Artbeats/NAB_artifact/artbeats_football_4s_1904x1070.mp4 Thu, 18 Jun 2015 17:45:46 GMT 2090194
+shares/win7/Artbeats/NAB_artifact/artbeats_football_5s.mp4 Thu, 18 Jun 2015 17:18:40 GMT 19499674
+shares/win7/Artbeats/NAB_artifact/artbeats_football_6s.mp4 Thu, 18 Jun 2015 17:19:48 GMT 23793031
+shares/win7/Artbeats/NAB_artifact/artbeats_parachute_2s.mp4 Tue, 21 Apr 2015 21:34:34 GMT 5408067
+shares/win7/Artbeats/NAB_artifact/EdgeArtifact.mp4 Wed, 22 Apr 2015 16:50:08 GMT 8491
+shares/win7/Artbeats/NAB_artifact/EdgeArtifact2.mp4 Wed, 22 Apr 2015 17:16:32 GMT 220891
+shares/win7/Artbeats/NAB_artifact/EdgeArtifact3.mp4 Wed, 22 Apr 2015 18:31:54 GMT 379916
+shares/win7/Artbeats/NAB_artifact/EdgeArtifact3_1920x1088.mp4 Wed, 22 Apr 2015 18:37:34 GMT 284244
+shares/win7/Artbeats/newPlaylist.jspf Wed, 12 Feb 2014 17:22:17 GMT 256
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec-10Mbps-aac-audio.avi Mon, 11 Jan 2016 19:08:48 GMT 61522454
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec-5Mbps-aac-audio.avi Mon, 11 Jan 2016 19:06:59 GMT 61481898
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec-aac-audio.avi Mon, 28 Dec 2015 23:13:48 GMT 258610696
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec-q10-aac-audio.avi Mon, 11 Jan 2016 19:15:29 GMT 98641978
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec-q2-aac-audio.avi Mon, 11 Jan 2016 19:16:20 GMT 258610696
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec-q20-aac-audio.avi Mon, 11 Jan 2016 19:10:44 GMT 67628508
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec-q3-aac-audio.avi Mon, 11 Jan 2016 19:17:04 GMT 198741470
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec-q5-aac-audio.avi Mon, 11 Jan 2016 19:10:11 GMT 147401762
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec.avi Mon, 28 Dec 2015 22:06:53 GMT 258434448
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-20sec.mp4 Wed, 13 Nov 2013 14:52:31 GMT 44004579
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-30fps-20sec.mp4 Wed, 13 Nov 2013 15:19:38 GMT 45690211
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_18Mbps-30fps-20sec.mp4 - Shortcut.lnk Wed, 27 Nov 2013 20:29:53 GMT 1385
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_20Mbps-30fps-20sec.mp4 Wed, 13 Nov 2013 15:26:39 GMT 50715274
+shares/win7/Artbeats/short_20s_versions/Artbeats_1_5Mbps-20sec.mp4 Wed, 18 May 2016 18:32:08 GMT 9701891
+shares/win7/Artbeats/short_20s_versions/Artbeats_3_20Mbps-30fps-20sec.mp4 Wed, 13 Nov 2013 15:34:01 GMT 51006585
+shares/win7/Artbeats/short_20s_versions/Artbeats_5_20Mbps-30fps-20sec.mp4 Wed, 13 Nov 2013 16:18:04 GMT 50207042
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_1_5Mbps-20sec_fast-caps.MP4 Tue, 11 Jul 2017 15:38:05 GMT 9701920
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_1_5Mbps-20sec_fast.mp4 Tue, 11 Jul 2017 15:38:05 GMT 9701920
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_2_5Mbps-20sec-fast-caps.Mp4 Wed, 18 May 2016 21:41:31 GMT 11071720
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_2_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:41:31 GMT 11071720
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_3_5Mbps-20sec-fast-caps.mP4 Wed, 18 May 2016 21:42:48 GMT 12157354
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_3_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:42:48 GMT 12157354
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_4_5Mbps-20sec-fast-caps.M4V Wed, 18 May 2016 21:44:21 GMT 10755334
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_4_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:44:21 GMT 10755334
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_5_5Mbps-20sec-fast-caps.m4v Wed, 18 May 2016 21:45:29 GMT 11458781
+shares/win7/Artbeats/short_fast_start_5Mbps/Artbeats_5_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:45:29 GMT 11458781
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly16khz-signed-16bit.wav Tue, 09 Dec 2014 18:51:18 GMT 23805936
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly22.050khz-signed-16bit.wav Tue, 09 Dec 2014 18:52:01 GMT 32807540
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly32khz-signed-16bit.wav Tue, 09 Dec 2014 18:46:20 GMT 47611832
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly44.1khz-signed-16bit.wav Tue, 09 Dec 2014 19:11:44 GMT 65615040
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-32bit-float.wav Tue, 09 Dec 2014 19:01:39 GMT 142835440
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-64bit-float.wav Tue, 09 Dec 2014 19:01:16 GMT 285670792
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-16bit.wav Tue, 09 Dec 2014 18:52:41 GMT 71417720
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-24bit.wav Tue, 09 Dec 2014 19:03:18 GMT 107126558
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-32bit.wav Tue, 09 Dec 2014 19:02:39 GMT 142835396
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-unsigned8bit.wav Tue, 09 Dec 2014 19:02:14 GMT 35708882
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-32bit-float.wav Tue, 09 Dec 2014 18:59:42 GMT 285670792
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-64bit-float.wav Tue, 09 Dec 2014 19:00:16 GMT 571341496
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-16bit.wav Tue, 09 Dec 2014 18:54:56 GMT 142835396
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-24bit.wav Tue, 09 Dec 2014 18:57:18 GMT 214253072
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-32bit.wav Tue, 09 Dec 2014 18:58:04 GMT 285670748
+shares/win7/Artbeats/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-unsigned8bit.wav Tue, 09 Dec 2014 18:58:48 GMT 71417720
+shares/win7/Artbeats/test6.m3u Wed, 29 Jul 2015 18:43:07 GMT 183
+shares/win7/Artbeats/Thumbs.db Wed, 13 Nov 2013 16:21:32 GMT 171520
+shares/win7/Artbeats/withMusic/Artbeats_1_25M_music_fast.mp4 Wed, 17 Feb 2016 16:23:14 GMT 318342026
+shares/win7/Artbeats/withMusic/Artbeats_1_25M_music_fast_1.MP4 Wed, 17 Feb 2016 16:23:14 GMT 318342026
+shares/win7/Artbeats/withMusic/Artbeats_2_25M_music_fast.mp4 Wed, 17 Feb 2016 17:16:34 GMT 265777386
+shares/win7/Artbeats/withMusic/Artbeats_3_25M_music_fast.mp4 Wed, 17 Feb 2016 20:32:34 GMT 253864857
+shares/win7/Artbeats/withMusic/Artbeats_4_25M_music_fast.mp4 Wed, 17 Feb 2016 17:32:40 GMT 208844345
+shares/win7/Artbeats/withMusic/Artbeats_5_25M_music_fast.mp4 Wed, 17 Feb 2016 20:39:10 GMT 214242172
+shares/win7/Artbeats-frames/Artbeats_1.mp4 Wed, 17 Feb 2016 15:43:03 GMT 634855018
+shares/win7/Artbeats-frames/Artbeats_1.MPG Mon, 24 May 2010 11:17:48 GMT 495606164
+shares/win7/Artbeats-frames/Artbeats_1.MPG - Shortcut.lnk Tue, 27 Aug 2013 20:24:00 GMT 1198
+shares/win7/Artbeats-frames/Artbeats_1_18Mbps-20sec.mp4 Wed, 13 Nov 2013 14:52:31 GMT 44004579
+shares/win7/Artbeats-frames/Artbeats_1_18Mbps-30sec.mp4 Wed, 13 Nov 2013 14:48:54 GMT 65852869
+shares/win7/Artbeats-frames/Artbeats_1_20Mbps-30fps-20sec.mp4 Wed, 13 Nov 2013 15:26:39 GMT 50715274
+shares/win7/Artbeats-frames/Artbeats_1_20Mbps.mp4 Wed, 13 Nov 2013 14:44:19 GMT 148148035
+shares/win7/Artbeats-frames/Artbeats_1_25M_ac3-320k.mpg Tue, 19 Dec 2017 22:59:58 GMT 60452864
+shares/win7/Artbeats-frames/Artbeats_1_25M_music_fast.mp4 Wed, 17 Feb 2016 16:23:12 GMT 318342026
+shares/win7/Artbeats-frames/Artbeats_1_QS8_16M_ac3-192k-dvd.mp4 Thu, 28 Dec 2017 21:17:45 GMT 180082151
+shares/win7/Artbeats-frames/Artbeats_1_QS8_16M_ac3-192k-dvd.mpg Wed, 20 Dec 2017 21:03:21 GMT 183062528
+shares/win7/Artbeats-frames/Artbeats_1_QS8_16M_ac3-192k-dvd.ts Thu, 28 Dec 2017 21:29:07 GMT 194633768
+shares/win7/Artbeats-frames/Artbeats_1_QS8_16M_AIFF.mpg Thu, 28 Dec 2017 18:56:07 GMT 199378944
+shares/win7/Artbeats-frames/Artbeats_1_QS8_16M_AIFF_10s.mpg Thu, 28 Dec 2017 19:00:26 GMT 17649664
+shares/win7/Artbeats-frames/Artbeats_1_QS8_16M_mp1-2-192k-dvd.mpg Wed, 20 Dec 2017 21:18:12 GMT 182255616
+shares/win7/Artbeats-frames/Artbeats_2.mp4 Tue, 03 Sep 2013 14:30:52 GMT 91763889
+shares/win7/Artbeats-frames/Artbeats_2.MPG Mon, 24 May 2010 10:43:03 GMT 410002808
+shares/win7/Artbeats-frames/Artbeats_2_25M_music_fast.mp4 Wed, 17 Feb 2016 17:16:33 GMT 265777386
+shares/win7/Artbeats-frames/Artbeats_3.MPG Mon, 24 May 2010 13:23:36 GMT 414090304
+shares/win7/Artbeats-frames/Artbeats_3_20Mbps-30fps-20sec.mp4 Wed, 13 Nov 2013 15:34:01 GMT 51006585
+shares/win7/Artbeats-frames/Artbeats_3_25Mbps_2sec-audio.mp4 Thu, 17 Oct 2013 15:01:54 GMT 7251759
+shares/win7/Artbeats-frames/Artbeats_3_25Mbps_2sec.mp4 Thu, 17 Oct 2013 14:54:25 GMT 7246661
+shares/win7/Artbeats-frames/Artbeats_3_25M_fast.mp4 Wed, 17 Feb 2016 17:43:01 GMT 252396633
+shares/win7/Artbeats-frames/Artbeats_3_25M_music_fast.mp4 Wed, 17 Feb 2016 20:32:33 GMT 253864857
+shares/win7/Artbeats-frames/Artbeats_4.MPG Mon, 24 May 2010 13:19:37 GMT 317632956
+shares/win7/Artbeats-frames/Artbeats_4_25Mbps.mp4 Tue, 03 Sep 2013 14:59:28 GMT 219489942
+shares/win7/Artbeats-frames/Artbeats_4_25M_music_fast.mp4 Wed, 17 Feb 2016 17:32:39 GMT 208844345
+shares/win7/Artbeats-frames/Artbeats_5.MPG Mon, 24 May 2010 15:09:26 GMT 330848980
+shares/win7/Artbeats-frames/Artbeats_5_20Mbps-30fps-20sec.mp4 Wed, 13 Nov 2013 16:18:04 GMT 50207042
+shares/win7/Artbeats-frames/Artbeats_5_25Mbps.mp4 Tue, 03 Sep 2013 15:44:59 GMT 228332940
+shares/win7/Artbeats-frames/Artbeats_5_25M_fast.mp4 Wed, 17 Feb 2016 18:13:32 GMT 213015872
+shares/win7/Artbeats-frames/Artbeats_5_25M_music_fast.mp4 Wed, 17 Feb 2016 20:39:09 GMT 214242172
+shares/win7/Artbeats-frames/audio/Absolute Oblivion - The signal_Art_3.aiff Thu, 28 Dec 2017 18:50:47 GMT 16896058
+shares/win7/Artbeats-frames/audio/Absolute Oblivion - The signal_Art_3.aiff.wav Thu, 28 Dec 2017 18:50:47 GMT 16896058
+shares/win7/Artbeats-frames/audio/Absolute Oblivion - The signal_Art_3.wav Wed, 17 Feb 2016 19:09:54 GMT 16897977
+shares/win7/Artbeats-frames/audio/Broad Scope - Warp_Art_2.wav Tue, 16 Feb 2016 00:31:28 GMT 17473946
+shares/win7/Artbeats-frames/audio/Clear Vision - Rain_Art_4.wav Tue, 16 Feb 2016 00:42:18 GMT 13477867
+shares/win7/Artbeats-frames/audio/Kickin' Back - New day_Art_5.wav Wed, 17 Feb 2016 19:35:10 GMT 14209954
+shares/win7/Artbeats-frames/audio/Simplify - Breathe_Art_1.aiff Thu, 28 Dec 2017 18:52:23 GMT 21145830
+shares/win7/Artbeats-frames/audio/Simplify - Breathe_Art_1.aiff.wav Thu, 28 Dec 2017 18:52:23 GMT 21145830
+shares/win7/Artbeats-frames/audio/Simplify - Breathe_Art_1.wav Tue, 16 Feb 2016 00:21:39 GMT 21147717
+shares/win7/Artbeats-frames/audio/tone/2sec-1k-2k-48k.aup Thu, 17 Oct 2013 14:59:49 GMT 1365
+shares/win7/Artbeats-frames/audio/tone/2sec-1k-2k-48k.wav Thu, 17 Oct 2013 15:00:04 GMT 384044
+shares/win7/Artbeats-frames/audio/tone/2sec-1k-2k-48k.wav - Shortcut.lnk Thu, 17 Oct 2013 15:00:42 GMT 1369
+shares/win7/Artbeats-frames/audio/tone/2sec-1k-2k-48k_data/e00/d00/e000056c.au Thu, 17 Oct 2013 14:59:06 GMT 390212
+shares/win7/Artbeats-frames/audio/tone/2sec-1k-2k-48k_data/e00/d00/e0000e9f.au Thu, 17 Oct 2013 14:58:45 GMT 390212
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-FighterPilot/1280x720p48-422-FighterPilot.cpl.xml Fri, 08 Mar 2013 19:15:22 GMT 1353
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-FighterPilot/ASSETMAP Fri, 08 Mar 2013 19:15:22 GMT 1568
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-FighterPilot/packinglist.pkl.xml Fri, 08 Mar 2013 19:15:22 GMT 1283
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-FighterPilot/reel_1_video.mxf Fri, 08 Mar 2013 19:15:14 GMT 1631638070
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-MagicOfFlight/1280x720p48-422-MagicOfFlight.cpl.xml Fri, 08 Mar 2013 19:33:28 GMT 1353
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-MagicOfFlight/ASSETMAP Fri, 08 Mar 2013 19:33:28 GMT 1569
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-MagicOfFlight/packinglist.pkl.xml Fri, 08 Mar 2013 19:33:28 GMT 1290
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-MagicOfFlight/reel_1_audio.mxf Fri, 08 Mar 2013 19:33:23 GMT 23546510
+shares/win7/Artbeats-frames/encoded/1280x720p48-422-MagicOfFlight/reel_1_video.mxf Fri, 08 Mar 2013 19:33:22 GMT 1329285990
+shares/win7/Artbeats-frames/encoded/1920x1080p23.98-422-MagicOfFlight/1920x1080p23.98-422-MagicOfFlight.cpl.xml Fri, 08 Mar 2013 19:43:18 GMT 1371
+shares/win7/Artbeats-frames/encoded/1920x1080p23.98-422-MagicOfFlight/ASSETMAP Fri, 08 Mar 2013 19:43:18 GMT 1573
+shares/win7/Artbeats-frames/encoded/1920x1080p23.98-422-MagicOfFlight/packinglist.pkl.xml Fri, 08 Mar 2013 19:43:18 GMT 1290
+shares/win7/Artbeats-frames/encoded/1920x1080p23.98-422-MagicOfFlight/reel_1_audio.mxf Fri, 08 Mar 2013 19:43:13 GMT 23520092
+shares/win7/Artbeats-frames/encoded/1920x1080p23.98-422-MagicOfFlight/reel_1_video.mxf Fri, 08 Mar 2013 19:43:12 GMT 1165200288
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_2/1920x1080p29.97-422-Artbeats_2.cpl.xml Fri, 08 Mar 2013 16:28:14 GMT 1371
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_2/ASSETMAP Fri, 08 Mar 2013 16:28:14 GMT 1570
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_2/packinglist.pkl.xml Fri, 08 Mar 2013 16:28:14 GMT 1289
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_2/reel_1_audio.mxf Fri, 08 Mar 2013 16:28:05 GMT 1942940
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_2/reel_1_video.mxf Fri, 08 Mar 2013 16:28:04 GMT 1066573812
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_3/1920x1080p29.97-422-Artbeats_3.cpl.xml Fri, 08 Mar 2013 16:33:44 GMT 1371
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_3/ASSETMAP Fri, 08 Mar 2013 16:33:44 GMT 1570
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_3/packinglist.pkl.xml Fri, 08 Mar 2013 16:33:44 GMT 1289
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_3/reel_1_audio.mxf Fri, 08 Mar 2013 16:33:39 GMT 1942940
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_3/reel_1_video.mxf Fri, 08 Mar 2013 16:33:39 GMT 1063159574
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_4/1920x1080p29.97-422-Artbeats_4.cpl.xml Fri, 08 Mar 2013 16:39:40 GMT 1371
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_4/ASSETMAP Fri, 08 Mar 2013 16:39:40 GMT 1570
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_4/packinglist.pkl.xml Fri, 08 Mar 2013 16:39:40 GMT 1288
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_4/reel_1_audio.mxf Fri, 08 Mar 2013 16:39:27 GMT 1942940
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_4/reel_1_video.mxf Fri, 08 Mar 2013 16:39:27 GMT 825864058
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_5/1920x1080p29.97-422-Artbeats_5.cpl.xml Fri, 08 Mar 2013 16:43:57 GMT 1371
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_5/ASSETMAP Fri, 08 Mar 2013 16:43:57 GMT 1570
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_5/packinglist.pkl.xml Fri, 08 Mar 2013 16:43:57 GMT 1288
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_5/reel_1_audio.mxf Fri, 08 Mar 2013 16:43:53 GMT 1942940
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Artbeats_5/reel_1_video.mxf Fri, 08 Mar 2013 16:43:53 GMT 859013643
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Shuttle/1920x1080p29.97-422-Shuttle.cpl.xml Fri, 08 Mar 2013 19:26:10 GMT 1371
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Shuttle/ASSETMAP Fri, 08 Mar 2013 19:26:10 GMT 1567
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Shuttle/packinglist.pkl.xml Fri, 08 Mar 2013 19:26:10 GMT 1290
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Shuttle/reel_1_audio.mxf Fri, 08 Mar 2013 19:25:52 GMT 30545794
+shares/win7/Artbeats-frames/encoded/1920x1080p29.97-422-Shuttle/reel_1_video.mxf Fri, 08 Mar 2013 19:25:47 GMT 1763473977
+shares/win7/Artbeats-frames/encoded/artbeats.epr Fri, 08 Mar 2013 16:19:22 GMT 1843
+shares/win7/Artbeats-frames/FF-batch.txt Mon, 21 Oct 2013 20:41:27 GMT 10483
+shares/win7/Artbeats-frames/FighterPilot.wmv Mon, 13 Mar 2006 23:52:48 GMT 172769872
+shares/win7/Artbeats-frames/FighterPilot.wmv - Shortcut.lnk Wed, 28 Aug 2013 16:18:12 GMT 1256
+shares/win7/Artbeats-frames/shuttle.mpg Sun, 23 May 2010 02:29:28 GMT 415492100
+shares/win7/Artbeats-frames/The_Magic_of_Flight_1080.wmv Thu, 15 Apr 2004 15:00:00 GMT 129228341
+shares/win7/Artbeats-frames/The_Magic_of_Flight_720.wmv Thu, 15 Apr 2004 15:00:00 GMT 99765154
+shares/win7/Artbeats-frames/Thumbs.db Thu, 17 Oct 2013 15:12:33 GMT 34816
+shares/win7/Audio/10secStep20-20k-1kstepabove10k-revB-audioOnly.m4a Tue, 30 Jul 2013 15:56:06 GMT 5990929
+shares/win7/Audio/1920x1080p30-HP-L4.2-10Mbps-48k-Audio-0.99972FSD-noClipping.mp4 Tue, 09 Apr 2013 19:55:22 GMT 16884127
+shares/win7/Audio/classical/2L-038SACD_tr1_mch_96kHz.flac Sat, 02 Jan 2016 06:17:58 GMT 493852717
+shares/win7/Audio/classical/2L-048SACD_14_2ch_48k_128k.mp3 Mon, 01 Aug 2016 14:59:14 GMT 5021943
+shares/win7/Audio/classical/2L-048SACD_14_2ch_48k_128k_normal.mp3 Mon, 01 Aug 2016 15:23:02 GMT 5022118
+shares/win7/Audio/classical/2L-048SACD_14_mch_96k.flac Sat, 02 Jan 2016 06:18:58 GMT 215507788
+shares/win7/Audio/classical/2L-048SACD_14_Ola_Gjeilo_mch_96k.flac Sun, 10 Jan 2016 05:42:22 GMT 215507788
+shares/win7/Audio/classical/2L-093_2ch-48k-1130k-art.mp3 Tue, 14 Jun 2016 21:46:14 GMT 10072240
+shares/win7/Audio/classical/2L-093_2ch-48k-320k.mp3 Tue, 14 Jun 2016 21:49:17 GMT 9140636
+shares/win7/Audio/classical/2L-093_5-1ch-48k-1130k-5-1ch.mp3 Tue, 14 Jun 2016 22:05:51 GMT 9140636
+shares/win7/Audio/classical/2L-093_5-1ch-48k-1130k-c1FL-c2FR.mp3 Tue, 14 Jun 2016 22:00:16 GMT 9140636
+shares/win7/Audio/classical/2L-093_mch-96kHz_03.flac Sat, 02 Jan 2016 06:41:36 GMT 178018263
+shares/win7/Audio/classical/2L-106_mch_PCM-48k_MAGNIFICAT_04.mp4 Wed, 17 Feb 2016 21:47:01 GMT 11902830
+shares/win7/Audio/classical/2L-106_mch_PCM-48k_MAGNIFICAT_04.wav Wed, 17 Feb 2016 22:13:20 GMT 85021800
+shares/win7/Audio/classical/2L-106_mch_PCM-48k_MAGNIFICAT_04_128k.mp3 Mon, 01 Aug 2016 14:46:22 GMT 4724688
+shares/win7/Audio/classical/2L-106_mch_PCM-48k_MAGNIFICAT_04_normal_128k.mp3 Mon, 01 Aug 2016 15:34:04 GMT 4724646
+shares/win7/Audio/classical/2L-106_mch_PCM-96k_MAGNIFICAT_04.flac Sat, 02 Jan 2016 06:15:10 GMT 213815134
+shares/win7/Audio/classical/2L-106_mch_PCM-96k_MAGNIFICAT_04.mp4 Wed, 17 Feb 2016 21:41:33 GMT 11902830
+shares/win7/Audio/classical/convert-to-wav.txt Wed, 17 Feb 2016 22:23:56 GMT 1008
+shares/win7/Audio/classical/youtube/Ana Vidovic plays 'El Marabino' by Antonio Lauro ã‚¯ãƒ©ã‚·ãƒƒã‚¯ã‚®ã‚¿ãƒ¼.mp4 Sun, 07 Feb 2016 05:56:58 GMT 32538677
+shares/win7/Audio/classical/youtube/Ana Vidovic plays 'La Catedral' by AugustÃ­n Barrios MangorÃ©-q1.mp3 Tue, 06 Dec 2016 21:52:43 GMT 11218338
+shares/win7/Audio/classical/youtube/Ana Vidovic plays 'La Catedral' by AugustÃ­n Barrios MangorÃ©.mp4 Sun, 07 Feb 2016 05:20:32 GMT 113034883
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Allegro BWV 998 by J. S. Bach ã‚¯ãƒ©ã‚·ãƒƒã‚¯ã‚®ã‚¿ãƒ¼.mp4 Sun, 07 Feb 2016 05:46:00 GMT 54443621
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Asturias by Isaac AlbÃ©niz-q1.mp3 Tue, 06 Dec 2016 21:49:37 GMT 9927186
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Asturias by Isaac AlbÃ©niz.mp4 Sun, 07 Feb 2016 05:16:14 GMT 105179670
+shares/win7/Audio/classical/youtube/Ana Vidovic plays El Vito by JosÃ© de Azpiazu ã‚¯ãƒ©ã‚·ãƒƒã‚¯ã‚®ã‚¿ãƒ¼.mp4 Sun, 07 Feb 2016 05:56:04 GMT 33354091
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Fugue BWV 998 by J. S. Bach.mp4 Sun, 07 Feb 2016 05:46:38 GMT 92423136
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Granada by Isaac AlbÃ©niz.mp4 Sun, 07 Feb 2016 05:54:22 GMT 76433271
+shares/win7/Audio/classical/youtube/Ana Vidovic plays introduction and variations on a Theme by .mp4 Sun, 07 Feb 2016 06:02:26 GMT 130053826
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Prelude BWV 998 by J. S. Bach.mp4 Sun, 07 Feb 2016 06:04:04 GMT 43838371
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Recuerdos de la Alhambra by Francisco TÃ¡rr-1.mp4 Sun, 07 Feb 2016 05:48:44 GMT 65270258
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Recuerdos de la Alhambra by Francisco TÃ¡rr-q1.mp3 Tue, 06 Dec 2016 21:53:38 GMT 7017810
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Recuerdos de la Alhambra by Francisco TÃ¡rr.mp4 Sun, 07 Feb 2016 05:21:30 GMT 65270258
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Sonatina - II. Andante by Federico Moreno .mp4 Sun, 07 Feb 2016 06:03:26 GMT 72440588
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Sonatina by Federico Moreno Torroba.mp4 Sun, 07 Feb 2016 06:03:06 GMT 60115196
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Vals Venezolano No. 2 by Antonio Lauro ã‚¯ãƒ©ã‚·-1.mp4 Sun, 07 Feb 2016 06:04:54 GMT 20797980
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Vals Venezolano No. 2 by Antonio Lauro ã‚¯ãƒ©ã‚·.mp4 Sun, 07 Feb 2016 05:58:48 GMT 20797980
+shares/win7/Audio/classical/youtube/Ana Vidovic plays Yesterday Arr. ToÌ„ru Takemitsu ã‚¯ãƒ©ã‚·ãƒƒã‚¯ã‚®ã‚¿ãƒ¼.mp4 Sun, 07 Feb 2016 05:55:04 GMT 48301007
+shares/win7/Audio/classical/youtube/AnaVidovic-IsaacAlbeniz.mp4 Sun, 07 Feb 2016 05:16:14 GMT 105179670
+shares/win7/Audio/classical/youtube/AnaVidovic-LaCatedral.mp4 Sun, 07 Feb 2016 05:20:32 GMT 113034883
+shares/win7/Audio/classical/youtube/Chateau_de_Chenonceau_2008E.png Wed, 23 Oct 2013 15:49:34 GMT 3968632
+shares/win7/Audio/classical/youtube/Gabriel FaurÃ© - Pavane, Op. 50 Cracow Young Philharmonic.mp4 Sun, 31 Jan 2016 06:33:58 GMT 140289867
+shares/win7/Audio/classical/youtube/Gabriel FaurÃ© - Pavane, Op. 50, Young Cracow Philharmonic Kr.mp4 Sun, 31 Jan 2016 06:22:08 GMT 108264733
+shares/win7/Audio/classical/youtube/simple-names/AnaVidovicAsturias.mp3 Tue, 06 Dec 2016 21:49:37 GMT 9927186
+shares/win7/Audio/classical/youtube/simple-names/AnaVidovicLaCatedral.mp3 Tue, 06 Dec 2016 21:52:43 GMT 11218338
+shares/win7/Audio/classical/youtube/simple-names/AnaVidovicRecuerdosdelaAlhambra.mp3 Tue, 06 Dec 2016 21:53:38 GMT 7017810
+shares/win7/Audio/classical/youtube/test/Ana Vidovic plays Recuerdos de la Alhambra by Francisco TÃ¡rr-1.mp4 Sun, 07 Feb 2016 05:48:44 GMT 65270258
+shares/win7/Audio/classical/youtube/test/AnaVidovic-IsaacAlbeniz.mp4 Sun, 07 Feb 2016 05:16:14 GMT 105179670
+shares/win7/Audio/classical/youtube/test/AnaVidovic-LaCatedral.mp4 Sun, 07 Feb 2016 05:20:32 GMT 113034883
+shares/win7/Audio/G.711/20-4k_3.17dBu_0.128FS.aup Mon, 27 Apr 2015 22:53:05 GMT 1341
+shares/win7/Audio/G.711/20-4k_3.17dBu_0.128FS_data/e00/d00/e000029f.au Mon, 27 Apr 2015 22:52:11 GMT 972380
+shares/win7/Audio/G.711/20-4k_3.17dBu_0.128FS_data/e00/d00/e000061c.au Mon, 27 Apr 2015 22:52:57 GMT 972380
+shares/win7/Audio/G.711/G711_sweep_20-4k_at_3.17dBu_0.128FS_1ch.raw Mon, 27 Apr 2015 22:52:41 GMT 240000
+shares/win7/Audio/G.711/G711_sweep_20-4k_at_3.17dBu_0.128FS_1ch.wav Mon, 27 Apr 2015 22:55:44 GMT 240058
+shares/win7/Audio/G.711/G711_sweep_20-4k_at_3.17dBu_0.128FS_2ch.raw Mon, 27 Apr 2015 22:53:22 GMT 480000
+shares/win7/Audio/G.711/G711_sweep_20-4k_at_3.17dBu_0.128FS_2ch.wav Mon, 27 Apr 2015 22:55:12 GMT 480058
+shares/win7/Audio/G.711/G726_sweep_20-4k_at_3.17dBu_0.128FS_1ch_ADPCM_IMA.wav Mon, 27 Apr 2015 23:10:58 GMT 121916
+shares/win7/Audio/G.711/G726_sweep_20-4k_at_3.17dBu_0.128FS_1ch_ADPCM_MS.wav Mon, 27 Apr 2015 23:01:43 GMT 122970
+shares/win7/Audio/G.711/G726_sweep_20-4k_at_3.17dBu_0.128FS_2ch_ADPCM_IMA.wav Mon, 27 Apr 2015 23:10:17 GMT 243772
+shares/win7/Audio/G.711/G726_sweep_20-4k_at_3.17dBu_0.128FS_2ch_ADPCM_MS.wav Mon, 27 Apr 2015 23:02:58 GMT 245850
+shares/win7/Audio/G.711/Sales_narration_uLaw_mono_8k_short.wav Wed, 27 May 2015 14:12:58 GMT 108164
+shares/win7/Audio/IAID46688-now_activated.wav Mon, 09 Sep 2013 14:36:38 GMT 46958
+shares/win7/Audio/mp3/multichannel/2L-106_mch_48k_MAGNIFICAT_04_24b_320k.mp3 Wed, 15 Jun 2016 20:47:52 GMT 11810880
+shares/win7/Audio/mp3/multichannel/2L-106_mch_48k_MAGNIFICAT_04_24b_320k_q1.mp3 Wed, 15 Jun 2016 21:12:02 GMT 11810880
+shares/win7/Audio/mp3/multichannel/multichannel-48k-3f-2s-LFE-16b.mp3 Wed, 15 Jun 2016 13:12:38 GMT 403200
+shares/win7/Audio/mp3/multichannel/multichannel-48k-3f-2s-LFE-16b.wav Wed, 15 Jun 2016 13:12:38 GMT 5760044
+shares/win7/Audio/mp3/multichannel/multichannel-48k-6c-16b.mp3 Wed, 15 Jun 2016 15:16:06 GMT 241920
+shares/win7/Audio/mp3/multichannel/multi_ID_5chLFE2_44k_16b.mp3 Wed, 15 Jun 2016 20:22:32 GMT 720526
+shares/win7/Audio/mp3/multichannel/multi_ID_5chLFE_44k_16b.mp3 Wed, 15 Jun 2016 20:16:34 GMT 720526
+shares/win7/Audio/mp3/multichannel/multi_ID_6ch_44k_16b.mp3 Wed, 15 Jun 2016 19:57:42 GMT 720526
+shares/win7/Audio/mp3/multichannel/multi_ID_LFE2-48k-16b-192k.mp3 Wed, 15 Jun 2016 20:35:40 GMT 721728
+shares/win7/Audio/mp3/multichannel/multi_ID_LFE2-48k-16b-320k.mp3 Wed, 15 Jun 2016 20:36:12 GMT 1202880
+shares/win7/Audio/mp3/multichannel/multi_ID_LFE2-48k-24b-192k.mp3 Wed, 15 Jun 2016 20:37:50 GMT 721728
+shares/win7/Audio/mp3/multichannel/multi_ID_LFE2-48k-24b-320k-q1.mp3 Wed, 15 Jun 2016 21:12:56 GMT 1202880
+shares/win7/Audio/mp3/multichannel/multi_ID_LFE2-48k-24b-320k.mp3 Wed, 15 Jun 2016 20:36:50 GMT 1202880
+shares/win7/Audio/mp3/RedHotChilliPeppers-CantStop-44k-128k-mp1-L2.mpeg Tue, 26 Jul 2016 21:05:16 GMT 4312085
+shares/win7/Audio/mp3/RedHotChilliPeppers-CantStop-44k-128k-vlc-mpg-ps-mp2L2.mp2 Tue, 26 Jul 2016 16:33:42 GMT 4420333
+shares/win7/Audio/mp3/RedHotChilliPeppers-CantStop-44k-128k-vlc-mpg-ps-mp2L2.mp3 Tue, 26 Jul 2016 16:33:42 GMT 4420333
+shares/win7/Audio/mp3/RedHotChilliPeppers-CantStop-44k-128k-vlc-mpg-ps-mp2L2.mpg Tue, 26 Jul 2016 16:33:42 GMT 4420333
+shares/win7/Audio/RedHotChilliPeppers-CantStop-11k-VBR.mp3 Tue, 14 Jun 2016 21:35:58 GMT 2157891
+shares/win7/Audio/RedHotChilliPeppers-CantStop-12k-VBR.mp3 Tue, 14 Jun 2016 21:36:07 GMT 2157682
+shares/win7/Audio/RedHotChilliPeppers-CantStop-16b-44k.wav Thu, 16 Jun 2016 15:36:52 GMT 47536172
+shares/win7/Audio/RedHotChilliPeppers-CantStop-16k-128k.m4a Fri, 22 Jan 2016 23:24:03 GMT 4338236
+shares/win7/Audio/RedHotChilliPeppers-CantStop-16k-160k.mp3 Tue, 14 Jun 2016 21:28:24 GMT 5391538
+shares/win7/Audio/RedHotChilliPeppers-CantStop-22k-160k.mp3 Tue, 14 Jun 2016 21:29:29 GMT 5391329
+shares/win7/Audio/RedHotChilliPeppers-CantStop-24k-160k.mp3 Tue, 14 Jun 2016 21:29:36 GMT 5391058
+shares/win7/Audio/RedHotChilliPeppers-CantStop-32k-128k.mp3 Tue, 14 Jun 2016 21:10:45 GMT 4312690
+shares/win7/Audio/RedHotChilliPeppers-CantStop-44k-128k-vlc-mp1.mp3 Tue, 26 Jul 2016 16:07:00 GMT 4420333
+shares/win7/Audio/RedHotChilliPeppers-CantStop-44k-128k-vlc.mp1 Tue, 26 Jul 2016 16:07:00 GMT 4420333
+shares/win7/Audio/RedHotChilliPeppers-CantStop-44k-128k.mp3 Tue, 14 Jun 2016 21:25:14 GMT 4312679
+shares/win7/Audio/RedHotChilliPeppers-CantStop-48k-128k.mp3 Tue, 14 Jun 2016 21:13:07 GMT 4312498
+shares/win7/Audio/RedHotChilliPeppers-CantStop-48k-320k.mp3 Tue, 14 Jun 2016 21:27:03 GMT 10780978
+shares/win7/Audio/RedHotChilliPeppers-CantStop-8k-128k.m4a Fri, 22 Jan 2016 23:22:35 GMT 735676
+shares/win7/Audio/RedHotChilliPeppers-CantStop-8k-VBR.mp3 Tue, 14 Jun 2016 21:35:07 GMT 2158738
+shares/win7/Audio/RedHotChilliPeppers-CantStop.m4a Tue, 30 Jul 2013 16:16:21 GMT 4366040
+shares/win7/Audio/RedHotChilliPeppers-CantStop.mp3 Mon, 22 Dec 2014 19:53:03 GMT 4312026
+shares/win7/Audio/RedHotChilliPeppers-CantStop.wma Wed, 26 Apr 2006 00:34:58 GMT 4344141
+shares/win7/Audio/RedHotChilliPeppers-CantStopmp2.mp3 Tue, 26 Jul 2016 15:24:56 GMT 5385170
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly16khz-signed-16bit.wav Tue, 09 Dec 2014 18:51:18 GMT 23805936
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly22.050khz-signed-16bit.wav Tue, 09 Dec 2014 18:52:01 GMT 32807540
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly32khz-signed-16bit.wav Tue, 09 Dec 2014 18:46:20 GMT 47611832
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly44.1khz-signed-16bit.wav Tue, 09 Dec 2014 19:11:44 GMT 65615040
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-32bit-float.wav Tue, 09 Dec 2014 19:01:39 GMT 142835440
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-64bit-float.wav Tue, 09 Dec 2014 19:01:16 GMT 285670792
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-16bit.wav Tue, 09 Dec 2014 18:52:41 GMT 71417720
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-24bit.wav Tue, 09 Dec 2014 19:03:18 GMT 107126558
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-32bit.wav Tue, 09 Dec 2014 19:02:39 GMT 142835396
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-unsigned8bit.wav Tue, 09 Dec 2014 19:02:14 GMT 35708882
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-32bit-float.wav Tue, 09 Dec 2014 18:59:42 GMT 285670792
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-64bit-float.wav Tue, 09 Dec 2014 19:00:16 GMT 571341496
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-16bit.wav Tue, 09 Dec 2014 18:54:56 GMT 142835396
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-24bit.wav Tue, 09 Dec 2014 18:57:18 GMT 214253072
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-32bit.wav Tue, 09 Dec 2014 18:58:04 GMT 285670748
+shares/win7/Audio/spec-test/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-unsigned8bit.wav Tue, 09 Dec 2014 18:58:48 GMT 71417720
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly16khz-signed-16bit.wav Tue, 09 Dec 2014 18:51:18 GMT 23805936
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly22.050khz-signed-16bit.wav Tue, 09 Dec 2014 18:52:01 GMT 32807540
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly32khz-signed-16bit.wav Tue, 09 Dec 2014 18:46:20 GMT 47611832
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly44.1khz-signed-16bit.wav Tue, 09 Dec 2014 19:11:44 GMT 65615040
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-32bit-float.wav Tue, 09 Dec 2014 19:01:39 GMT 142835440
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-64bit-float.wav Tue, 09 Dec 2014 19:01:16 GMT 285670792
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-16bit.wav Tue, 09 Dec 2014 18:52:41 GMT 71417720
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-24bit.wav Tue, 09 Dec 2014 19:03:18 GMT 107126558
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-signed-32bit.wav Tue, 09 Dec 2014 19:02:39 GMT 142835396
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly48khz-unsigned8bit.wav Tue, 09 Dec 2014 19:02:14 GMT 35708882
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-16bit.wav Tue, 09 Dec 2014 18:54:56 GMT 142835396
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-24bit.wav Tue, 09 Dec 2014 18:57:18 GMT 214253072
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-signed-32bit.wav Tue, 09 Dec 2014 18:58:04 GMT 285670748
+shares/win7/Audio/spec-test/short-audio/10secStep20-20k-1kstepabove10k-revC-audioOnly96khz-unsigned8bit.wav Tue, 09 Dec 2014 18:58:48 GMT 71417720
+shares/win7/Audio/spec-test/spec-test-listing.txt Wed, 22 Mar 2017 20:50:55 GMT 2094
+shares/win7/Audio/temp2/06_-_The_Attitude_Song_Red_Hot_Chilli_Peppers-CantStop - Copy.mp3 Mon, 22 Dec 2014 19:53:03 GMT 4312026
+shares/win7/Audio/temp2/06_-_The_Attitude_Song_Red_Hot_Chilli_Peppers-CantStop-encryp-int.mp3 Mon, 22 Dec 2014 19:53:03 GMT 4312026
+shares/win7/Audio/temp2/06_-_The_Attitude_Song_Red_Hot_Chilli_Peppers-CantStop-encrypted.mp3 Fri, 21 Oct 2016 17:30:36 GMT 4286010
+shares/win7/Audio/temp2/RedHotChilliPeppers-CantStop.mp3 Mon, 22 Dec 2014 19:53:03 GMT 4312026
+shares/win7/Audio/temp2/tones-320kbps-48khz.mp3 Fri, 21 Oct 2016 17:38:06 GMT 402240
+shares/win7/Audio/temp2/tones-8kbps-8khz.mp3 Fri, 21 Oct 2016 17:38:46 GMT 10152
+shares/win7/Audio/tones/playlist/1-tones-256kbps-48khz.mp3 Fri, 21 Oct 2016 18:05:58 GMT 321792
+shares/win7/Audio/tones/playlist/2-tones-320kbps-48khz.mp3 Fri, 21 Oct 2016 17:38:06 GMT 402240
+shares/win7/Audio/tones/playlist/3-tones-320kbps-48khz.m4a Fri, 21 Oct 2016 20:16:52 GMT 340224
+shares/win7/Audio/tones/tones-128kbps-48khz.mp3 Fri, 21 Oct 2016 18:10:32 GMT 160896
+shares/win7/Audio/tones/tones-144kbps-24khz.mp3 Fri, 21 Oct 2016 18:09:52 GMT 181440
+shares/win7/Audio/tones/tones-160kbps-32khz.mp3 Fri, 21 Oct 2016 20:59:40 GMT 201600
+shares/win7/Audio/tones/tones-160kbps-44-1khz.mp3 Fri, 21 Oct 2016 20:58:02 GMT 201142
+shares/win7/Audio/tones/tones-160kbps-48khz.mp3 Fri, 21 Oct 2016 18:09:12 GMT 201120
+shares/win7/Audio/tones/tones-16kbps-16khz.mp3 Fri, 21 Oct 2016 20:44:48 GMT 20160
+shares/win7/Audio/tones/tones-192kbps-48khz.mp3 Fri, 21 Oct 2016 18:06:42 GMT 281568
+shares/win7/Audio/tones/tones-224kbps-48khz.mp3 Fri, 21 Oct 2016 18:06:18 GMT 281568
+shares/win7/Audio/tones/tones-256kbps-48khz.mp3 Fri, 21 Oct 2016 18:05:58 GMT 321792
+shares/win7/Audio/tones/tones-320kbps-48khz.m4a Fri, 21 Oct 2016 20:16:52 GMT 340224
+shares/win7/Audio/tones/tones-320kbps-48khz.mp3 Fri, 21 Oct 2016 17:38:06 GMT 402240
+shares/win7/Audio/tones/tones-32kbps-48khz.mp3 Fri, 21 Oct 2016 20:45:34 GMT 40128
+shares/win7/Audio/tones/tones-40kbps-48khz.mp3 Fri, 21 Oct 2016 20:47:36 GMT 50160
+shares/win7/Audio/tones/tones-48kbps-48khz.mp3 Fri, 21 Oct 2016 20:48:04 GMT 60192
+shares/win7/Audio/tones/tones-56kbps-48khz.mp3 Fri, 21 Oct 2016 20:48:24 GMT 70224
+shares/win7/Audio/tones/tones-64kbps-48khz.mp3 Fri, 21 Oct 2016 20:46:04 GMT 80448
+shares/win7/Audio/tones/tones-8kbps-8khz.m4a Fri, 21 Oct 2016 20:34:20 GMT 11331
+shares/win7/Audio/tones/tones-8kbps-8khz.mp3 Fri, 21 Oct 2016 17:38:46 GMT 10152
+shares/win7/Audio/tones/tones-Q500-48khz.m4a Fri, 21 Oct 2016 20:13:52 GMT 435184
+shares/win7/Avatar/Avatar_1.mov Wed, 01 Feb 2017 00:37:06 GMT 198594772
+shares/win7/Avatar/Avatar_1_short.mov Tue, 11 Jul 2017 15:27:03 GMT 69263262
+shares/win7/Avatar/Avatar_1_short_fast.mov Tue, 11 Jul 2017 15:32:16 GMT 69263262
+shares/win7/Avatar/Thumbs.db Wed, 01 Feb 2017 16:32:31 GMT 9728
+shares/win7/AVI/0001-0600-1920x1080.avi Thu, 14 Dec 2017 16:13:03 GMT 50542452
+shares/win7/AVI/0001-0600-1920x1080aac.avi Thu, 14 Dec 2017 16:18:10 GMT 50718714
+shares/win7/AVI/0001-0600-mjpeg-yuv420p.avi Thu, 14 Dec 2017 16:59:15 GMT 12915246
+shares/win7/AVI/0001-0600-mjpeg-yuvj422p-vtag.avi Thu, 14 Dec 2017 16:57:16 GMT 0
+shares/win7/AVI/0001-0600-mjpeg-yuvj422p.avi Thu, 14 Dec 2017 16:49:22 GMT 13988902
+shares/win7/AVI/0001-0600-remux.avi Thu, 14 Dec 2017 16:11:16 GMT 13988902
+shares/win7/AVI/0001-0600-yuv420p.avi Thu, 14 Dec 2017 15:37:21 GMT 13988902
+shares/win7/AVI/0001-0600-yuv420p2.avi Thu, 14 Dec 2017 15:46:35 GMT 13988902
+shares/win7/AVI/0001-0600-yuv420p2meta.avi Thu, 14 Dec 2017 16:09:33 GMT 13988902
+shares/win7/AVI/0001-0600.avi Wed, 15 Nov 2017 00:32:22 GMT 23388888
+shares/win7/AVI/Artbeats_1-25Mbps-20sec-mjpeg-aac.avi Thu, 14 Dec 2017 15:30:08 GMT 63594604
+shares/win7/AVI/Artbeats_1_103Mbps-20sec-mjpeg-aac.avi Fri, 05 Feb 2016 21:11:34 GMT 258610696
+shares/win7/AVI/Artbeats_1_25Mbps-20sec-mjpeg-no-audio-720x480-RGB.avi Thu, 14 Dec 2017 16:42:17 GMT 62872664
+shares/win7/AVI/Artbeats_1_25Mbps-20sec-mjpeg-no-audio-720x480.avi Thu, 14 Dec 2017 16:32:15 GMT 62872664
+shares/win7/AVI/Artbeats_1_40Mbps-20sec-mjpeg-Mbps-aac.avi Thu, 14 Dec 2017 15:32:10 GMT 100630466
+shares/win7/AVI/Artbeats_1_40Mbps-20sec-mjpeg-Mbps-aac.wav Thu, 14 Dec 2017 16:15:40 GMT 1925198
+shares/win7/Axis/20050614_032422_4C62_00408CE926AE.mp4 Mon, 21 Oct 2013 18:00:19 GMT 437756326
+shares/win7/Axis/20050614_063143_FC07_00408CE926AE.mp4 Mon, 21 Oct 2013 20:38:34 GMT 140327704
+shares/win7/Axis/Thumbs.db Mon, 21 Oct 2013 22:58:20 GMT 27136
+shares/win7/BBB-iPhone/BigBuckBunny_640x360_360pIphone.m4v Fri, 16 Dec 2016 17:42:28 GMT 24510464
+shares/win7/BBC HD audio sync test.mp4 Fri, 18 Oct 2013 18:05:34 GMT 2733049
+shares/win7/bitrate/10Mbps/1920x1080p50-crowdRun-10Mbps.mp4 Mon, 22 Aug 2016 17:12:58 GMT 12732868
+shares/win7/bitrate/10Mbps/1920x1080p50-ducksTakeOff-10Mbps.mp4 Mon, 22 Aug 2016 17:17:48 GMT 11500497
+shares/win7/bitrate/10Mbps/1920x1080p50-parkJoy-10Mbps.mp4 Mon, 22 Aug 2016 17:20:21 GMT 11811283
+shares/win7/bitrate/1920x1080p50-CrowdRun-crf21-5-31-35Mbps-ref4-b16-direct-auto-umh24.mp4 Sun, 12 May 2013 08:09:48 GMT 39083062
+shares/win7/bitrate/CrowdRun1080p50-30Mbps-60Mbps)-ref4-b16-direct-auto-umh24-5-19v7-2ndPass.mp4 Mon, 20 May 2013 06:24:32 GMT 73794941
+shares/win7/box.cfg.txt Thu, 05 Sep 2013 18:53:08 GMT 4485
+shares/win7/brvideo.flv Thu, 03 May 2012 15:00:28 GMT 2409980
+shares/win7/Bryan/CNBC Squawk Box 2012_7_3_8_8_32.MP4 Tue, 03 Jul 2012 15:12:50 GMT 296659609
+shares/win7/Bryan/CNBC Squawk Box 2012_7_3_8_8_32_3GP2_10s.MP4 Fri, 25 Aug 2017 17:56:50 GMT 11692341
+shares/win7/Bryan/CNBC Squawk Box 2012_7_3_8_8_32_3GP6_10s.MP4 Fri, 25 Aug 2017 17:10:06 GMT 11692341
+shares/win7/Bryan/CNBC Squawk Box 2012_7_3_8_8_32_H264_isom_fast.MP4 Fri, 25 Aug 2017 16:00:02 GMT 296558423
+shares/win7/Bryan/Generic_NoLoop_050815.mp4 Wed, 27 May 2015 18:08:24 GMT 471944244
+shares/win7/Bryan/Ranch-6-5-17/1_restaurant_slide.png Mon, 05 Jun 2017 14:56:26 GMT 3095123
+shares/win7/Bryan/Ranch-6-5-17/3_saloon_slide.png Mon, 05 Jun 2017 14:56:26 GMT 2628054
+shares/win7/Bryan/Ranch-6-5-17/4_private_dining_slide.png Mon, 05 Jun 2017 14:56:28 GMT 2716541
+shares/win7/Bryan/Ranch-6-5-17/5_private_dining_slide.png Mon, 05 Jun 2017 14:56:28 GMT 3252235
+shares/win7/Bryan/Ranch-6-5-17/6_private_dining_slide.png Mon, 05 Jun 2017 14:56:30 GMT 3469837
+shares/win7/Bryan/Ranch-6-5-17/7_private_dining_slide.png Mon, 05 Jun 2017 14:56:30 GMT 3441691
+shares/win7/Bryan/Ranch-6-5-17/Ranch.jspf Mon, 05 Jun 2017 14:55:16 GMT 1765
+shares/win7/Bryan/Ranch-6-5-17/weddings_slide.jpg Mon, 05 Jun 2017 14:56:30 GMT 1456350
+shares/win7/Bryan/Thumbs.db Wed, 27 May 2015 18:09:46 GMT 11776
+shares/win7/captions/1280x720p50(16x9)-42high15GOP5Mbps44k-srt-text-v3-1s-pause.mp4 Thu, 14 May 2015 17:18:26 GMT 50567308
+shares/win7/captions/1280x720p60(16x9)-42high15GOP5Mbps44k-srt-text-v3-extract.srt Mon, 17 Aug 2015 19:13:11 GMT 905
+shares/win7/captions/1280x720p60(16x9)-42high15GOP5Mbps44k-srt-text-v3.mp4 Tue, 29 Apr 2014 20:50:18 GMT 49050235
+shares/win7/captions/1280x720p60(16x9)-42high15GOP5Mbps44k.m2ts Mon, 17 Mar 2014 22:23:22 GMT 54415104
+shares/win7/captions/1280x720p60(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 49048929
+shares/win7/captions/1280x720p60-16x9-42high15GOP5Mbps44k-srt-text-v3-100ms-pause.mp4 Thu, 14 May 2015 15:19:50 GMT 49050235
+shares/win7/captions/1280x720p60-16x9-42high15GOP5Mbps44k-srt-text-v3-1s-pause.mp4 Thu, 14 May 2015 15:21:28 GMT 49050167
+shares/win7/captions/1280x720p60-16x9-42high15GOP5Mbps44k-srt-text-v3-200ms-pause.mp4 Thu, 14 May 2015 15:20:56 GMT 49050229
+shares/win7/captions/1280x720p60-16x9-42high15GOP5Mbps44k-srt-text-v3-extract.srt Thu, 14 May 2015 14:52:27 GMT 905
+shares/win7/captions/1280x720p60-16x9-42high15GOP5Mbps44k-srt-text-v3-no-pause-no-overlap.mp4 Thu, 14 May 2015 15:24:14 GMT 49050235
+shares/win7/captions/1280x720p60-16x9-42high15GOP5Mbps44k-srt-text-v3-no-pause-no-overlap.srt Thu, 14 May 2015 14:56:00 GMT 904
+shares/win7/captions/1280x720p60-16x9-42high15GOP5Mbps44k-srt-text-v3.mp4 Tue, 29 Apr 2014 20:50:18 GMT 49050235
+shares/win7/captions/202-working-station/1280x720p60(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 49048929
+shares/win7/captions/202-working-station/1280x720p60(16x9)-42high15GOP5Mbps44k.srt Fri, 06 Feb 2015 22:32:10 GMT 1738
+shares/win7/captions/704x576p25(16x9)-31main15GOP5Mbps48k-srt-text-v3-1s-pause.mp4 Thu, 14 May 2015 17:09:56 GMT 45977163
+shares/win7/captions/PTSans/OT_TT_Install_E.txt Mon, 19 May 2014 14:23:07 GMT 3653
+shares/win7/captions/PTSans/OT_TT_Install_R.txt Mon, 19 May 2014 14:23:07 GMT 2616
+shares/win7/captions/PTSans/PT Free Font License_eng_1.2.txt Mon, 19 May 2014 14:23:07 GMT 1981
+shares/win7/captions/PTSans/PT Free Font License_rus_1.2.txt Mon, 19 May 2014 14:23:07 GMT 5036
+shares/win7/captions/PTSans/PTC55F.ttf Mon, 19 May 2014 14:23:07 GMT 375036
+shares/win7/captions/PTSans/PTC75F.ttf Mon, 19 May 2014 14:23:07 GMT 386624
+shares/win7/captions/PTSans/PTN57F.ttf Mon, 19 May 2014 14:23:07 GMT 384056
+shares/win7/captions/PTSans/PTN77F.ttf Mon, 19 May 2014 14:23:07 GMT 475564
+shares/win7/captions/PTSans/PTS55F.ttf Mon, 19 May 2014 14:23:07 GMT 430804
+shares/win7/captions/PTSans/PTS56F.ttf Mon, 19 May 2014 14:23:08 GMT 424296
+shares/win7/captions/PTSans/PTS75F.ttf Mon, 19 May 2014 14:23:08 GMT 458084
+shares/win7/captions/PTSans/PTS76F.ttf Mon, 19 May 2014 14:23:08 GMT 363048
+shares/win7/captions/PTSans.zip Mon, 19 May 2014 14:22:29 GMT 1574159
+shares/win7/captions/srt/1280x720p60(16x9)-42high15GOP5Mbps44k.srt Tue, 29 Apr 2014 20:49:14 GMT 951
+shares/win7/captions/srt/srt-text-v3.srt Tue, 29 Apr 2014 20:49:14 GMT 951
+shares/win7/captions/srt/video1.srt Tue, 29 Apr 2014 20:49:14 GMT 951
+shares/win7/captions/video.mp4 Wed, 18 Jul 2012 15:57:04 GMT 49048929
+shares/win7/captions/video.srt Tue, 29 Apr 2014 20:49:14 GMT 951
+shares/win7/captions/WebVTT/1280x720p60(16x9)-42high15GOP5Mbps44k-srt.mp4 Thu, 03 Nov 2016 16:32:38 GMT 49050235
+shares/win7/captions/WebVTT/1280x720p60(16x9)-42high15GOP5Mbps44k-vtt-sp.mp4 Thu, 03 Nov 2016 16:34:34 GMT 49050313
+shares/win7/captions/WebVTT/1280x720p60(16x9)-42high15GOP5Mbps44k-vtt.mp4 Thu, 03 Nov 2016 16:33:10 GMT 49050188
+shares/win7/captions/WebVTT/1280x720p60-42high15GOP5Mbps44k.mp4 Wed, 18 Jul 2012 15:57:06 GMT 49048929
+shares/win7/captions/WebVTT/1280x720p60-42high15GOP5Mbps44k.sr_ Tue, 29 Apr 2014 20:49:16 GMT 951
+shares/win7/captions/WebVTT/1280x720p60-42high15GOP5Mbps44k.vtt Thu, 03 Nov 2016 16:03:18 GMT 959
+shares/win7/captions/WebVTT/srt-text-v3.vtt Thu, 03 Nov 2016 16:03:18 GMT 959
+shares/win7/captions/WebVTT/style-position-text - Copy.vtt Thu, 03 Nov 2016 16:18:48 GMT 1114
+shares/win7/captions/WebVTT/style-position-text.vtt Thu, 03 Nov 2016 16:18:48 GMT 1114
+shares/win7/CapturedStreams/UC-Davis-12.235.42.42-5-18-2016-revB-SMD-drop-1.30.mp4 Wed, 18 May 2016 22:05:56 GMT 19604256
+shares/win7/CapturedStreams/UC-Davis-12.235.42.42-5-18-2016-revC-SMD-drops-60secThenBack.mp4 Wed, 18 May 2016 22:09:54 GMT 927112
+shares/win7/CapturedStreams/UC-Davis-12.235.42.42-5-18-2016-revH.mp4 Wed, 18 May 2016 22:40:08 GMT 26085162
+shares/win7/causing NW condition gone Bad_hd_other_lg_wild_faces_of_andes.m2ts Thu, 26 Jul 2012 16:18:00 GMT 97597440
+shares/win7/clipsFailToPlay/1280x720p25-1595884-pixels-revenge.mov Fri, 11 May 2012 16:10:38 GMT 439509541
+shares/win7/clipsFailToPlay/1920x1080p30-HP-L4.2-10Mbps-48k-Audio-0.99972FSD-noClipping.mp4 Tue, 09 Apr 2013 19:55:22 GMT 16884127
+shares/win7/clipsFailToPlay/Matrix_Reloaded_final_theatrical_trailer-SVQ3-mp4a.mov Thu, 01 Sep 2011 15:28:24 GMT 102078307
+shares/win7/clipsFailToPlay/rm-share-beta/01_llama_drama_4096p.mp4 Wed, 01 Apr 2015 18:02:10 GMT 406931374
+shares/win7/clipsFailToPlay/rm-share-beta/01_llama_drama_4096x2160p24-5sec.mp4 Mon, 01 May 2017 17:49:24 GMT 2524152
+shares/win7/clipsFailToPlay/rm-share-beta/01_llama_drama_4096x2160p24-copy-5sec.mp4 Mon, 01 May 2017 17:54:46 GMT 12270741
+shares/win7/clipsFailToPlay/rm-share-beta/1920x1080p60(16x9)-42high15GOP5Mbps48k_aac_1s_black_0_fullRange_cfr.ts Mon, 16 May 2016 16:25:16 GMT 49220844
+shares/win7/clipsFailToPlay/rm-share-beta/1920x1080p60(16x9)-42high15GOP5Mbps_noAudio_1s_black_0_fullRange_cfr.ts Mon, 01 May 2017 15:18:50 GMT 46419080
+shares/win7/clipsFailToPlay/rm-share-beta/1920x1080p60-16x9-42high15GOP5Mbps_1s_black_0_fullRange_cfr_copy_5s.ts Mon, 01 May 2017 18:02:56 GMT 2551348
+shares/win7/clipsFailToPlay/rm-share-beta/608x1080p60(16x9)-42high15GOP5Mbps_AAC_1s_black_0_fullRange_cfr_copy_5s_fast.mp4 Tue, 02 May 2017 18:36:38 GMT 462427
+shares/win7/clipsFailToPlay/rm-share-beta/608x1080p60-16x9-42high15GOP5Mbps_noAudio_1s_black_0_fullRange_cfr_copy_5s.ts Tue, 02 May 2017 18:24:06 GMT 1210344
+shares/win7/clipsFailToPlay/Thumbs - Copy.mp3 Thu, 08 Jan 2015 16:13:11 GMT 17920
+shares/win7/clipsFailToPlay/Thumbs.db Thu, 08 Jan 2015 16:13:11 GMT 17920
+shares/win7/clipsFailToPlay/timed_text_sample.mp4 Thu, 01 Sep 2011 15:23:06 GMT 38575176
+shares/win7/countDown/1280x720p60(16x9)-count.mp4 Mon, 09 May 2016 22:07:44 GMT 1527471
+shares/win7/crossFade/Black1024x1024.bmp Mon, 27 Apr 2015 16:04:10 GMT 3145784
+shares/win7/crossFade/Black1920x1080.bmp Mon, 27 Apr 2015 16:12:32 GMT 6220856
+shares/win7/crossFade/Black1920x1080.png Mon, 27 Apr 2015 16:18:42 GMT 8831
+shares/win7/crossFade/White1024x1024.bmp Mon, 27 Apr 2015 16:04:28 GMT 3145784
+shares/win7/crossFade/White1920x1080.bmp Mon, 27 Apr 2015 16:12:10 GMT 6220856
+shares/win7/crossFade/White1920x1080.png Mon, 27 Apr 2015 16:18:58 GMT 11306
+shares/win7/CrowdRun1024x540p50-30Mbps-31max-62buf.mp4 Wed, 22 May 2013 07:40:46 GMT 39609593
+shares/win7/CrowdRun1024x540p50-crf14-42max-84buf.mp4 Wed, 22 May 2013 12:51:26 GMT 55515166
+shares/win7/CrowdRun2048x1080p50-30Mbps-31max-62buf-ref4-b16-direct-auto-umh24-5-20.mp4 Wed, 22 May 2013 07:31:30 GMT 40938171
+shares/win7/Demo/1080p_2997_35-45mbit_vbr.mp4 Tue, 03 Mar 2015 17:22:13 GMT 359550646
+shares/win7/Demo/BBB/Alessandro-BBB/bbb_sunflower_1080p_60fps_aac_normal.mp4 Wed, 21 Sep 2016 15:02:08 GMT 331025483
+shares/win7/Demo/BBB/bbb_1920x1080p24_264_AAC_stereo.mp4 Tue, 28 Apr 2015 18:31:02 GMT 645441896
+shares/win7/Demo/BBB/Big_Buck_bunny_1920x1080p60_264_AAC_stereo.mp4 Tue, 28 Apr 2015 20:54:10 GMT 328487570
+shares/win7/Demo/BBB/reference-BBB/bbb_sunflower_1080p_60fps_normal.mp4 Tue, 28 Apr 2015 20:28:54 GMT 355856562
+shares/win7/Demo/Caves.MP4 Mon, 19 Dec 2011 18:34:07 GMT 419141739
+shares/win7/Demo/Experience_the_Yarra_Valley_by_Ferrari_on_210642087.mp4 Tue, 04 Aug 2015 14:38:52 GMT 201072645
+shares/win7/Demo/File_with_SRT/1k-tone.wav Wed, 15 Apr 2015 20:31:44 GMT 12672044
+shares/win7/Demo/File_with_SRT/ffmpeg.txt Wed, 10 Jun 2015 23:10:55 GMT 2803
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30.m4v Mon, 20 Apr 2015 18:29:18 GMT 30419420
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30.mp4 Mon, 23 Feb 2015 23:49:44 GMT 351307306
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30.srt Tue, 03 Mar 2015 21:37:10 GMT 2042
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30v-broken.m4v Mon, 20 Apr 2015 18:38:02 GMT 24556
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30v-fast.m4v Mon, 20 Apr 2015 18:44:00 GMT 30419420
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30v-fast.srt Tue, 03 Mar 2015 21:37:10 GMT 2042
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30_ff_1k.mp4 Wed, 15 Apr 2015 21:13:42 GMT 351284195
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30_ff_1k_stereo.mp4 Wed, 15 Apr 2015 21:16:40 GMT 351284195
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30_ff_1k_stereo_mapped.mp4 Wed, 15 Apr 2015 21:35:03 GMT 33294102
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30_ff_1k_stereo_mapped_ch.mp4 Wed, 15 Apr 2015 21:53:32 GMT 31873536
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30_ff_map1ch.264 Fri, 17 Apr 2015 15:16:22 GMT 30394410
+shares/win7/Demo/File_with_SRT/smd_202_montage_1080p_30_ff_map2ch.mp4 Wed, 15 Apr 2015 19:43:26 GMT 352522098
+shares/win7/Demo/File_with_SRT/Thumbs.db Wed, 15 Apr 2015 14:43:30 GMT 7680
+shares/win7/Demo/flight/Airshow-crop-fast-v2-9Mbps.mp4 Thu, 20 Oct 2016 17:48:56 GMT 132323507
+shares/win7/Demo/flight/Airshow-crop-fast-v3-9Mbps.mp4 Thu, 20 Oct 2016 18:14:38 GMT 131924655
+shares/win7/Demo/flight/Airshow-fast.mp4 Wed, 19 Oct 2016 21:38:46 GMT 75005199
+shares/win7/Demo/flight/The_Magic_of_Flight_1080-fast.mp4 Wed, 19 Oct 2016 21:30:06 GMT 79672535
+shares/win7/Demo/hd_other_sony_royal_opera_house-aac.ts Tue, 07 Jan 2014 23:28:55 GMT 64478208
+shares/win7/Demo/IITSEC/1080p_2997_50mbit_cbr.mp4 Fri, 20 Feb 2015 16:58:08 GMT 504250662
+shares/win7/Demo/IITSEC/Africa HD cut-1920x1080-20M.mp4 Sun, 22 Feb 2015 20:44:16 GMT 177603196
+shares/win7/Demo/IITSEC/Africa in 4K Ultra HD.mp4 Sat, 21 Feb 2015 20:04:30 GMT 206767645
+shares/win7/Demo/IITSEC/link_path.mp4 Tue, 29 Oct 2013 20:29:46 GMT 36479887
+shares/win7/Demo/IITSEC/tdf.mp4 Tue, 29 Oct 2013 20:55:43 GMT 28073241
+shares/win7/Demo/IITSEC/Thumbs.db Thu, 17 Apr 2014 18:30:59 GMT 11264
+shares/win7/Demo/lobby/7-7-15/Ranch-Complete.mp4 Tue, 07 Jul 2015 22:52:50 GMT 2843433666
+shares/win7/Demo/lobby/older/corporate_lobby_extron-png48-crf8-lanczos-gradfun.mp4 Mon, 04 May 2015 14:55:48 GMT 122728091
+shares/win7/Demo/lobby/older/corporate_lobby_extron-png48-crf9-lanczos-gradfun-fast.mp4 Wed, 10 Jun 2015 16:12:16 GMT 111668977
+shares/win7/Demo/lobby/older/corporate_lobby_extron-v4-fast.mp4 Mon, 27 Apr 2015 17:37:26 GMT 135057479
+shares/win7/Demo/lobby/older/corporate_lobby_extron-_v3_fast.mp4 Mon, 27 Apr 2015 16:58:28 GMT 132523747
+shares/win7/Demo/lobby/older/corporate_lobby_extron.mp4 Mon, 02 Feb 2015 15:06:06 GMT 167653670
+shares/win7/Demo/lobby/older/corporate_lobby_extron_ranch.mp4 Mon, 02 Feb 2015 15:28:04 GMT 362983428
+shares/win7/Demo/lobby/older/corporate_lobby_extron_v3.mp4 Fri, 24 Apr 2015 23:43:08 GMT 132523747
+shares/win7/Demo/lobby/older/RanchComplete.mp4 Tue, 28 Apr 2015 17:49:58 GMT 256046952
+shares/win7/Demo/lobby/Stills/frame-0000.png Fri, 24 Apr 2015 23:15:52 GMT 882622
+shares/win7/Demo/lobby/Stills/frame-0600.png Fri, 24 Apr 2015 23:16:40 GMT 1212859
+shares/win7/Demo/lobby/Stills/frame-1200.png Fri, 24 Apr 2015 23:17:16 GMT 919249
+shares/win7/Demo/lobby/Stills/frame-1800.png Fri, 24 Apr 2015 23:17:56 GMT 1280475
+shares/win7/Demo/lobby/Stills/frame-2400.png Fri, 24 Apr 2015 23:18:44 GMT 975529
+shares/win7/Demo/lobby/Stills/frame-3000.png Fri, 24 Apr 2015 23:19:30 GMT 1181960
+shares/win7/Demo/lobby/Stills/frame-3600.png Fri, 24 Apr 2015 23:20:12 GMT 2929274
+shares/win7/Demo/lobby/Stills/frame-4200.png Fri, 24 Apr 2015 23:21:10 GMT 2955352
+shares/win7/Demo/lobby/Stills/frame-4800.png Fri, 24 Apr 2015 23:22:10 GMT 3107718
+shares/win7/Demo/lobby/Stills/frame-5400.png Fri, 24 Apr 2015 23:23:02 GMT 1268578
+shares/win7/Demo/lobby/Stills/Thumbs.db Mon, 27 Apr 2015 16:46:52 GMT 24064
+shares/win7/Demo/Mammoth/ClarkDunbar Cinematographer-2015 on Vimeo.mp4 Mon, 24 Aug 2015 17:02:38 GMT 40804618
+shares/win7/Demo/Mammoth/MammothHD 4K Footage Library - 2013 ShowReel - YouTube.mp4 Tue, 28 Jul 2015 20:02:00 GMT 217400822
+shares/win7/Demo/Mammoth/MammothHD Footage Library - 2015 Diverse Series on Vimeo.mp4 Wed, 19 Aug 2015 18:59:12 GMT 44559674
+shares/win7/Demo/Mammoth/Thumbs.db Mon, 24 Aug 2015 17:28:54 GMT 23040
+shares/win7/Demo/NAB-2015/1080p_2997_50mbit_cbr.mp4 Fri, 20 Feb 2015 16:58:08 GMT 504250662
+shares/win7/Demo/NAB-2015/1920x1080p30-Nov2013demoSlides.mp4 Wed, 06 Nov 2013 15:21:51 GMT 72514752
+shares/win7/Demo/NAB-2015/1920x1080p30-wikiImages2.mp4 Thu, 07 Nov 2013 00:26:50 GMT 165987942
+shares/win7/Demo/NAB-2015/Arlington_Row_Bibury.png Wed, 23 Oct 2013 15:43:29 GMT 5048230
+shares/win7/Demo/NAB-2015/A_storm_at_Pors-Loubous.png Wed, 23 Oct 2013 14:55:03 GMT 2817869
+shares/win7/Demo/NAB-2015/Cappadocia_Balloon_Inflating_Wikimedia_Commons.png Wed, 23 Oct 2013 15:48:16 GMT 3198155
+shares/win7/Demo/NAB-2015/Eastern_Tiger_Swallowtail_Papilio_glaucus_Female_2838px.png Wed, 23 Oct 2013 15:51:13 GMT 2367904
+shares/win7/Demo/NAB-2015/Lake_Vuoksa_1.png Wed, 23 Oct 2013 16:05:23 GMT 3558091
+shares/win7/Demo/NAB-2015/Pieter_Bruegel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.png Wed, 23 Oct 2013 17:34:29 GMT 4399576
+shares/win7/Demo/NAB-2015/Red_eyed_tree_frog_edit2.png Wed, 23 Oct 2013 18:03:28 GMT 2860970
+shares/win7/Demo/NAB-2015/smd_202_montage_1080p_30.mp4 Mon, 23 Feb 2015 23:49:43 GMT 351307306
+shares/win7/Demo/NAB-2015/smd_202_montage_1080p_30.srt Tue, 03 Mar 2015 18:58:48 GMT 2033
+shares/win7/Demo/NAB-2015/SMD_202_Slide.png Tue, 03 Feb 2015 22:04:20 GMT 802197
+shares/win7/Demo/NAB-2015/SMP-351-0C-2B-0B_20150130-013539Z_S1R1.m4v Tue, 03 Feb 2015 00:03:20 GMT 59834301
+shares/win7/Demo/SMD202_SD/Artbeats_1_25Mbps-fast.mp4 Fri, 06 Mar 2015 00:20:30 GMT 342423138
+shares/win7/Demo/SMD202_SD/Artbeats_2_25Mbps-fast.mp4 Tue, 03 Mar 2015 17:11:24 GMT 281815273
+shares/win7/Demo/SMD202_SD/Artbeats_4_25Mbps-fast.mp4 Wed, 04 Mar 2015 22:51:38 GMT 219489954
+shares/win7/Demo/SMD202_SD/aspect 16x10.png Wed, 25 Feb 2015 23:27:44 GMT 957480
+shares/win7/Demo/SMD202_SD/aspect 16x9.png Wed, 25 Feb 2015 23:27:44 GMT 749049
+shares/win7/Demo/SMD202_SD/aspect 4x3.png Wed, 25 Feb 2015 23:27:44 GMT 812592
+shares/win7/Demo/[MV] 2AM - ì „í™œ ë°›ì§€ì•ŠëŠ” ë„ˆì—ê²Œ (1080p).mp4 Tue, 07 Jan 2014 02:19:33 GMT 101261216
+shares/win7/Denver/15 151 11-22-15 DEN D @ CHI from DEN.mp4 Tue, 15 Mar 2016 23:35:00 GMT 2413627465
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN-28GOP-ffmpeg30s.mp4 Tue, 29 Mar 2016 18:06:42 GMT 34056839
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN-audio.mp4 Mon, 21 Mar 2016 16:34:30 GMT 1211039649
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN-d420f.mp4 Tue, 22 Mar 2016 17:57:39 GMT 7508706
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN-ffmpeg.mp4 Tue, 29 Mar 2016 17:07:06 GMT 1200996989
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN.h264 Tue, 22 Mar 2016 14:08:17 GMT 1191746883
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN.mp4 Tue, 15 Mar 2016 23:48:00 GMT 1193050290
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN.mp4.dump Wed, 30 Mar 2016 15:09:59 GMT 0
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN.mp4.dump.h264 Tue, 22 Mar 2016 22:32:24 GMT 1191746883
+shares/win7/Denver/15 151 11-22-15 DEN K @ CHI from DEN2.h264 Wed, 30 Mar 2016 15:11:21 GMT 1191746883
+shares/win7/Denver/15 151 11-22-15 DEN O @ CHI from DEN.mp4 Wed, 16 Mar 2016 00:13:00 GMT 2317884071
+shares/win7/Denver/MIA/15 P053 09-03-15 TB D @ MIA from MIA.mp4 Mon, 04 Apr 2016 23:28:00 GMT 2398335875
+shares/win7/Denver/MIA/15 P053 09-03-15 TB K @ MIA from MIA.mp4 Mon, 04 Apr 2016 23:41:00 GMT 1138934138
+shares/win7/Denver/MIA/15 P053 09-03-15 TB O @ MIA from MIA.mp4 Mon, 04 Apr 2016 23:59:00 GMT 1693039800
+shares/win7/Denver/MIA/short/15 P053 09-03-15 TB D @ MIA from MIA-2min.mp4 Thu, 14 Apr 2016 14:41:02 GMT 111580047
+shares/win7/Denver/MIA/short/15 P053 09-03-15 TB K @ MIA from MIA-2min.mp4 Thu, 14 Apr 2016 14:40:54 GMT 114028204
+shares/win7/Denver/MIA/short/15 P053 09-03-15 TB O @ MIA from MIA-2min.mp4 Thu, 14 Apr 2016 14:39:30 GMT 111655468
+shares/win7/Denver/short/15 151 11-22-15 DEN D @ CHI from DEN-audio-2min.mp4 Thu, 14 Apr 2016 14:18:30 GMT 138842276
+shares/win7/Denver/short/15 151 11-22-15 DEN K @ CHI from DEN-15-17m47sec.mp4 Thu, 14 Apr 2016 14:32:12 GMT 186875915
+shares/win7/Denver/short/15 151 11-22-15 DEN O @ CHI from DEN-9-12min.mp4 Thu, 14 Apr 2016 14:22:50 GMT 212944289
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus0s-d420f.mp4 Tue, 22 Mar 2016 17:56:22 GMT 7214857
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus3s-d1800f.mp4 Tue, 22 Mar 2016 18:28:58 GMT 36290338
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus3s-d240f.mp4 Tue, 22 Mar 2016 17:54:50 GMT 4748734
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus3s-d420f.mp4 Tue, 22 Mar 2016 18:27:19 GMT 8322059
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus4s-d180f.mp4 Tue, 22 Mar 2016 17:52:25 GMT 3747709
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus5-5s-d120f.h264 Tue, 22 Mar 2016 17:40:37 GMT 2653353
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus5-5s-d120f.mp4 Tue, 22 Mar 2016 17:34:53 GMT 2656592
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus5-5s-d120f.mp4.dump Tue, 22 Mar 2016 17:40:31 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus5-5s-d120f.txt Tue, 22 Mar 2016 22:22:49 GMT 53387
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus5-8s-d120f.h264 Tue, 22 Mar 2016 17:36:56 GMT 2361835
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus5-8s-d120f.mp4 Tue, 22 Mar 2016 17:36:02 GMT 2364870
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus5-8s-d120f.mp4.dump Tue, 22 Mar 2016 17:36:51 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus5s-d120f.mp4 Tue, 22 Mar 2016 17:31:45 GMT 2632822
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-plus6s-d60f.mp4 Tue, 22 Mar 2016 17:28:03 GMT 885249
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2-d2.mp4 Tue, 22 Mar 2016 14:20:05 GMT 2232643
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2.84-d0.32.mp4 Tue, 22 Mar 2016 14:38:21 GMT 462852
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus30-d20f.h264 Tue, 22 Mar 2016 15:53:13 GMT 224496
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus30-d20f.mp4 Tue, 22 Mar 2016 15:52:49 GMT 225447
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus30-d20f.mp4.dump Tue, 22 Mar 2016 15:53:09 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus40-d20f.h264 Tue, 22 Mar 2016 15:55:13 GMT 362526
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus40-d20f.mp4 Tue, 22 Mar 2016 15:54:53 GMT 363665
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus40-d20f.mp4.dump Tue, 22 Mar 2016 15:55:10 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus42-d20f.h264 Tue, 22 Mar 2016 15:59:47 GMT 369948
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus42-d20f.mp4 Tue, 22 Mar 2016 15:59:31 GMT 371139
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus42-d20f.mp4.dump Tue, 22 Mar 2016 15:59:44 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus42-d60f.h264 Tue, 22 Mar 2016 16:11:01 GMT 1127949
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus42-d60f.mp4 Tue, 22 Mar 2016 16:10:15 GMT 1129964
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus42-d60f.mp4.dump Tue, 22 Mar 2016 16:10:57 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus421-d60f.h264 Tue, 22 Mar 2016 16:17:38 GMT 1127949
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus421-d60f.h264_container.txt Tue, 22 Mar 2016 16:25:05 GMT 1572
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus421-d60f.mp4 Tue, 22 Mar 2016 16:17:15 GMT 1129964
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus421-d60f.mp4.dump Tue, 22 Mar 2016 16:17:35 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus421-d60f_info.html Tue, 22 Mar 2016 16:27:28 GMT 445052691
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus421-d60f_summary.html Tue, 22 Mar 2016 16:25:51 GMT 275782
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus422-d60f.h264 Tue, 22 Mar 2016 16:16:30 GMT 714599
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus422-d60f.mp4 Tue, 22 Mar 2016 16:16:13 GMT 716062
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus422-d60f.mp4.dump Tue, 22 Mar 2016 16:16:27 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus425-d60f.h264 Tue, 22 Mar 2016 16:14:33 GMT 714599
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus425-d60f.mp4 Tue, 22 Mar 2016 16:14:10 GMT 716062
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus425-d60f.mp4.dump Tue, 22 Mar 2016 16:14:29 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus43-d60f.h264 Tue, 22 Mar 2016 16:12:27 GMT 714599
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus43-d60f.mp4 Tue, 22 Mar 2016 16:12:09 GMT 716062
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus43-d60f.mp4.dump Tue, 22 Mar 2016 16:12:23 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus44-d20f.mp4 Tue, 22 Mar 2016 16:04:59 GMT 261
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus44-d20f.mp4.dump Tue, 22 Mar 2016 16:05:11 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus44-d60f.h264 Tue, 22 Mar 2016 16:09:03 GMT 718801
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus44-d60f.mp4 Tue, 22 Mar 2016 16:08:46 GMT 720276
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus44-d60f.mp4.dump Tue, 22 Mar 2016 16:08:59 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus45-d20f.mp4 Tue, 22 Mar 2016 16:01:59 GMT 261
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus45-d20f.mp4.dump Tue, 22 Mar 2016 16:02:12 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus46-d20f.mp4 Tue, 22 Mar 2016 16:06:12 GMT 261
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus46-d20f.mp4.dump Tue, 22 Mar 2016 16:06:25 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus46-d60f.h264 Tue, 22 Mar 2016 16:07:55 GMT 723371
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus46-d60f.mp4 Tue, 22 Mar 2016 16:07:28 GMT 724886
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus46-d60f.mp4.dump Tue, 22 Mar 2016 16:07:49 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus48-d20f.mp4 Tue, 22 Mar 2016 15:58:31 GMT 261
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus48-d20f.mp4.dump Tue, 22 Mar 2016 15:58:48 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus50-d20f.mp4 Tue, 22 Mar 2016 15:56:12 GMT 261
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus50-d20f.mp4.dump Tue, 22 Mar 2016 15:56:50 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus54-d20f.h264 Tue, 22 Mar 2016 15:57:50 GMT 178999
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus54-d20f.mp4 Tue, 22 Mar 2016 15:57:33 GMT 179870
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s2plus54-d20f.mp4.dump Tue, 22 Mar 2016 15:57:46 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3-d0.16.mp4 Tue, 22 Mar 2016 14:41:48 GMT 462852
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3-d0.32.mp4 Tue, 22 Mar 2016 14:40:28 GMT 741882
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3-d0.32.mp4.dump Tue, 22 Mar 2016 14:42:39 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3-d0.h264 Tue, 22 Mar 2016 14:42:45 GMT 740339
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16-d0.32.mp4 Tue, 22 Mar 2016 14:44:57 GMT 846056
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16-d0.32.mp4.dump Tue, 22 Mar 2016 14:53:30 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16-d0.32.mp4.dump.h264 Tue, 22 Mar 2016 14:53:31 GMT 844325
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.165-d0.32.mp4 Tue, 22 Mar 2016 14:57:08 GMT 846056
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.165-d0.32.mp4.dump Tue, 22 Mar 2016 14:57:51 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.165.h264 Tue, 22 Mar 2016 14:58:00 GMT 844325
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.168-d0.32.mp4 Tue, 22 Mar 2016 14:59:07 GMT 848293
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.168-d0.32.mp4.dump Tue, 22 Mar 2016 14:59:45 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.168.h264 Tue, 22 Mar 2016 14:59:54 GMT 846550
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.169-d0.32.mp4 Tue, 22 Mar 2016 15:00:55 GMT 848293
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.169-d0.32.mp4.dump Tue, 22 Mar 2016 15:01:17 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.169.h264 Tue, 22 Mar 2016 15:01:26 GMT 846550
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1695-d0.32.mp4 Tue, 22 Mar 2016 15:02:21 GMT 848293
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1695-d0.32.mp4.dump Tue, 22 Mar 2016 15:02:47 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1695.h264 Tue, 22 Mar 2016 15:02:56 GMT 846550
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1697-d0.32.mp4 Tue, 22 Mar 2016 15:06:38 GMT 848293
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1697-d0.32.mp4.dump Tue, 22 Mar 2016 15:06:58 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1697.h264 Tue, 22 Mar 2016 15:07:09 GMT 846550
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1698-d0.32.mp4 Tue, 22 Mar 2016 15:08:09 GMT 848293
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1698-d0.32.mp4.dump Tue, 22 Mar 2016 15:08:26 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1698.h264 Tue, 22 Mar 2016 15:08:41 GMT 846550
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16982-d0.32.mp4 Tue, 22 Mar 2016 15:11:04 GMT 848293
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16982-d0.32.mp4.dump Tue, 22 Mar 2016 15:11:52 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16982.h264 Tue, 22 Mar 2016 15:12:03 GMT 846550
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.169825-d0.32.mp4 Tue, 22 Mar 2016 15:14:52 GMT 848293
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.169825-d0.32.mp4.dump Tue, 22 Mar 2016 15:15:26 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.169825.h264 Tue, 22 Mar 2016 15:15:35 GMT 846550
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16983-d0.32.mp4 Tue, 22 Mar 2016 15:13:15 GMT 386406
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16983-d0.32.mp4.dump Tue, 22 Mar 2016 15:13:40 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16983.h264 Tue, 22 Mar 2016 15:14:01 GMT 385215
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16985-d0.32.mp4 Tue, 22 Mar 2016 15:09:31 GMT 386406
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16985-d0.32.mp4.dump Tue, 22 Mar 2016 15:09:57 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.16985.h264 Tue, 22 Mar 2016 15:10:16 GMT 385215
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1699-d0.32.mp4 Tue, 22 Mar 2016 15:05:06 GMT 386406
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1699-d0.32.mp4.dump Tue, 22 Mar 2016 15:05:30 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.1699.h264 Tue, 22 Mar 2016 15:05:40 GMT 385215
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.17-d0.32.mp4 Tue, 22 Mar 2016 14:55:53 GMT 386406
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.17-d0.32.mp4.dump Tue, 22 Mar 2016 14:56:11 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.17.h264 Tue, 22 Mar 2016 14:56:20 GMT 385215
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.18-d0.32.mp4 Tue, 22 Mar 2016 14:54:12 GMT 386406
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.18-d0.32.mp4.dump Tue, 22 Mar 2016 14:54:45 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.18.h264 Tue, 22 Mar 2016 14:54:55 GMT 385215
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.2-d0.32.mp4 Tue, 22 Mar 2016 14:51:56 GMT 425792
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.2-d0.32.mp4.dump Tue, 22 Mar 2016 14:52:41 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.2.h264 Tue, 22 Mar 2016 14:52:50 GMT 424573
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.24-d0.32.mp4 Tue, 22 Mar 2016 14:50:22 GMT 435302
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.24-d0.32.mp4.dump Tue, 22 Mar 2016 14:50:51 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.24.h264 Tue, 22 Mar 2016 14:51:01 GMT 434031
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.32-d0.32.mp4 Tue, 22 Mar 2016 14:47:50 GMT 659407
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.32-d0.32.mp4.dump Tue, 22 Mar 2016 14:48:42 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.32.h264 Tue, 22 Mar 2016 14:49:02 GMT 658036
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3.h264 Tue, 22 Mar 2016 14:45:50 GMT 844325
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus1-d20f.h264 Tue, 22 Mar 2016 15:51:43 GMT 279004
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus1-d20f.mp4 Tue, 22 Mar 2016 15:51:27 GMT 279995
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus1-d20f.mp4.dump Tue, 22 Mar 2016 15:51:40 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus10-d20f.h264 Tue, 22 Mar 2016 15:49:11 GMT 382990
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus10-d20f.mp4 Tue, 22 Mar 2016 15:48:51 GMT 384169
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus10-d20f.mp4.dump Tue, 22 Mar 2016 15:49:09 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus20-d20f.h264 Tue, 22 Mar 2016 15:48:12 GMT 173419
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus20-d20f.mp4 Tue, 22 Mar 2016 15:47:38 GMT 174214
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus20-d20f.mp4.dump Tue, 22 Mar 2016 15:48:07 GMT 0
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus5-d20f.h264 Tue, 22 Mar 2016 15:50:08 GMT 329282
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus5-d20f.mp4 Tue, 22 Mar 2016 15:49:49 GMT 330353
+shares/win7/Denver/test/15 151 11-22-15 DEN K @ CHI from DEN-s3plus5-d20f.mp4.dump Tue, 22 Mar 2016 15:50:05 GMT 0
+shares/win7/Empty/AgamaSinaita01_ST_10.png Wed, 23 Oct 2013 15:02:32 GMT 2990005
+shares/win7/Empty/Artbeats_3_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:42:48 GMT 12157354
+shares/win7/enterprise-live-video-production.flv.mp4 Thu, 23 May 2013 18:51:55 GMT 1463800649
+shares/win7/Entwine/bcf3b0c0-dbf1-4f75-9999-19b26dbac383 (1).m4v Fri, 12 Aug 2016 22:37:50 GMT 9753384
+shares/win7/event.cfg.txt Thu, 05 Sep 2013 18:18:27 GMT 200
+shares/win7/Extron/A Mad Russians Christmas-h264.mp4 Thu, 22 Dec 2016 22:25:16 GMT 430949814
+shares/win7/Extron/A Mad Russians Christmas.mp4 Thu, 22 Dec 2016 13:31:42 GMT 433973829
+shares/win7/fileList.txt Tue, 10 Oct 2017 15:20:35 GMT 176633
+shares/win7/firmware/49-244-50-2.00.0003-b009-full.eff Thu, 22 Oct 2015 23:21:24 GMT 64761300
+shares/win7/Five minute sync test.mp4 Tue, 13 Dec 2011 00:33:23 GMT 22175763
+shares/win7/folder-playlist/1920x1080-black.png Thu, 10 Mar 2016 17:15:40 GMT 6159
+shares/win7/folder-playlist/Artbeats_1_18Mbps-20sec.mp4 Wed, 13 Nov 2013 14:52:31 GMT 44004579
+shares/win7/folder-playlist/Artbeats_5_20Mbps-30fps-20sec.mp4 Wed, 13 Nov 2013 16:18:04 GMT 50207042
+shares/win7/fonts/alex-brush.zip Tue, 21 Apr 2015 16:14:54 GMT 27602
+shares/win7/fonts/AlexBrush-Regular.ttf Tue, 21 Apr 2015 16:14:54 GMT 49020
+shares/win7/fonts/ALGER.TTF Fri, 29 Oct 1999 19:42:26 GMT 75272
+shares/win7/fonts/arial.ttf Mon, 19 May 2014 07:11:45 GMT 773852
+shares/win7/fonts/BRUSHSCI.TTF Wed, 18 Aug 1999 19:13:40 GMT 53456
+shares/win7/fonts/fonts-miso.zip Tue, 21 Apr 2015 16:17:09 GMT 57122
+shares/win7/fonts/miso-bold.otf Tue, 21 Apr 2015 16:17:09 GMT 24572
+shares/win7/fonts/miso-light.otf Tue, 21 Apr 2015 16:17:09 GMT 24820
+shares/win7/fonts/miso.otf Tue, 21 Apr 2015 16:17:09 GMT 25024
+shares/win7/fonts/Mâ”œÃ‘rten Nettelbladt - Miso License.txt Tue, 21 Apr 2015 16:17:09 GMT 1054
+shares/win7/fonts/OLDENGL.TTF Fri, 15 Oct 1999 16:56:04 GMT 93068
+shares/win7/fonts/SIL Open Font License.txt Tue, 21 Apr 2015 16:14:54 GMT 4392
+shares/win7/fonts/technic_.ttf Wed, 18 Sep 1996 19:51:32 GMT 58660
+shares/win7/Friends_GirlHitJoey_me_umh_63m_50fps.mp4 Fri, 07 Jun 2013 00:52:49 GMT 1707518606
+shares/win7/fromSudheendra/00062.MTS Sat, 24 Jul 2010 04:53:22 GMT 97191936
+shares/win7/fromSudheendra/00062.ts Sat, 24 Jul 2010 04:53:22 GMT 97191936
+shares/win7/fromSudheendra/00197.ts Thu, 21 Jun 2012 21:24:34 GMT 125048832
+shares/win7/fromSudheendra/india-interlaced.mp4 Thu, 16 Nov 2017 17:31:02 GMT 21881230
+shares/win7/GARNET-1635/1920x1080p30(16x9)-31main15GOP5Mbps1Mbuf44k.MP4 Thu, 17 Apr 2014 17:53:33 GMT 17357394
+shares/win7/GARNET-1635/1920x1080p60(16x9)-31main15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 19:26:06 GMT 42690405
+shares/win7/GARNET-1635/1920x1080p60(16x9)-31main15GOPCRF16-5Mbps1Mbuf44k.MP4 Thu, 17 Apr 2014 20:24:25 GMT 20653320
+shares/win7/GARNET-1635/a.MP4 Thu, 17 Apr 2014 20:24:25 GMT 20653320
+shares/win7/GARNET-1635/b.MP4 Thu, 17 Apr 2014 20:24:25 GMT 20653320
+shares/win7/GARNET-571-Calculate.mp4 Wed, 04 Jul 2012 14:50:32 GMT 31365258
+shares/win7/GHOST_IN_THE_SHELL_V5_DOLBY_-_3.m4v Thu, 01 Sep 2011 15:28:10 GMT 205179094
+shares/win7/Gradient-crf10.mp4 Tue, 02 Jul 2013 18:26:15 GMT 157647
+shares/win7/Gradient-crf2.mp4 Tue, 02 Jul 2013 18:26:28 GMT 158075
+shares/win7/Grayscale-crf2.mp4 Tue, 02 Jul 2013 18:26:59 GMT 36227
+shares/win7/Grayscale.mp4 Tue, 02 Jul 2013 18:11:22 GMT 46026
+shares/win7/Haivision/ffmpeg-help.txt Mon, 11 Dec 2017 17:43:27 GMT 734002
+shares/win7/Haivision/ffprobe-20171211-093418.log Mon, 11 Dec 2017 17:34:18 GMT 4478
+shares/win7/Haivision/ffprobe-20171211-112333.log Mon, 11 Dec 2017 19:23:33 GMT 4256
+shares/win7/Haivision/ffserver-config-example.txt Thu, 14 Dec 2017 15:24:21 GMT 834
+shares/win7/Haivision/ffserver-config-i-think.txt Thu, 14 Dec 2017 15:11:19 GMT 1264
+shares/win7/Haivision/h264_parse.exe Sun, 28 Oct 2007 18:42:08 GMT 73728
+shares/win7/Haivision/MakitoX-SMD-6Mbps-V-0x21-A-0x24.ts Fri, 14 Oct 2016 21:02:35 GMT 243612280
+shares/win7/Haivision/MakitoX-SMD-6Mbps-V-PID-0x21-A-0x24.ts Fri, 14 Oct 2016 20:59:11 GMT 243612280
+shares/win7/Haivision/MakitoX-SMD-jitter-smear-6Mbps-12s.mp4 Mon, 11 Dec 2017 18:24:57 GMT 7382711
+shares/win7/Haivision/MakitoX-SMD-jitter-smear-6Mbps-PCR-PID-24.ts Fri, 14 Oct 2016 20:21:14 GMT 0
+shares/win7/Haivision/MakitoX-SMD-jitter-smear-6Mbps-V-PID-0x24.ts Fri, 14 Oct 2016 20:26:23 GMT 243612280
+shares/win7/Haivision/MakitoX-SMD-jitter-smear-6Mbps-V-PID-0x50.ts Fri, 14 Oct 2016 20:26:38 GMT 243612280
+shares/win7/Haivision/MakitoX-SMD-jitter-smear-6Mbps.h264 Mon, 11 Dec 2017 17:53:28 GMT 210172096
+shares/win7/Haivision/MakitoX-SMD-jitter-smear-6Mbps.mp4 Mon, 23 Nov 2015 19:42:22 GMT 215082668
+shares/win7/Haivision/MakitoX-SMD-jitter-smear-6Mbps.mp4.dump Mon, 11 Dec 2017 17:53:23 GMT 0
+shares/win7/Haivision/MakitoX-SMD-jitter-smear2-25Mbps.mp4 Mon, 23 Nov 2015 20:00:16 GMT 449211722
+shares/win7/Haivision/parsed.txt Mon, 11 Dec 2017 19:31:18 GMT 6000401
+shares/win7/Haivision/SpecialVH264.exe Mon, 11 Dec 2017 19:05:22 GMT 3582976
+shares/win7/HD/1280x720p25(16x9)-31main15GOP5Mbps44k256k.MP4 Wed, 18 Jul 2012 20:46:30 GMT 50916524
+shares/win7/HD/1280x720p25(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 04 Nov 2013 19:51:49 GMT 54144000
+shares/win7/HD/1280x720p25(16x9)-31main15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 20:46:30 GMT 50063549
+shares/win7/HD/1280x720p25(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:58:47 GMT 54125200
+shares/win7/HD/1280x720p25(16x9)-31main30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 20:50:27 GMT 48277785
+shares/win7/HD/1280x720p25(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:58:49 GMT 52213616
+shares/win7/HD/1280x720p25(16x9)-31main30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 20:50:27 GMT 48273732
+shares/win7/HD/1280x720p25(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:58:51 GMT 52193500
+shares/win7/HD/1280x720p25(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 20:46:30 GMT 50044731
+shares/win7/HD/1280x720p25(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:58:53 GMT 54124636
+shares/win7/HD/1280x720p25(16x9)-42high15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 20:46:30 GMT 50040678
+shares/win7/HD/1280x720p25(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:58:55 GMT 54106024
+shares/win7/HD/1280x720p25(16x9)-42high30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 20:50:27 GMT 48281553
+shares/win7/HD/1280x720p25(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:58:57 GMT 52220384
+shares/win7/HD/1280x720p25(16x9)-42high30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 20:50:27 GMT 48277500
+shares/win7/HD/1280x720p25(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:58:59 GMT 52199892
+shares/win7/HD/1280x720p29(16x9)-31main15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 21:25:49 GMT 47583993
+shares/win7/HD/1280x720p29(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:01 GMT 51471392
+shares/win7/HD/1280x720p29(16x9)-31main15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 21:25:49 GMT 47584589
+shares/win7/HD/1280x720p29(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:04 GMT 51453908
+shares/win7/HD/1280x720p29(16x9)-31main30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 21:30:36 GMT 45868188
+shares/win7/HD/1280x720p29(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:05 GMT 49611696
+shares/win7/HD/1280x720p29(16x9)-31main30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 21:30:36 GMT 45868784
+shares/win7/HD/1280x720p29(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:07 GMT 49593836
+shares/win7/HD/1280x720p29(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 21:25:49 GMT 47620081
+shares/win7/HD/1280x720p29(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:09 GMT 51508616
+shares/win7/HD/1280x720p29(16x9)-42high15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 21:25:49 GMT 47620677
+shares/win7/HD/1280x720p29(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:11 GMT 51492260
+shares/win7/HD/1280x720p29(16x9)-42high30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 21:30:36 GMT 45953302
+shares/win7/HD/1280x720p29(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:13 GMT 49699304
+shares/win7/HD/1280x720p29(16x9)-42high30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 21:30:36 GMT 45953898
+shares/win7/HD/1280x720p29(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:15 GMT 49682008
+shares/win7/HD/1280x720p29(16x9)_42high15GOP50Mbps44k.mp4 Fri, 20 Jul 2012 23:20:46 GMT 257438379
+shares/win7/HD/1280x720p50(16x9)-31main15GOP5Mbps44k.MP4 Thu, 19 Jul 2012 20:24:12 GMT 50862892
+shares/win7/HD/1280x720p50(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:17 GMT 55106748
+shares/win7/HD/1280x720p50(16x9)-31main15GOP5Mbps48k.MP4 Thu, 19 Jul 2012 20:24:30 GMT 50860443
+shares/win7/HD/1280x720p50(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:20 GMT 55091144
+shares/win7/HD/1280x720p50(16x9)-31main30GOP5Mbps44k.MP4 Thu, 19 Jul 2012 20:24:43 GMT 49080355
+shares/win7/HD/1280x720p50(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:22 GMT 53193660
+shares/win7/HD/1280x720p50(16x9)-31main30GOP5Mbps48k.MP4 Thu, 19 Jul 2012 20:24:56 GMT 49077906
+shares/win7/HD/1280x720p50(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:25 GMT 53179184
+shares/win7/HD/1280x720p50(16x9)-42high15GOP5Mbps44k.MP4 Thu, 19 Jul 2012 20:25:11 GMT 50566960
+shares/win7/HD/1280x720p50(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:28 GMT 54789968
+shares/win7/HD/1280x720p50(16x9)-42high15GOP5Mbps48k.MP4 Thu, 19 Jul 2012 20:25:25 GMT 50564511
+shares/win7/HD/1280x720p50(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:30 GMT 54773236
+shares/win7/HD/1280x720p50(16x9)-42high30GOP5Mbps44k.MP4 Thu, 19 Jul 2012 20:25:40 GMT 49110485
+shares/win7/HD/1280x720p50(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:32 GMT 53219416
+shares/win7/HD/1280x720p50(16x9)-42high30GOP5Mbps48k.MP4 Thu, 19 Jul 2012 20:25:53 GMT 49108036
+shares/win7/HD/1280x720p50(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:35 GMT 53200992
+shares/win7/HD/1280x720p59(16x9)-31main15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:15:16 GMT 47012923
+shares/win7/HD/1280x720p59(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:37 GMT 50975448
+shares/win7/HD/1280x720p59(16x9)-31main15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 15:15:16 GMT 47010683
+shares/win7/HD/1280x720p59(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:40 GMT 50958904
+shares/win7/HD/1280x720p59(16x9)-31main30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:15:16 GMT 46979798
+shares/win7/HD/1280x720p59(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 19:59:46 GMT 50943864
+shares/win7/HD/1280x720p59(16x9)-31main30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 15:15:16 GMT 46977558
+shares/win7/HD/1280x720p59(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 19:59:52 GMT 50925628
+shares/win7/HD/1280x720p59(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:15:16 GMT 46646516
+shares/win7/HD/1280x720p59(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:00:00 GMT 50595124
+shares/win7/HD/1280x720p59(16x9)-42high15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 15:15:16 GMT 46644276
+shares/win7/HD/1280x720p59(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:00:08 GMT 50577264
+shares/win7/HD/1280x720p59(16x9)-42high30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:15:16 GMT 46977728
+shares/win7/HD/1280x720p59(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:00:14 GMT 50932396
+shares/win7/HD/1280x720p59(16x9)-42high30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 15:15:16 GMT 46975488
+shares/win7/HD/1280x720p59(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:00:26 GMT 50914536
+shares/win7/HD/1280x720p60(16x9)-31main15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:57:03 GMT 49213862
+shares/win7/HD/1280x720p60(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:00:44 GMT 53386736
+shares/win7/HD/1280x720p60(16x9)-31main15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 49211397
+shares/win7/HD/1280x720p60(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:01:07 GMT 53359664
+shares/win7/HD/1280x720p60(16x9)-31main30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 48858509
+shares/win7/HD/1280x720p60(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:01:35 GMT 53000960
+shares/win7/HD/1280x720p60(16x9)-31main30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 48856044
+shares/win7/HD/1280x720p60(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:02:05 GMT 52975204
+shares/win7/HD/1280x720p60(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 49048929
+shares/win7/HD/1280x720p60(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:02:33 GMT 53216784
+shares/win7/HD/1280x720p60(16x9)-42high15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 49046464
+shares/win7/HD/1280x720p60(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:03:01 GMT 53187644
+shares/win7/HD/1280x720p60(16x9)-42high30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 48984846
+shares/win7/HD/1280x720p60(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:03:28 GMT 53138012
+shares/win7/HD/1280x720p60(16x9)-42high30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 15:57:04 GMT 48982381
+shares/win7/HD/1280x720p60(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:03:53 GMT 53113008
+shares/win7/HD/1280x720p60-16x9-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:00:44 GMT 53386736
+shares/win7/HD/1920x1080p23(16x9)_noCABAC_31main15GOP5Mbps32k.mp4 Tue, 05 Feb 2013 16:48:06 GMT 49341518
+shares/win7/HD/1920x1080p25(16x9)-31main15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 22:17:03 GMT 56188153
+shares/win7/HD/1920x1080p25(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:04:24 GMT 60731332
+shares/win7/HD/1920x1080p25(16x9)-31main15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 22:17:03 GMT 56184100
+shares/win7/HD/1920x1080p25(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:04:54 GMT 60714036
+shares/win7/HD/1920x1080p25(16x9)-31main30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 22:24:27 GMT 54446849
+shares/win7/HD/1920x1080p25(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:05:29 GMT 58849828
+shares/win7/HD/1920x1080p25(16x9)-31main30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 22:24:27 GMT 54442796
+shares/win7/HD/1920x1080p25(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:05:59 GMT 58831216
+shares/win7/HD/1920x1080p25(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 22:17:03 GMT 56120934
+shares/win7/HD/1920x1080p25(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:06:30 GMT 60661584
+shares/win7/HD/1920x1080p25(16x9)-42high15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 22:17:03 GMT 56116881
+shares/win7/HD/1920x1080p25(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:07:00 GMT 60643912
+shares/win7/HD/1920x1080p25(16x9)-42high30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 22:24:27 GMT 54625101
+shares/win7/HD/1920x1080p25(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:07:26 GMT 59042340
+shares/win7/HD/1920x1080p25(16x9)-42high30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 22:24:27 GMT 54621048
+shares/win7/HD/1920x1080p25(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:07:46 GMT 59023728
+shares/win7/HD/1920x1080p29(16x9)-31main15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 23:11:19 GMT 51201992
+shares/win7/HD/1920x1080p29(16x9)-31main15GOP5Mbps44k.MP4 - Shortcut.lnk Wed, 02 Oct 2013 15:01:53 GMT 1410
+shares/win7/HD/1920x1080p29(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:08:04 GMT 55358668
+shares/win7/HD/1920x1080p29(16x9)-31main15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 23:11:19 GMT 51202588
+shares/win7/HD/1920x1080p29(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:08:20 GMT 55341936
+shares/win7/HD/1920x1080p29(16x9)-31main30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 23:17:51 GMT 50634762
+shares/win7/HD/1920x1080p29(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:08:41 GMT 54737328
+shares/win7/HD/1920x1080p29(16x9)-31main30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 23:17:51 GMT 50635358
+shares/win7/HD/1920x1080p29(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:08:59 GMT 54720784
+shares/win7/HD/1920x1080p29(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 23:11:19 GMT 50845875
+shares/win7/HD/1920x1080p29(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:09:14 GMT 54974584
+shares/win7/HD/1920x1080p29(16x9)-42high15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 23:11:19 GMT 50846471
+shares/win7/HD/1920x1080p29(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:09:28 GMT 54957852
+shares/win7/HD/1920x1080p29(16x9)-42high30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 23:17:51 GMT 50595106
+shares/win7/HD/1920x1080p29(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:09:43 GMT 54690892
+shares/win7/HD/1920x1080p29(16x9)-42high30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 23:17:51 GMT 50595702
+shares/win7/HD/1920x1080p29(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:09:58 GMT 54673220
+shares/win7/HD/1920x1080p50(16x9)-31main15GOP5Mbps44k.MP4 Thu, 19 Jul 2012 20:25:46 GMT 43999003
+shares/win7/HD/1920x1080p50(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:10:11 GMT 47739028
+shares/win7/HD/1920x1080p50(16x9)-31main15GOP5Mbps48k.MP4 Thu, 19 Jul 2012 20:25:33 GMT 43996554
+shares/win7/HD/1920x1080p50(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:10:24 GMT 47722672
+shares/win7/HD/1920x1080p50(16x9)-31main30GOP5Mbps44k.MP4 Thu, 19 Jul 2012 20:25:02 GMT 49431795
+shares/win7/HD/1920x1080p50(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:10:39 GMT 53551424
+shares/win7/HD/1920x1080p50(16x9)-31main30GOP5Mbps48k.MP4 Thu, 19 Jul 2012 20:24:36 GMT 49429386
+shares/win7/HD/1920x1080p50(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:10:54 GMT 53536196
+shares/win7/HD/1920x1080p50(16x9)-42high15GOP5Mbps44k.MP4 Thu, 19 Jul 2012 20:22:33 GMT 43600460
+shares/win7/HD/1920x1080p50(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:11:07 GMT 47316404
+shares/win7/HD/1920x1080p50(16x9)-42high15GOP5Mbps48k.MP4 Thu, 19 Jul 2012 20:23:20 GMT 43598011
+shares/win7/HD/1920x1080p50(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:11:21 GMT 47301364
+shares/win7/HD/1920x1080p50(16x9)-42high30GOP5Mbps44k.MP4 Thu, 19 Jul 2012 20:23:36 GMT 49165718
+shares/win7/HD/1920x1080p50(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:11:36 GMT 53272996
+shares/win7/HD/1920x1080p50(16x9)-42high30GOP5Mbps48k.MP4 Thu, 19 Jul 2012 20:23:52 GMT 49163309
+shares/win7/HD/1920x1080p50(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:11:50 GMT 53258144
+shares/win7/HD/1920x1080p59(16x9)_noCABAC_31main15GOP5Mbps48k.MP4 Thu, 19 Jul 2012 15:17:41 GMT 39112114
+shares/win7/HD/1920x1080p60(16x9)-31main15GOP5Mbps1Mbuf44k.MP4 Thu, 17 Apr 2014 17:53:33 GMT 17357394
+shares/win7/HD/1920x1080p60(16x9)-31main15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 19:26:06 GMT 42690405
+shares/win7/HD/1920x1080p60(16x9)-31main15GOP5Mbps44k.MP4 - Shortcut.lnk Thu, 17 Apr 2014 17:49:55 GMT 1483
+shares/win7/HD/1920x1080p60(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:12:04 GMT 46394828
+shares/win7/HD/1920x1080p60(16x9)-31main15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 19:26:06 GMT 42687940
+shares/win7/HD/1920x1080p60(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:12:19 GMT 46368696
+shares/win7/HD/1920x1080p60(16x9)-31main15GOPCRF16-40Mbps10Mbuf44k.MP4 Thu, 17 Apr 2014 20:21:40 GMT 54918429
+shares/win7/HD/1920x1080p60(16x9)-31main15GOPCRF16-5Mbps1Mbuf44k.MP4 Thu, 17 Apr 2014 20:24:25 GMT 20653320
+shares/win7/HD/1920x1080p60(16x9)-31main30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 19:36:56 GMT 46784022
+shares/win7/HD/1920x1080p60(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:12:34 GMT 50775040
+shares/win7/HD/1920x1080p60(16x9)-31main30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 19:36:56 GMT 46781537
+shares/win7/HD/1920x1080p60(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:12:48 GMT 50750036
+shares/win7/HD/1920x1080p60(16x9)-42high15GOP5Mbps44k.MP4 Wed, 18 Jul 2012 19:26:06 GMT 42399174
+shares/win7/HD/1920x1080p60(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:13:02 GMT 46083124
+shares/win7/HD/1920x1080p60(16x9)-42high15GOP5Mbps48k.MP4 Wed, 18 Jul 2012 19:26:06 GMT 42396709
+shares/win7/HD/1920x1080p60(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:13:16 GMT 46055676
+shares/win7/HD/1920x1080p60(16x9)-42high30GOP5Mbps44k.MP4 Wed, 18 Jul 2012 19:36:56 GMT 46660011
+shares/win7/HD/1920x1080p60(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:13:31 GMT 50653968
+shares/win7/HD/1920x1080p60(16x9)-42high30GOP5Mbps48k.MP4 Wed, 18 Jul 2012 19:36:56 GMT 46657526
+shares/win7/HD/1920x1080p60(16x9)-42high30GOP5Mbps48k.MP4 - Shortcut.lnk Wed, 27 Nov 2013 20:03:22 GMT 1483
+shares/win7/HD/1920x1080p60(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:13:45 GMT 50628588
+shares/win7/HD/ffmpeg-20170914-150206.log Thu, 14 Sep 2017 22:02:58 GMT 385774
+shares/win7/HD/Thumbs.db Mon, 04 Nov 2013 19:53:51 GMT 391168
+shares/win7/hd_other_samsung_mountain-aac.ts Tue, 21 May 2013 18:54:29 GMT 91927104
+shares/win7/i1Match_3.6.2_Win7.exe Tue, 11 Mar 2014 20:18:57 GMT 23785848
+shares/win7/i1Pro_130071_2014-03-11.log Tue, 11 Mar 2014 20:39:37 GMT 8136
+shares/win7/Images/aspect/Canyon.jpg Tue, 14 Jul 2009 05:32:32 GMT 845941
+shares/win7/Images/aspect/Chrysanthemum.jpg Tue, 14 Jul 2009 05:32:32 GMT 879394
+shares/win7/Images/aspect/Desert.jpg Tue, 14 Jul 2009 05:32:32 GMT 845941
+shares/win7/Images/aspect/Hydrangeas.jpg Tue, 14 Jul 2009 05:32:32 GMT 595284
+shares/win7/Images/aspect/Jellyfish.jpg Tue, 14 Jul 2009 05:32:32 GMT 775702
+shares/win7/Images/aspect/Koala.jpg Tue, 14 Jul 2009 05:32:32 GMT 780831
+shares/win7/Images/aspect/Lighthouse.jpg Tue, 14 Jul 2009 05:32:32 GMT 561276
+shares/win7/Images/aspect/Penguins.jpg Tue, 14 Jul 2009 05:32:32 GMT 777835
+shares/win7/Images/aspect/Tulips.jpg Tue, 14 Jul 2009 05:32:32 GMT 620888
+shares/win7/Images/black/1920x1080-black.png Thu, 10 Mar 2016 17:15:40 GMT 6159
+shares/win7/Images/bmp/SMD101-1280x720-1280x720-0000.bmp Tue, 01 Oct 2013 17:23:48 GMT 2764854
+shares/win7/Images/bmp/SMD101-1280x720-1920x1080-0000.bmp Tue, 01 Oct 2013 17:43:53 GMT 6220854
+shares/win7/Images/bmp/SMD101-1280x720-1920x1080upsc-0000.bmp Tue, 01 Oct 2013 23:58:30 GMT 6220854
+shares/win7/Images/bmp/SMD101-1920x1080-576p-0000.bmp Tue, 01 Oct 2013 19:11:28 GMT 1244214
+shares/win7/Images/demo/100419445s_ss.tif Tue, 22 Oct 2013 16:59:22 GMT 6253428
+shares/win7/Images/demo/114218254_ss.tif Tue, 22 Oct 2013 16:59:25 GMT 6255600
+shares/win7/Images/demo/3536606_ss.tif Tue, 22 Oct 2013 16:59:27 GMT 6250672
+shares/win7/Images/gif/partyanimsm2.gif Wed, 28 Jan 2015 16:20:46 GMT 268106
+shares/win7/Images/gif/Slide2.gif Tue, 03 Dec 2013 17:06:10 GMT 205623
+shares/win7/Images/Medical/anatom-2k/TG18-CH.2k.tiff Tue, 16 Apr 2002 17:33:34 GMT 8392902
+shares/win7/Images/Medical/anatom-2k/TG18-KN.2k.tiff Tue, 16 Apr 2002 17:33:42 GMT 8392902
+shares/win7/Images/Medical/anatom-2k/TG18-MM1.2k.tif Mon, 07 Oct 2002 21:30:38 GMT 8389376
+shares/win7/Images/Medical/anatom-2k/TG18-MM2.2k.tif Mon, 07 Oct 2002 21:31:14 GMT 8389376
+shares/win7/Images/Medical/multi-2K/TG18-BR.2k_12b.tiff Wed, 24 Apr 2002 20:20:42 GMT 8392902
+shares/win7/Images/Medical/multi-2K/TG18-PQC.2k_12b.tiff Mon, 15 Jul 2002 18:04:56 GMT 8389376
+shares/win7/Images/Medical/multi-2K/TG18-QC.2k_12b.tiff Mon, 15 Jul 2002 18:05:32 GMT 8389376
+shares/win7/Images/png/1280x720-3x16bit-combined20660-pdf.png Fri, 13 Sep 2013 16:28:58 GMT 30554
+shares/win7/Images/png/1280x720-3x8bit-combined20660-pdf.png Fri, 13 Sep 2013 16:28:40 GMT 26024
+shares/win7/Images/png/1280x720_combined20600-excel.png Thu, 12 Sep 2013 23:55:11 GMT 181823
+shares/win7/Images/png/1280x720_combined20660-pdf.png Fri, 13 Sep 2013 16:27:18 GMT 30554
+shares/win7/Images/png/1600x900-limits.png Fri, 02 Sep 2016 15:23:22 GMT 32558
+shares/win7/Images/png/1920x1080-Artbeats1-00001.png Wed, 25 Sep 2013 15:15:24 GMT 4695167
+shares/win7/Images/png/File-MacLeod,_Kevin_-_Celtic_Impulse.ogg Sat, 19 Oct 2013 14:21:48 GMT 32136
+shares/win7/Images/png/image.png Mon, 12 Dec 2016 19:17:26 GMT 7984
+shares/win7/Images/png/Photoshop-BicubicSmother-1280x720-1920x1080(3x16bits)_combined20600-excel.png Thu, 12 Sep 2013 23:59:17 GMT 1647184
+shares/win7/Images/png/Photoshop-BicubicSmother-1280x720-1920x1080(3x8bits)_combined20600-excel.png Fri, 13 Sep 2013 00:03:22 GMT 838766
+shares/win7/Images/png/Slide2.png Wed, 25 Sep 2013 00:51:04 GMT 193510
+shares/win7/Images/png/Slide3.png Wed, 25 Sep 2013 00:52:31 GMT 166055
+shares/win7/Images/png/Slide4.png Wed, 25 Sep 2013 00:52:49 GMT 159028
+shares/win7/Images/test.jspf Wed, 20 Nov 2013 16:24:45 GMT 4943
+shares/win7/Images/Thumbs.db Tue, 03 Dec 2013 17:02:34 GMT 235008
+shares/win7/Images/tif/1280x720_combined20600-excel.tif Fri, 24 Aug 2012 23:10:23 GMT 5559064
+shares/win7/Images/tif/1280x720_combined20660-pdf.tif Fri, 24 Aug 2012 23:10:46 GMT 5557860
+shares/win7/Images/tif/1280x720_combined20840-smooth.tif Fri, 24 Aug 2012 23:11:56 GMT 5558028
+shares/win7/Images/tif/1280x720_combined21030-strong.tif Fri, 24 Aug 2012 23:12:53 GMT 5558332
+shares/win7/Images/tif/1280x720_combined21251-crisp.tif Fri, 24 Aug 2012 23:14:07 GMT 5557944
+shares/win7/Images/tif/1280x720_combined21396-sharp.tif Fri, 24 Aug 2012 23:14:56 GMT 5557952
+shares/win7/Images/tif/1280x720_combined21564-none.tif Fri, 24 Aug 2012 23:15:53 GMT 5557944
+shares/win7/Images/tif/640x480p30(4x3)-0001.tif Fri, 05 Jan 2018 23:02:08 GMT 1068400
+shares/win7/Images/tif/960x540_combined20660-pdf.tif Fri, 13 Sep 2013 17:18:25 GMT 3137964
+shares/win7/Images/tif/FIR-test.tif Mon, 30 Sep 2013 22:01:29 GMT 2861244
+shares/win7/Images/white/1920x1080-white-12.jpg Tue, 29 Oct 2013 20:56:23 GMT 166347
+shares/win7/Images/white/1920x1080-white.bmp Tue, 29 Oct 2013 20:56:54 GMT 6912056
+shares/win7/Images/white/1920x1080-white.jpg Tue, 29 Oct 2013 20:55:41 GMT 42566
+shares/win7/Images/white/1920x1080-white.png Tue, 29 Oct 2013 20:55:59 GMT 12251
+shares/win7/Images/white/1920x1080-white.tif Tue, 29 Oct 2013 20:57:14 GMT 6938564
+shares/win7/Images/white/Thumbs.db Tue, 12 Nov 2013 00:11:12 GMT 9728
+shares/win7/Images/Wikipedia/1920x1080/1920x1080p30-wikiImages2.mp4 Thu, 07 Nov 2013 00:26:50 GMT 165987942
+shares/win7/Images/Wikipedia/1920x1080/AgamaSinaita01_ST_10.png Wed, 23 Oct 2013 15:02:32 GMT 2990005
+shares/win7/Images/Wikipedia/1920x1080/Albi_cathedral_-_choir_and_choir_screen.png Wed, 23 Oct 2013 15:04:52 GMT 4429315
+shares/win7/Images/Wikipedia/1920x1080/All_Gizah_Pyramids.png Wed, 23 Oct 2013 15:40:45 GMT 3754121
+shares/win7/Images/Wikipedia/1920x1080/Arlington_Row_Bibury.png Wed, 23 Oct 2013 15:43:29 GMT 5048230
+shares/win7/Images/Wikipedia/1920x1080/A_storm_at_Pors-Loubous.png Wed, 23 Oct 2013 14:55:03 GMT 2817869
+shares/win7/Images/Wikipedia/1920x1080/A_storm_file 2_WITH_SPACE.png Wed, 23 Oct 2013 14:55:03 GMT 2817869
+shares/win7/Images/Wikipedia/1920x1080/A_storm_file_1.png Wed, 23 Oct 2013 14:55:03 GMT 2817869
+shares/win7/Images/Wikipedia/1920x1080/A_storm_file_3.png Wed, 23 Oct 2013 15:02:32 GMT 2990005
+shares/win7/Images/Wikipedia/1920x1080/Biandintz_eta_zaldiak_-_modified2.png Wed, 23 Oct 2013 15:45:37 GMT 2982503
+shares/win7/Images/Wikipedia/1920x1080/BirghtSignTickerText.txt Thu, 07 Jan 2016 23:23:32 GMT 63
+shares/win7/Images/Wikipedia/1920x1080/Cappadocia_Balloon_Inflating_Wikimedia_Commons.png Wed, 23 Oct 2013 15:48:16 GMT 3198155
+shares/win7/Images/Wikipedia/1920x1080/Chateau_de_Chenonceau_2008E.png Wed, 23 Oct 2013 15:49:34 GMT 3968632
+shares/win7/Images/Wikipedia/1920x1080/Eastern_Tiger_Swallowtail_Papilio_glaucus_Female_2838px.png Wed, 23 Oct 2013 15:51:13 GMT 2367904
+shares/win7/Images/Wikipedia/1920x1080/Eastern_Tiger_Swallowtail_Papilio_glaucus_Female_clean.png Tue, 17 Mar 2015 18:11:09 GMT 2366459
+shares/win7/Images/Wikipedia/1920x1080/Egeskov_Slot_spejling_Edit_2.png Wed, 23 Oct 2013 15:53:58 GMT 3000839
+shares/win7/Images/Wikipedia/1920x1080/Elakala_Waterfalls_Swirling_Pool_Mossy_Rocks.png Wed, 23 Oct 2013 15:55:38 GMT 4039245
+shares/win7/Images/Wikipedia/1920x1080/Fire_breathing_2_Luc_Viatour.png Wed, 23 Oct 2013 15:58:14 GMT 3169858
+shares/win7/Images/Wikipedia/1920x1080/FreightElevator_135wb.png Wed, 23 Oct 2013 15:01:42 GMT 3943226
+shares/win7/Images/Wikipedia/1920x1080/Hohenschwangau_-_Schloss_Neuschwanstein1.png Wed, 23 Oct 2013 16:03:47 GMT 4038413
+shares/win7/Images/Wikipedia/1920x1080/Lake_Vuoksa_1.png Wed, 23 Oct 2013 16:05:23 GMT 3558091
+shares/win7/Images/Wikipedia/1920x1080/Lanzarote_3_Luc_Viatour.png Wed, 23 Oct 2013 16:06:52 GMT 4039626
+shares/win7/Images/Wikipedia/1920x1080/Le_grand_foyer-2.png Wed, 23 Oct 2013 16:08:21 GMT 4357194
+shares/win7/Images/Wikipedia/1920x1080/Lone_House.png Wed, 23 Oct 2013 16:10:28 GMT 3347353
+shares/win7/Images/Wikipedia/1920x1080/Matanuska_Glacier_mouth.png Wed, 23 Oct 2013 16:20:26 GMT 4288514
+shares/win7/Images/Wikipedia/1920x1080/Messier51_sRGB.png Wed, 23 Oct 2013 16:25:51 GMT 3776176
+shares/win7/Images/Wikipedia/1920x1080/Mostar_Old_Town_Panorama_2007.png Wed, 23 Oct 2013 16:28:24 GMT 3750607
+shares/win7/Images/Wikipedia/1920x1080/Musca_domestica_Portrait.png Wed, 23 Oct 2013 16:57:59 GMT 3168027
+shares/win7/Images/Wikipedia/1920x1080/MÃ¥bÃ¸dalen,_2011_August.png Wed, 23 Oct 2013 16:18:01 GMT 4925739
+shares/win7/Images/Wikipedia/1920x1080/Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2.png Wed, 23 Oct 2013 17:04:34 GMT 2736875
+shares/win7/Images/Wikipedia/1920x1080/Osteospermum_Flower_Power_Spider_Purple_2134px.png Wed, 23 Oct 2013 17:29:58 GMT 2003628
+shares/win7/Images/Wikipedia/1920x1080/Park_zamkowy_w_Pszczynie_03promykjck.png Wed, 23 Oct 2013 17:31:22 GMT 4322132
+shares/win7/Images/Wikipedia/1920x1080/Pieter_Bruegel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.png Wed, 23 Oct 2013 17:34:29 GMT 4399576
+shares/win7/Images/Wikipedia/1920x1080/PlatycryptusUndatusFemale.png Wed, 23 Oct 2013 17:35:51 GMT 2006978
+shares/win7/Images/Wikipedia/1920x1080/PortraitOfAnIguana.png Wed, 23 Oct 2013 17:53:51 GMT 3201892
+shares/win7/Images/Wikipedia/1920x1080/Red_eyed_tree_frog_edit2.png Wed, 23 Oct 2013 18:03:28 GMT 2860970
+shares/win7/Images/Wikipedia/1920x1080/Russian_honor_guard_at_Tomb_of_the_Unknown_Soldier,_Alexander_Garden_welcomes_Michael_G._Mullen_2009-06-26_2.png Wed, 23 Oct 2013 18:04:40 GMT 2466829
+shares/win7/Images/Wikipedia/1920x1080/Salar_de_Atacama.png Wed, 23 Oct 2013 18:05:37 GMT 3471742
+shares/win7/Images/Wikipedia/1920x1080/Schloss_Lichtenstein_04-2010.png Wed, 23 Oct 2013 18:07:14 GMT 3830508
+shares/win7/Images/Wikipedia/1920x1080/Schnepfenfliege_Rhagio_scolopaceus2.png Wed, 23 Oct 2013 18:08:09 GMT 2464363
+shares/win7/Images/Wikipedia/1920x1080/stills/AgamaSinaita01_ST_10.png Wed, 23 Oct 2013 15:02:32 GMT 2990005
+shares/win7/Images/Wikipedia/1920x1080/stills/Albi_cathedral_-_choir_and_choir_screen.png Wed, 23 Oct 2013 15:04:52 GMT 4429315
+shares/win7/Images/Wikipedia/1920x1080/stills/Arlington_Row_Bibury.png Wed, 23 Oct 2013 15:43:29 GMT 5048230
+shares/win7/Images/Wikipedia/1920x1080/stills/Cappadocia_Balloon_Inflating_Wikimedia_Commons.png Wed, 23 Oct 2013 15:48:16 GMT 3198155
+shares/win7/Images/Wikipedia/1920x1080/stills/Lake_Vuoksa_1.png Wed, 23 Oct 2013 16:05:23 GMT 3558091
+shares/win7/Images/Wikipedia/1920x1080/stills/Lanzarote_3_Luc_Viatour.png Wed, 23 Oct 2013 16:06:52 GMT 4039626
+shares/win7/Images/Wikipedia/1920x1080/stills/Le_grand_foyer-2.png Wed, 23 Oct 2013 16:08:21 GMT 4357194
+shares/win7/Images/Wikipedia/1920x1080/stills/Red_eyed_tree_frog_edit2.png Wed, 23 Oct 2013 18:03:28 GMT 2860970
+shares/win7/Images/Wikipedia/1920x1080/stills-listing.txt Wed, 22 Mar 2017 20:50:17 GMT 3672
+shares/win7/Images/Wikipedia/1920x1080/Strix-varia-005.png Wed, 23 Oct 2013 18:09:30 GMT 2992710
+shares/win7/Images/Wikipedia/1920x1080/Synchiropus_splendidus_2_Luc_Viatour.png Wed, 23 Oct 2013 18:10:32 GMT 2409485
+shares/win7/Images/Wikipedia/1920x1080/TarvasjÃµgi.png Wed, 23 Oct 2013 18:11:21 GMT 4581633
+shares/win7/Images/Wikipedia/1920x1080/Terrace_field_yunnan_china_denoised.png Wed, 23 Oct 2013 18:12:16 GMT 4267448
+shares/win7/Images/Wikipedia/1920x1080/Thumbs.db Wed, 20 Nov 2013 22:19:13 GMT 275968
+shares/win7/Images/Wikipedia/1920x1440-4x3/Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2-4x3.png Fri, 26 May 2017 17:12:22 GMT 2741569
+shares/win7/Images/Wikipedia/2099725_FreightElevator_135wb.jpg Sat, 19 Oct 2013 05:21:04 GMT 13858149
+shares/win7/Images/Wikipedia/AgamaSinaita01_ST_10.jpg Sat, 19 Oct 2013 06:10:40 GMT 1851327
+shares/win7/Images/Wikipedia/Albi_cathedral_-_choir_and_choir_screen.jpg Sat, 19 Oct 2013 05:22:08 GMT 3420511
+shares/win7/Images/Wikipedia/All_Gizah_Pyramids.jpg Sat, 19 Oct 2013 05:51:56 GMT 6065424
+shares/win7/Images/Wikipedia/Arlington_Row_Bibury.jpg Sat, 19 Oct 2013 06:26:34 GMT 8078103
+shares/win7/Images/Wikipedia/A_storm_at_Pors-Loubous.jpg Sat, 19 Oct 2013 05:49:02 GMT 517282
+shares/win7/Images/Wikipedia/Biandintz_eta_zaldiak_-_modified2.jpg Sat, 19 Oct 2013 05:28:22 GMT 1749548
+shares/win7/Images/Wikipedia/Cappadocia_Balloon_Inflating_Wikimedia_Commons.jpg Sat, 19 Oct 2013 05:08:50 GMT 3203146
+shares/win7/Images/Wikipedia/Chateau_de_Chenonceau_2008E.jpg Sat, 19 Oct 2013 05:38:32 GMT 13819853
+shares/win7/Images/Wikipedia/Colouring_pencils.jpg Sat, 19 Oct 2013 05:51:52 GMT 1557118
+shares/win7/Images/Wikipedia/Eastern_Tiger_Swallowtail_Papilio_glaucus_Female_2838px.jpg Sat, 19 Oct 2013 05:43:16 GMT 2443210
+shares/win7/Images/Wikipedia/Egeskov_Slot_spejling_Edit_2.jpg Sat, 19 Oct 2013 05:49:58 GMT 1320343
+shares/win7/Images/Wikipedia/Elakala_Waterfalls_Swirling_Pool_Mossy_Rocks.jpg Sat, 19 Oct 2013 05:54:22 GMT 10484171
+shares/win7/Images/Wikipedia/Fire_breathing_2_Luc_Viatour.jpg Sat, 19 Oct 2013 05:29:12 GMT 8706667
+shares/win7/Images/Wikipedia/Hohenschwangau_-_Schloss_Neuschwanstein1.jpg Sat, 19 Oct 2013 06:16:20 GMT 1923888
+shares/win7/Images/Wikipedia/Lake_Vuoksa_1.jpg Sat, 19 Oct 2013 06:08:34 GMT 4154504
+shares/win7/Images/Wikipedia/Lanzarote_3_Luc_Viatour.jpg Sat, 19 Oct 2013 05:09:32 GMT 8574929
+shares/win7/Images/Wikipedia/Lanzarote_5_Luc_Viatour.jpg Sat, 19 Oct 2013 06:14:54 GMT 13438844
+shares/win7/Images/Wikipedia/Le_grand_foyer-2.jpg Sat, 19 Oct 2013 05:07:08 GMT 2018402
+shares/win7/Images/Wikipedia/Lone_House.jpg Sat, 19 Oct 2013 06:08:06 GMT 707890
+shares/win7/Images/Wikipedia/Matanuska_Glacier_mouth.jpg Sat, 19 Oct 2013 06:24:26 GMT 4555687
+shares/win7/Images/Wikipedia/Messier51_sRGB.jpg Sat, 19 Oct 2013 05:36:06 GMT 74448775
+shares/win7/Images/Wikipedia/Mostar_Old_Town_Panorama_2007.jpg Sat, 19 Oct 2013 05:08:10 GMT 2987547
+shares/win7/Images/Wikipedia/Musca_domestica_Portrait.jpg Mon, 21 Oct 2013 06:26:38 GMT 1728528
+shares/win7/Images/Wikipedia/MÃ¥bÃ¸dalen,_2011_August.jpg Sat, 19 Oct 2013 06:25:20 GMT 9847416
+shares/win7/Images/Wikipedia/Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2.jpg Sat, 19 Oct 2013 05:39:12 GMT 3342844
+shares/win7/Images/Wikipedia/Osteospermum_Flower_Power_Spider_Purple_2134px.jpg Sat, 19 Oct 2013 05:43:58 GMT 2468763
+shares/win7/Images/Wikipedia/Park_zamkowy_w_Pszczynie_03promykjck.jpg Sat, 19 Oct 2013 06:26:02 GMT 12032811
+shares/win7/Images/Wikipedia/Pieter_Bruegel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg Sat, 19 Oct 2013 06:19:44 GMT 18918563
+shares/win7/Images/Wikipedia/PlatycryptusUndatusFemale.jpg Sat, 19 Oct 2013 05:43:48 GMT 3193104
+shares/win7/Images/Wikipedia/PortraitOfAnIguana.jpg Sat, 19 Oct 2013 05:07:50 GMT 1091053
+shares/win7/Images/Wikipedia/Red_eyed_tree_frog_edit2.jpg Sat, 19 Oct 2013 06:10:32 GMT 2415876
+shares/win7/Images/Wikipedia/Russian_honor_guard_at_Tomb_of_the_Unknown_Soldier,_Alexander_Garden_welcomes_Michael_G._Mullen_2009-06-26_2.jpg Sat, 19 Oct 2013 05:54:58 GMT 2285223
+shares/win7/Images/Wikipedia/Salar_de_Atacama.jpg Sat, 19 Oct 2013 06:16:42 GMT 1863907
+shares/win7/Images/Wikipedia/Schloss_Lichtenstein_04-2010.jpg Sat, 19 Oct 2013 06:08:00 GMT 3094304
+shares/win7/Images/Wikipedia/Schnepfenfliege_Rhagio_scolopaceus2.jpg Sat, 19 Oct 2013 05:30:42 GMT 4373142
+shares/win7/Images/Wikipedia/Strix-varia-005.jpg Sat, 19 Oct 2013 05:46:16 GMT 4638358
+shares/win7/Images/Wikipedia/Synchiropus_splendidus_2_Luc_Viatour.jpg Sat, 19 Oct 2013 05:37:12 GMT 1963394
+shares/win7/Images/Wikipedia/TarvasjÃµgi.jpg Sat, 19 Oct 2013 06:26:38 GMT 12156995
+shares/win7/Images/Wikipedia/Terrace_field_yunnan_china_denoised.jpg Sat, 19 Oct 2013 05:47:48 GMT 728245
+shares/win7/Images/Wikipedia/Thumbs.db Fri, 08 Nov 2013 00:34:04 GMT 47616
+shares/win7/IMG_0758.MOV Thu, 29 Aug 2013 21:54:18 GMT 1430992
+shares/win7/interlaced/00062(dei).mp4 Wed, 10 Jun 2015 22:57:56 GMT 135294861
+shares/win7/interlaced/00197(dei).mp4 Wed, 10 Jun 2015 23:03:58 GMT 89485105
+shares/win7/interlaced/1920x1080i29(16x9)-42high15GOP5Mbps48k.ts Wed, 10 Jun 2015 21:18:08 GMT 141271848
+shares/win7/interlaced/1920x1080mbaff29(16x9)-42high15GOP5Mbps48k.ts Wed, 10 Jun 2015 19:49:52 GMT 22432912
+shares/win7/interlaced/1920x1080tff29(16x9)-42high15GOP5Mbps48k.mp4 Wed, 10 Jun 2015 21:14:06 GMT 128683290
+shares/win7/interlaced/GY-HM790_H264.mov Wed, 10 Jun 2015 19:06:22 GMT 105493358
+shares/win7/interlaced/NTSC_1080i_AVC-I_colorbar.mov Wed, 10 Jun 2015 19:05:22 GMT 85278226
+shares/win7/ip.cfg.txt Thu, 05 Sep 2013 18:53:06 GMT 615
+shares/win7/Jimmy Buffett For Ross Ritto.mp4 Thu, 17 Oct 2013 14:54:25 GMT 7246661
+shares/win7/Korea-F1-32317154.mp4.flv Thu, 26 Sep 2013 17:53:04 GMT 19061996
+shares/win7/list.txt Wed, 08 Nov 2017 19:14:35 GMT 176610
+shares/win7/lufthansa_cloudstream_30sec.mp4.flv Thu, 03 May 2012 15:00:13 GMT 3309543
+shares/win7/Minus17dB-20-20k-step-1k-above-10k.mp4 Fri, 28 Jun 2013 22:35:58 GMT 895576
+shares/win7/mjpeg/ffmpegCMD.txt Thu, 11 Jun 2015 23:18:04 GMT 389
+shares/win7/mjpeg/lobby-mjpeg.mov Wed, 10 Jun 2015 18:14:08 GMT 1775630594
+shares/win7/mov/1282-mov.html Fri, 18 Oct 2013 16:12:45 GMT 6683
+shares/win7/mov/GARNET-1110-stutterRelated.MOV Thu, 19 Sep 2013 17:51:00 GMT 681971
+shares/win7/mov/GARNET-1282-IAID47182-RSTP-surge-hesitation.MOV Thu, 10 Oct 2013 19:30:25 GMT 2351343
+shares/win7/mov/IMG_2065.MOV Fri, 18 Oct 2013 18:18:32 GMT 1280596
+shares/win7/mov/Vtech seamless switch demo.mov Thu, 10 Apr 2014 03:07:59 GMT 14849761
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_ac3-192k-PID.ts Tue, 19 Dec 2017 23:59:36 GMT 60518328
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_ac3-192k.mpg Tue, 19 Dec 2017 23:40:22 GMT 55902208
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_ac3-320k.mpg Tue, 19 Dec 2017 23:14:34 GMT 57683968
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS16_ac3-192k-PID.mpg Wed, 20 Dec 2017 00:13:37 GMT 90322944
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS16_ac3-192k-PID.ts Wed, 20 Dec 2017 00:15:19 GMT 97489468
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS8_16M_ac3-192k-dvd.mpg Wed, 20 Dec 2017 21:03:21 GMT 183062528
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS8_16M_ac3-192k-PID-224-189.ts Wed, 20 Dec 2017 16:49:10 GMT 194640724
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS8_16M_ac3-192k-svcd.mpg Wed, 20 Dec 2017 21:02:00 GMT 182261760
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS8_16M_ac3-192k-vob.mpg Wed, 20 Dec 2017 20:59:23 GMT 182259712
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS8_16M_mp3-192k-dvd.mpg Wed, 20 Dec 2017 21:05:30 GMT 183056384
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS8_20M_ac3-192k-PID-224-189.ts Wed, 20 Dec 2017 16:41:00 GMT 206192760
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/Artbeats_1_QS8_ac3-192k-PID-224-189.ts Wed, 20 Dec 2017 15:18:37 GMT 210359968
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/interlaced/Artbeats_1.MPG Mon, 24 May 2010 11:17:48 GMT 495606164
+shares/win7/mpeg-2+ac-3/mpeg-2-video-ac-3-2ch-audio/interlaced/TW_LDV.mpg Thu, 21 Feb 2008 02:18:29 GMT 639404544
+shares/win7/mpeg-2+ac-3/mpeg-2-video-mpeg-1-audio/SplashingWater_1280x720_p_17_5994_36Mbps.mpg Thu, 17 Feb 2011 20:20:16 GMT 23213864
+shares/win7/mpeg-2+ac-3/videoOnly/CrowdRun_1280x720p_5994_26Mbps.mpg Tue, 08 Mar 2011 18:31:20 GMT 27799936
+shares/win7/mpeg-transcode-264-mpa/ASpot_blk_1920X1080p29_dei_1-5Mbps.ts Tue, 26 Jul 2016 22:11:06 GMT 12130700
+shares/win7/mpeg-transcode-264-mpa/ASpot_blk_1920X1080_p_17_2997_dei.mpg Tue, 26 Jul 2016 18:20:16 GMT 42424320
+shares/win7/mpeg-transcode-264-mpa/ASpot_blk_1920X1080_p_17_2997_dei.ts Tue, 26 Jul 2016 20:12:52 GMT 46069400
+shares/win7/mpeg-transcode-264-mpa/ShuttleLaunchDay_1920X1080p29_crf2.mpg Wed, 27 Jul 2016 15:36:24 GMT 3094673408
+shares/win7/mpg-withCaptions/1280x720p60(16x9)-42high15GOP5Mbps44k-position-text.mp4 Fri, 14 Mar 2014 19:10:52 GMT 49049612
+shares/win7/mpg-withCaptions/1280x720p60(16x9)-42high15GOP5Mbps44k-style-text.mp4 Fri, 14 Mar 2014 18:46:14 GMT 49011987
+shares/win7/mpg-withCaptions/1280x720p60(16x9)-42high15GOP5Mbps44k-style-text2.mp4 Fri, 14 Mar 2014 19:31:09 GMT 98023640
+shares/win7/mpg-withCaptions/1280x720p60(16x9)-42high15GOP5Mbps44k-style-text3.mp4 Fri, 14 Mar 2014 19:34:25 GMT 49011976
+shares/win7/mpg-withCaptions/1280x720p60(16x9)-42high15GOP5Mbps44k-style-text4.mp4 Fri, 14 Mar 2014 19:47:24 GMT 49049553
+shares/win7/mpg-withCaptions/1280x720p60(16x9)-42high15GOP5Mbps44k-text.mp4 Fri, 14 Mar 2014 17:07:10 GMT 49049530
+shares/win7/mpg-withCaptions/America's Court (PitchBlue).mp4 Sat, 16 Nov 2013 02:40:11 GMT 933865011
+shares/win7/mpg-withCaptions/America's Court (PitchBlue).mpg Fri, 15 Nov 2013 03:17:00 GMT 2983659736
+shares/win7/mpg-withCaptions/Pathfire_HD_Test_Files.mpg Thu, 14 Nov 2013 20:31:20 GMT 1456685056
+shares/win7/mpg-withCaptions/Pathfire_HD_Test_Files.smi Thu, 14 Nov 2013 23:13:29 GMT 35932
+shares/win7/mpg-withCaptions/Pathfire_HD_Test_Files.srt Thu, 14 Nov 2013 22:53:29 GMT 10019
+shares/win7/mpg-withCaptions/Pathfire_HD_Test_Files.txt Thu, 14 Nov 2013 22:56:23 GMT 10714
+shares/win7/mpg-withCaptions/Thumbs.db Sat, 16 Nov 2013 01:27:33 GMT 17408
+shares/win7/mpg-withCaptions/TWO_AND_A_HALF_MEN32.mpg Thu, 14 Nov 2013 23:17:28 GMT 2058239678
+shares/win7/Mr_MrsSmith-h264_aac.mp4 Thu, 26 Sep 2013 17:53:03 GMT 6187806
+shares/win7/NASA/MakitoX-SMD-jitter-smear-6Mbps.mp4 Mon, 23 Nov 2015 19:42:22 GMT 215082668
+shares/win7/NASA/MakitoX-SMD-jitter-smear2-25Mbps.mp4 Mon, 23 Nov 2015 20:00:16 GMT 449211722
+shares/win7/Network-copy-play-Friends.png Fri, 28 Jun 2013 18:23:10 GMT 19679
+shares/win7/networkSpeedFriends63MbpsCopy-play.png Mon, 12 Aug 2013 22:37:08 GMT 43016
+shares/win7/playlists/Jira2360/axis-loop.jspf Mon, 24 Aug 2015 17:54:48 GMT 343
+shares/win7/playlists/Jira2360/rtsp-fail-timeout.jspf Mon, 24 Aug 2015 17:52:10 GMT 275
+shares/win7/playlists/test.m3u Wed, 29 Jul 2015 17:36:44 GMT 126
+shares/win7/playlists/test2.m3u Wed, 29 Jul 2015 18:05:53 GMT 269
+shares/win7/playlists/test3.m3u Wed, 29 Jul 2015 18:10:23 GMT 214
+shares/win7/playlists/test5.m3u Wed, 29 Jul 2015 18:39:02 GMT 239
+shares/win7/playlists/test6.m3u Wed, 29 Jul 2015 18:43:07 GMT 183
+shares/win7/Porcelania.mp4.flv Mon, 05 Aug 2013 20:13:19 GMT 50301696
+shares/win7/powerPoint/Week of 5-5-15.mp4 Tue, 11 Aug 2015 16:27:26 GMT 436383
+shares/win7/QA-test-clips/h264-sample-thefluff.mp4 Thu, 01 Sep 2011 15:23:32 GMT 55775428
+shares/win7/QR-code/640x480p30-4x3-QR.mp4 Thu, 22 Dec 2016 17:44:30 GMT 21612191
+shares/win7/RGB-spectrum/SCADA_1080_1M_15F@0000.ts Thu, 21 Jan 2016 20:42:52 GMT 5293328
+shares/win7/RGB-spectrum/SCADA_1080_3M_30F@0000.ts Thu, 21 Jan 2016 20:42:44 GMT 14961228
+shares/win7/RGB-spectrum/SCADA_1080_500K_15F@0000.ts Thu, 21 Jan 2016 20:42:54 GMT 3484768
+shares/win7/RGB-spectrum/SCADA_1080_6M_30F@0000.ts Thu, 21 Jan 2016 20:42:24 GMT 29505096
+shares/win7/RGB-spectrum/VIDEO_1080_1M_15F@0000.ts Thu, 21 Jan 2016 20:47:30 GMT 8202064
+shares/win7/RGB-spectrum/VIDEO_1080_3M_30F@0000.ts Thu, 21 Jan 2016 20:43:20 GMT 17121724
+shares/win7/RGB-spectrum/VIDEO_1080_500K_15F@0000.ts Thu, 21 Jan 2016 20:43:16 GMT 7951648
+shares/win7/RGB-spectrum/VIDEO_1080_6M_30F@0000.ts Thu, 21 Jan 2016 20:43:20 GMT 32743772
+shares/win7/rtsp/readme.txt Tue, 20 Jan 2015 20:55:14 GMT 1708
+shares/win7/rtsp/RTSP-captured.pcapng Tue, 20 Jan 2015 20:37:48 GMT 18864
+shares/win7/rtsp/SME-RTSP-multi-SMD-favor-multi.txt Tue, 20 Jan 2015 20:32:34 GMT 3398
+shares/win7/rtsp/SME-RTSP-multi-SMD-favor-uni.txt Tue, 20 Jan 2015 20:34:46 GMT 3260
+shares/win7/rtsp/SME-RTSP-uni-SMD-favor-multi.txt Tue, 20 Jan 2015 20:35:58 GMT 3188
+shares/win7/rtsp/SME-RTSP-uni-SMD-favor-uni.txt Tue, 20 Jan 2015 20:36:31 GMT 3186
+shares/win7/scrollText/1920x1080-TickerText-animated-7200-900-script.mp4 Wed, 21 Dec 2016 22:38:40 GMT 12025610
+shares/win7/scrollText/1920x1080p30-TickerTestV4.mp4 Wed, 21 Dec 2016 22:47:20 GMT 23678061
+shares/win7/SD/720x480p29(16x9)-31main15GOP5Mbps44k.MP4 Mon, 16 Jul 2012 23:44:37 GMT 41671547
+shares/win7/SD/720x480p29(16x9)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:03:38 GMT 45100448
+shares/win7/SD/720x480p29(16x9)-31main15GOP5Mbps48k.MP4 Mon, 16 Jul 2012 23:44:38 GMT 41672143
+shares/win7/SD/720x480p29(16x9)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:03:56 GMT 45082400
+shares/win7/SD/720x480p29(16x9)-31main30GOP5Mbps44k.MP4 Mon, 16 Jul 2012 23:44:38 GMT 40715929
+shares/win7/SD/720x480p29(16x9)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:04:14 GMT 44056860
+shares/win7/SD/720x480p29(16x9)-31main30GOP5Mbps48k.MP4 Mon, 16 Jul 2012 23:44:38 GMT 40716525
+shares/win7/SD/720x480p29(16x9)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:04:28 GMT 44039000
+shares/win7/SD/720x480p29(16x9)-42high15GOP5Mbps44k.MP4 Mon, 16 Jul 2012 23:44:38 GMT 41732141
+shares/win7/SD/720x480p29(16x9)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:04:46 GMT 45166248
+shares/win7/SD/720x480p29(16x9)-42high15GOP5Mbps48k.MP4 Mon, 16 Jul 2012 23:44:38 GMT 41732737
+shares/win7/SD/720x480p29(16x9)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:05:00 GMT 45149516
+shares/win7/SD/720x480p29(16x9)-42high30GOP5Mbps44k.MP4 Mon, 16 Jul 2012 23:44:38 GMT 40795342
+shares/win7/SD/720x480p29(16x9)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:05:17 GMT 44141460
+shares/win7/SD/720x480p29(16x9)-42high30GOP5Mbps48k.MP4 Mon, 16 Jul 2012 23:44:38 GMT 40795938
+shares/win7/SD/720x480p29(16x9)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:05:34 GMT 44122660
+shares/win7/SD/720x480p29(4x3)-31main15GOP5Mbps44k.MP4 Mon, 16 Jul 2012 23:16:10 GMT 40593137
+shares/win7/SD/720x480p29(4x3)-31main15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:05:48 GMT 43933720
+shares/win7/SD/720x480p29(4x3)-31main15GOP5Mbps48k.MP4 Mon, 16 Jul 2012 23:16:10 GMT 40593733
+shares/win7/SD/720x480p29(4x3)-31main15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:06:02 GMT 43915860
+shares/win7/SD/720x480p29(4x3)-31main30GOP5Mbps44k.MP4 Mon, 16 Jul 2012 23:16:10 GMT 39690780
+shares/win7/SD/720x480p29(4x3)-31main30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:06:15 GMT 42952924
+shares/win7/SD/720x480p29(4x3)-31main30GOP5Mbps48k.MP4 Mon, 16 Jul 2012 23:16:10 GMT 39691376
+shares/win7/SD/720x480p29(4x3)-31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:06:30 GMT 42936004
+shares/win7/SD/720x480p29(4x3)-42high15GOP5Mbps44k.MP4 Mon, 16 Jul 2012 23:16:10 GMT 40650814
+shares/win7/SD/720x480p29(4x3)-42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:06:48 GMT 43999144
+shares/win7/SD/720x480p29(4x3)-42high15GOP5Mbps48k.MP4 Mon, 16 Jul 2012 23:16:10 GMT 40651410
+shares/win7/SD/720x480p29(4x3)-42high15GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:07:02 GMT 43981472
+shares/win7/SD/720x480p29(4x3)-42high30GOP5Mbps44k.MP4 Mon, 16 Jul 2012 23:16:10 GMT 39752516
+shares/win7/SD/720x480p29(4x3)-42high30GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:07:19 GMT 43018912
+shares/win7/SD/720x480p29(4x3)-42high30GOP5Mbps48k.MP4 Mon, 16 Jul 2012 23:16:10 GMT 39753112
+shares/win7/SD/720x480p29(4x3)-42high30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:07:35 GMT 43000676
+shares/win7/SD/mp3audio/720x480p29(16x9)-31main15GOP5Mbps44k.TS Mon, 16 Jul 2012 23:44:38 GMT 45066420
+shares/win7/SD/mp3audio/720x480p29(16x9)-31main15GOP5Mbps48k.TS Mon, 16 Jul 2012 23:44:38 GMT 45084092
+shares/win7/SD/mp3audio/720x480p29(16x9)-31main30GOP5Mbps44k.TS Mon, 16 Jul 2012 23:44:38 GMT 44023584
+shares/win7/SD/mp3audio/720x480p29(16x9)-31main30GOP5Mbps48k.TS Mon, 16 Jul 2012 23:44:38 GMT 44038812
+shares/win7/SD/mp3audio/720x480p29(16x9)-42high15GOP5Mbps44k.TS Mon, 16 Jul 2012 23:44:38 GMT 45131844
+shares/win7/SD/mp3audio/720x480p29(16x9)-42high15GOP5Mbps48k.TS Mon, 16 Jul 2012 23:44:38 GMT 45150080
+shares/win7/SD/mp3audio/720x480p29(16x9)-42high30GOP5Mbps44k.TS Mon, 16 Jul 2012 23:44:38 GMT 44108936
+shares/win7/SD/mp3audio/720x480p29(16x9)-42high30GOP5Mbps48k.TS Mon, 16 Jul 2012 23:44:38 GMT 44123600
+shares/win7/SD/mp3audio/720x480p29(4x3)-31main15GOP5Mbps44k.TS Mon, 16 Jul 2012 23:16:10 GMT 43902700
+shares/win7/SD/mp3audio/720x480p29(4x3)-31main15GOP5Mbps48k.TS Mon, 16 Jul 2012 23:16:10 GMT 43916800
+shares/win7/SD/mp3audio/720x480p29(4x3)-31main30GOP5Mbps44k.TS Mon, 16 Jul 2012 23:16:10 GMT 42920024
+shares/win7/SD/mp3audio/720x480p29(4x3)-31main30GOP5Mbps48k.TS Mon, 16 Jul 2012 23:16:10 GMT 42936192
+shares/win7/SD/mp3audio/720x480p29(4x3)-42high15GOP5Mbps44k.TS Mon, 16 Jul 2012 23:16:10 GMT 43966244
+shares/win7/SD/mp3audio/720x480p29(4x3)-42high15GOP5Mbps48k.TS Mon, 16 Jul 2012 23:16:10 GMT 43982788
+shares/win7/SD/mp3audio/720x480p29(4x3)-42high30GOP5Mbps44k.TS Mon, 16 Jul 2012 23:16:10 GMT 42985260
+shares/win7/SD/mp3audio/720x480p29(4x3)-42high30GOP5Mbps48k.TS Mon, 16 Jul 2012 23:16:10 GMT 43001616
+shares/win7/seamless/failed/15fps.mp4 Mon, 22 Dec 2014 20:34:55 GMT 3681135
+shares/win7/seamless/failed/30fps.mp4 Mon, 22 Dec 2014 20:34:28 GMT 3878026
+shares/win7/seamless/failed/Amazon_1280x720_8000k.h264.mp4 Mon, 22 Dec 2014 20:34:52 GMT 9295023
+shares/win7/seamless/failed/Thumbs.db Mon, 22 Dec 2014 22:03:24 GMT 24064
+shares/win7/seamless/fast-start/15fps-fast-start.mp4 Mon, 22 Dec 2014 21:58:25 GMT 3677246
+shares/win7/seamless/fast-start/15fps-fast-subs.mp4 Mon, 22 Dec 2014 22:23:52 GMT 3677738
+shares/win7/seamless/fast-start/1920x1080p60(16x9)-42high15GOP5Mbps_AAC_1s_black_0_fullRange_cfr_copy_fast.mp4 Tue, 02 May 2017 22:08:58 GMT 45274373
+shares/win7/seamless/fast-start/30fps-fast-start.mp4 Mon, 22 Dec 2014 21:58:53 GMT 3873773
+shares/win7/seamless/fast-start/30fps-fast-subs.mp4 Mon, 22 Dec 2014 22:24:42 GMT 3874281
+shares/win7/seamless/fast-start/608x1080p60(16x9)-42high15GOP5Mbps_AAC_1s_black_0_fullRange_cfr_copy_5s_fast.mp4 Tue, 02 May 2017 18:36:38 GMT 462427
+shares/win7/seamless/fast-start/608x1080p60(16x9)-42high15GOP5Mbps_AAC_1s_black_0_fullRange_cfr_copy_fast.mp4 Tue, 02 May 2017 22:00:50 GMT 12044151
+shares/win7/seamless/fast-start/Amazon_1280x720_8000k-fast-start.h264.mp4 Mon, 22 Dec 2014 21:59:35 GMT 9295023
+shares/win7/seamless/fast-start/Amazon_1280x720_8000k-fast-subs.h264.mp4 Mon, 22 Dec 2014 22:25:04 GMT 9295023
+shares/win7/seamless/fast-start/Artbeats_2_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:41:31 GMT 11071720
+shares/win7/seamless/fast-start/Artbeats_2_608x1080_5Mbps-20sec-fast.mp4 Tue, 02 May 2017 22:44:42 GMT 4809235
+shares/win7/seamless/fast-start/folder-seamless/Artbeats_2_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:41:31 GMT 11071720
+shares/win7/seamless/fast-start/folder-seamless/Artbeats_2_608x1080_5Mbps-20sec-fast.mp4 Tue, 02 May 2017 22:44:42 GMT 4809235
+shares/win7/seamless/fast-start/Thumbs.db Mon, 22 Dec 2014 22:03:14 GMT 24064
+shares/win7/seamless/forJack/fox_matrix_family_fast.mp4 Wed, 03 Feb 2016 00:16:52 GMT 6859723
+shares/win7/seamless/forJack/tide-fast.mp4 Wed, 03 Feb 2016 00:18:30 GMT 54738614
+shares/win7/sharelink/1920x1080p30(16x9)_base15GOP_20Mbps.MP4 Tue, 17 Feb 2015 20:44:26 GMT 225922033
+shares/win7/sharelink/1920x1080p30(16x9)_base30GOP_20Mbps.MP4 Tue, 17 Feb 2015 20:44:26 GMT 224460611
+shares/win7/sharelink/1920x1080p30(16x9)_base5GOP_20Mbps.MP4 Tue, 17 Feb 2015 20:44:26 GMT 227246889
+shares/win7/sharelink/1920x1080p30(16x9)_high15GOP_20Mbps.MP4 Tue, 17 Feb 2015 20:44:26 GMT 215034212
+shares/win7/sharelink/1920x1080p30(16x9)_high30GOP_20Mbps.MP4 Tue, 17 Feb 2015 20:44:26 GMT 206510453
+shares/win7/sharelink/1920x1080p30(16x9)_high5GOP_20Mbps.MP4 Tue, 17 Feb 2015 20:44:26 GMT 226470400
+shares/win7/sharelink/1920x1080p30(16x9)_main15GOP_20Mbps.MP4 Tue, 17 Feb 2015 18:52:01 GMT 209812570
+shares/win7/sharelink/1920x1080p30(16x9)_main15GOP_20_10Mbps.MP4 Tue, 17 Feb 2015 18:28:17 GMT 233692008
+shares/win7/sharelink/1920x1080p30(16x9)_main30GOP_20Mbps.MP4 Tue, 17 Feb 2015 20:44:26 GMT 200280288
+shares/win7/sharelink/1920x1080p30(16x9)_main5GOP_20Mbps.MP4 Tue, 17 Feb 2015 20:44:26 GMT 226352275
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_base15GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:22:36 GMT 227443995
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_base30GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:23:02 GMT 225982165
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_base5GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:20:09 GMT 228768923
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_high15GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:24:49 GMT 216556178
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_high30GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:24:24 GMT 208032199
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_high5GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:25:01 GMT 227992246
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_main15GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:23:41 GMT 211334556
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_main30GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:24:03 GMT 201802054
+shares/win7/sharelink/with-audio/1920x1080p30(16x9)_main5GOP_20Mbps_48k.MP4 Tue, 17 Feb 2015 21:23:31 GMT 227874289
+shares/win7/sharelink/with-audio/Thumbs.db Tue, 17 Feb 2015 22:07:24 GMT 44544
+shares/win7/SMP351recordings/adhoc_20131008_190733/episode.xml Wed, 09 Oct 2013 02:07:32 GMT 455
+shares/win7/SMP351recordings/adhoc_20131008_190733/PCR-351-0A-6C-D0_20131008_190733.m4v Wed, 09 Oct 2013 02:08:12 GMT 19135697
+shares/win7/SMP351recordings/adhoc_20131008_190733/PCR-351-0A-6C-D0_20131008_190733.xml Wed, 09 Oct 2013 02:08:16 GMT 556
+shares/win7/SMP351recordings/adhoc_20131008_190733/thumbnails/00015004.png Wed, 09 Oct 2013 02:07:58 GMT 390874
+shares/win7/SMP351recordings/adhoc_20131008_190733/thumbnails/Thumbs.db Fri, 29 Aug 2014 00:23:13 GMT 52224
+shares/win7/SMP351recordings/adhoc_20131008_190733/Thumbs.db Wed, 14 Jan 2015 19:22:05 GMT 12800
+shares/win7/SMP351recordings/artifacts/CBR-artifact.mp4 Wed, 26 Aug 2015 18:43:12 GMT 7547506
+shares/win7/SMP351recordings/artifacts/Motion-artifact7.mp4 Wed, 26 Aug 2015 19:09:30 GMT 81972411
+shares/win7/SMP351recordings/folder playlist/Artbeats_1_18Mbps-20sec.mp4 Wed, 13 Nov 2013 14:52:31 GMT 44004579
+shares/win7/SMP351recordings/folder playlist/Artbeats_2_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:41:31 GMT 11071720
+shares/win7/SMP351recordings/folder playlist/sub/Arlington_Row_Bibury.png Wed, 23 Oct 2013 15:43:29 GMT 5048230
+shares/win7/SMP351recordings/folder playlist/sub/Cappadocia_Balloon_Inflating_$Wikimedia_Commons TarvasjÃµgi.png Wed, 23 Oct 2013 15:48:16 GMT 3198155
+shares/win7/SMP351recordings/folder playlist/sub/Cappadocia_Balloon_Inflating_Wikimedia_Commons.png Wed, 23 Oct 2013 15:48:16 GMT 3198155
+shares/win7/SMP351recordings/folder playlist/zaudio/RedHotChilliPeppers-CantStop.m4a Tue, 30 Jul 2013 16:16:21 GMT 4366040
+shares/win7/SMP351recordings/from$Lance TarvasjÃµgi/SMP-351-0C-2A-E7_20160713-195701Z/SMP-351-0C-2A-E7_20160713-195701Z.json Thu, 21 Jul 2016 22:21:32 GMT 1561
+shares/win7/SMP351recordings/from$Lance TarvasjÃµgi/SMP-351-0C-2A-E7_20160713-195701Z/SMP-351-0C-2A-E7_20160713-195701Z_S1R1.m4v Thu, 21 Jul 2016 22:21:32 GMT 314013
+shares/win7/SMP351recordings/from$Lance TarvasjÃµgi/SMP-351-0C-2A-E7_20160713-195701Z/Thumbs.db Thu, 21 Jul 2016 22:25:18 GMT 5632
+shares/win7/SMP351recordings/from$Lance TarvasjÃµgi/SMP-351-0C-2A-E7_20160721-165129Z/SMP-351-0C-2A-E7_20160721-165129Z.json Thu, 21 Jul 2016 22:21:34 GMT 1638
+shares/win7/SMP351recordings/from$Lance TarvasjÃµgi/SMP-351-0C-2A-E7_20160721-165129Z/SMP-351-0C-2A-E7_20160721-165129Z_S1R1.m4v Thu, 21 Jul 2016 22:21:54 GMT 6846872
+shares/win7/SMP351recordings/from$Lance TarvasjÃµgi/SMP-351-0C-2A-E7_20160721-165129Z/thumbnails/00015000.jpg Thu, 21 Jul 2016 22:21:34 GMT 91598
+shares/win7/SMP351recordings/from$Lance TarvasjÃµgi/SMP-351-0C-2A-E7_20160721-165129Z/Thumbs.db Thu, 21 Jul 2016 22:25:25 GMT 14336
+shares/win7/SMP351recordings/HDMI-levels/SMP-351-0C-2A-E5_20151023-180616Z_S1R1.m4v Fri, 23 Oct 2015 18:08:58 GMT 5087147
+shares/win7/SMP351recordings/HDMI-levels/SMP-351-0C-2A-E5_20151023-180616Z_S1R1_full.m4v Mon, 22 Feb 2016 23:55:48 GMT 457090
+shares/win7/SMP351recordings/HDMI-levels/SMP-351-0C-2A-E5_20151023-180616Z_S1R1_full_yuvj420.m4v Tue, 23 Feb 2016 15:51:14 GMT 457091
+shares/win7/SMP351recordings/HDMI-levels/SMP-351-0C-2A-E5_20151023-180616Z_S1R1_tv_10s.m4v Mon, 22 Feb 2016 22:01:00 GMT 458150
+shares/win7/SMP351recordings/MediaPlayer/SMP-351-0C-2B-0B_20150130-013539Z_S1R1.m4v Tue, 03 Feb 2015 00:03:20 GMT 59834301
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/episode.xml Wed, 03 Dec 2014 21:20:22 GMT 513
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/PDLab-83_20141203-204408Z.json Wed, 03 Dec 2014 21:20:22 GMT 1345
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/PDLab-83_20141203-204408Z_S1R1-noText.m4v Wed, 14 Jan 2015 19:47:41 GMT 55059056
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/PDLab-83_20141203-204408Z_S1R1.m4v Wed, 03 Dec 2014 21:20:42 GMT 55115806
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/PDLab-83_20141203-204408Z_S1R1.srt Mon, 17 Aug 2015 19:05:42 GMT 172
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/thumbnails/00015071.jpg Wed, 03 Dec 2014 21:20:22 GMT 80722
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/thumbnails/00038173.jpg Wed, 03 Dec 2014 21:20:23 GMT 82681
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/thumbnails/00061643.jpg Wed, 03 Dec 2014 21:20:23 GMT 96197
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/thumbnails/00073171.jpg Wed, 03 Dec 2014 21:20:22 GMT 66168
+shares/win7/SMP351recordings/PDLab-83_20141203-204408Z/Thumbs.db Wed, 14 Jan 2015 19:22:12 GMT 8704
+shares/win7/SMP351recordings/PDLab-83_20141203-204824Z/episode.xml Wed, 03 Dec 2014 21:20:22 GMT 499
+shares/win7/SMP351recordings/PDLab-83_20141203-204824Z/PDLab-83_20141203-204824Z.json Wed, 03 Dec 2014 21:20:23 GMT 1194
+shares/win7/SMP351recordings/PDLab-83_20141203-204824Z/PDLab-83_20141203-204824Z_S1R1.m4v Wed, 03 Dec 2014 21:20:32 GMT 10854176
+shares/win7/SMP351recordings/PDLab-83_20141203-204824Z/thumbnails/00015200.jpg Wed, 03 Dec 2014 21:20:23 GMT 119115
+shares/win7/SMP351recordings/PDLab-83_20141203-204824Z/Thumbs.db Wed, 14 Jan 2015 19:22:12 GMT 13824
+shares/win7/SMP351recordings/PDLab-83_Adhoc_20141203-210516Z/episode.xml Wed, 03 Dec 2014 21:20:21 GMT 453
+shares/win7/SMP351recordings/PDLab-83_Adhoc_20141203-210516Z/PDLab-83_Adhoc_20141203-210516Z.json Wed, 03 Dec 2014 21:20:22 GMT 1147
+shares/win7/SMP351recordings/PDLab-83_Adhoc_20141203-210516Z/PDLab-83_Adhoc_20141203-210516Z_S1R1.m4v Wed, 03 Dec 2014 21:20:28 GMT 5440332
+shares/win7/SMP351recordings/PDLab-83_Adhoc_20141203-210516Z/Thumbs.db Wed, 14 Jan 2015 19:22:10 GMT 12800
+shares/win7/SMP351recordings/PDLab-83_TV-record_20141203-205016Z/episode.xml Wed, 03 Dec 2014 21:20:21 GMT 513
+shares/win7/SMP351recordings/PDLab-83_TV-record_20141203-205016Z/PDLab-83_TV-record_20141203-205016Z.json Wed, 03 Dec 2014 21:20:22 GMT 1227
+shares/win7/SMP351recordings/PDLab-83_TV-record_20141203-205016Z/PDLab-83_TV-record_20141203-205016Z_S1R1.m4v Wed, 03 Dec 2014 21:20:31 GMT 9069814
+shares/win7/SMP351recordings/PDLab-83_TV-record_20141203-205016Z/thumbnails/00015071.jpg Wed, 03 Dec 2014 21:20:23 GMT 86158
+shares/win7/SMP351recordings/PDLab-83_TV-record_20141203-205016Z/Thumbs.db Wed, 14 Jan 2015 19:22:12 GMT 9216
+shares/win7/SMP351recordings/SMP-351-0B-C5-06_20150114-183339Z/episode.xml Wed, 14 Jan 2015 20:20:04 GMT 500
+shares/win7/SMP351recordings/SMP-351-0B-C5-06_20150114-183339Z/SMP-351-0B-C5-06_20150114-183339Z.json Wed, 14 Jan 2015 20:20:04 GMT 1632
+shares/win7/SMP351recordings/SMP-351-0B-C5-06_20150114-183339Z/SMP-351-0B-C5-06_20150114-183339Z_S1R1.m4v Wed, 14 Jan 2015 20:20:07 GMT 13809603
+shares/win7/SMP351recordings/SMP-351-0B-C5-06_20150114-183339Z/thumbnails/00015100.jpg Wed, 14 Jan 2015 20:20:04 GMT 106718
+shares/win7/SMP351recordings/SMP-351-0B-C5-06_20150114-183339Z/Thumbs.db Wed, 14 Jan 2015 20:26:34 GMT 9728
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150803-232825Z/episode.xml Mon, 03 Aug 2015 23:29:48 GMT 515
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150803-232825Z/SMP-351-0C-2A-E5_20150803-232825Z.json Mon, 03 Aug 2015 23:29:48 GMT 1440
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150803-232825Z/SMP-351-0C-2A-E5_20150803-232825Z_S1R1.m4v Mon, 03 Aug 2015 23:30:02 GMT 52788625
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150803-232825Z/thumbnails/00014971.jpg Mon, 03 Aug 2015 23:29:48 GMT 129232
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/episode.xml Mon, 17 Aug 2015 19:55:10 GMT 457
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/SMP-351-0C-2A-E5_20150817-195320Z.json Mon, 17 Aug 2015 19:55:10 GMT 1585
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/SMP-351-0C-2A-E5_20150817-195320Z_S1R1-extract.srt Mon, 17 Aug 2015 19:58:05 GMT 172
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/SMP-351-0C-2A-E5_20150817-195320Z_S1R1-fix.srt Mon, 17 Aug 2015 20:24:12 GMT 172
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/SMP-351-0C-2A-E5_20150817-195320Z_S1R1.m4v Mon, 17 Aug 2015 19:55:26 GMT 59527464
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/SMP-351-0C-2A-E5_20150817-195320Z_S1R1.mp4 Mon, 17 Aug 2015 20:20:31 GMT 59484293
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/SMP-351-0C-2A-E5_20150817-195320Z_S1R1.srt Mon, 17 Aug 2015 20:24:12 GMT 172
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/thumbnails/00015035.jpg Mon, 17 Aug 2015 19:55:10 GMT 149970
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/thumbnails/00026935.jpg Mon, 17 Aug 2015 19:55:10 GMT 323516
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/thumbnails/00045607.jpg Mon, 17 Aug 2015 19:55:10 GMT 253096
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20150817-195320Z/thumbnails/00054707.jpg Mon, 17 Aug 2015 19:55:10 GMT 116892
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/SMP-351-0C-2A-E5_20160114-211714Z.json Thu, 14 Jan 2016 21:30:22 GMT 1898
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/SMP-351-0C-2A-E5_20160114-211714Z_S1R1.m4v Thu, 14 Jan 2016 21:31:08 GMT 105435090
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/SMP-351-0C-2A-E5_20160114-211714Z_S1R2.m4v Thu, 14 Jan 2016 21:30:34 GMT 27464658
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/thumbnails/00005466.jpg Thu, 14 Jan 2016 21:30:38 GMT 1310533
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/thumbnails/00017598.jpg Thu, 14 Jan 2016 21:30:40 GMT 1375649
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/thumbnails/00030897.jpg Thu, 14 Jan 2016 21:30:38 GMT 1182899
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/thumbnails/00068228.jpg Thu, 14 Jan 2016 21:30:36 GMT 1735071
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/thumbnails/00080360.jpg Thu, 14 Jan 2016 21:30:38 GMT 1414533
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/thumbnails/00101826.jpg Thu, 14 Jan 2016 21:30:36 GMT 1342203
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high.m4v Wed, 07 Sep 2016 14:17:14 GMT 45183113
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high10.m4v Wed, 07 Sep 2016 16:39:15 GMT 45742023
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high11.m4v Wed, 07 Sep 2016 16:45:49 GMT 45742023
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high12.m4v Wed, 07 Sep 2016 17:06:46 GMT 39419514
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high13.m4v Wed, 07 Sep 2016 17:18:02 GMT 41614521
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high2.m4v Wed, 07 Sep 2016 14:27:14 GMT 45332603
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high3.m4v Wed, 07 Sep 2016 14:38:46 GMT 45370280
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high4.m4v Wed, 07 Sep 2016 16:18:42 GMT 45750915
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high4a.m4v Wed, 07 Sep 2016 14:50:05 GMT 45750915
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high5.m4v Wed, 07 Sep 2016 14:59:42 GMT 45750915
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high6.m4v Wed, 07 Sep 2016 15:24:03 GMT 45742023
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high7.m4v Wed, 07 Sep 2016 15:33:15 GMT 45750915
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high8.m4v Wed, 07 Sep 2016 16:15:33 GMT 45750915
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_high9.m4v Wed, 07 Sep 2016 16:29:57 GMT 0
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low.m4v Wed, 07 Sep 2016 14:17:14 GMT 11020217
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low10.m4v Wed, 07 Sep 2016 16:39:15 GMT 11043332
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low11.m4v Wed, 07 Sep 2016 16:45:49 GMT 11043332
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low12.m4v Wed, 07 Sep 2016 17:06:46 GMT 10254751
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low13.m4v Wed, 07 Sep 2016 17:18:02 GMT 10474714
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low2.m4v Wed, 07 Sep 2016 14:27:14 GMT 11049366
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low3.m4v Wed, 07 Sep 2016 14:38:46 GMT 11054320
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low4.m4v Wed, 07 Sep 2016 16:18:42 GMT 11045627
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low4a.m4v Wed, 07 Sep 2016 14:50:05 GMT 11045627
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low5.m4v Wed, 07 Sep 2016 14:59:42 GMT 11043771
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low6.m4v Wed, 07 Sep 2016 15:24:03 GMT 11042979
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low7.m4v Wed, 07 Sep 2016 15:33:15 GMT 11043771
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low8.m4v Wed, 07 Sep 2016 16:15:33 GMT 11043771
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_low9.m4v Wed, 07 Sep 2016 16:29:56 GMT 0
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med.m4v Wed, 07 Sep 2016 14:17:14 GMT 24795059
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med10.m4v Wed, 07 Sep 2016 16:39:15 GMT 24974693
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med11.m4v Wed, 07 Sep 2016 16:45:49 GMT 24974693
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med12.m4v Wed, 07 Sep 2016 17:06:46 GMT 21355777
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med13.m4v Wed, 07 Sep 2016 17:18:02 GMT 22659434
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med2.m4v Wed, 07 Sep 2016 14:27:14 GMT 24879705
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med3.m4v Wed, 07 Sep 2016 14:38:46 GMT 24917687
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med4.m4v Wed, 07 Sep 2016 16:18:42 GMT 24969537
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med4a.m4v Wed, 07 Sep 2016 14:50:05 GMT 24969537
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med5.m4v Wed, 07 Sep 2016 14:59:42 GMT 24968004
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med6.m4v Wed, 07 Sep 2016 15:24:03 GMT 24977505
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med7.m4v Wed, 07 Sep 2016 15:33:15 GMT 24968004
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med8.m4v Wed, 07 Sep 2016 16:15:33 GMT 24968004
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/transcode/SMP-351-0C-2A-E5_20160114-211714Z_S1R1_med9.m4v Wed, 07 Sep 2016 16:29:56 GMT 0
+shares/win7/SMP351recordings/SMP-351-0C-2A-E5_20160114-211714Z-published/xfer_complete Thu, 14 Jan 2016 21:30:20 GMT 0
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/SMP-351-P118_20150819-153857.json Fri, 08 Jan 2016 23:00:22 GMT 2342
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/SMP-351-P118_20150819-153857_S1R1.m4v Fri, 08 Jan 2016 23:30:12 GMT 3768901871
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/SMP-351-P118_20150819-153857_S1R2.m4v Fri, 08 Jan 2016 23:00:22 GMT 6970756
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/00014935.jpg Fri, 08 Jan 2016 23:00:30 GMT 565004
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/00314788.jpg Fri, 08 Jan 2016 23:00:28 GMT 808390
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/00614872.jpg Fri, 08 Jan 2016 23:00:24 GMT 526667
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/00914964.jpg Fri, 08 Jan 2016 23:00:24 GMT 866711
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/01214817.jpg Fri, 08 Jan 2016 23:00:28 GMT 531208
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/01514864.jpg Fri, 08 Jan 2016 23:00:26 GMT 425963
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/01814956.jpg Fri, 08 Jan 2016 23:00:30 GMT 693889
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/02114772.jpg Fri, 08 Jan 2016 23:00:28 GMT 850854
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/02414827.jpg Fri, 08 Jan 2016 23:00:26 GMT 148261
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/02714911.jpg Fri, 08 Jan 2016 23:00:26 GMT 873935
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/03014967.jpg Fri, 08 Jan 2016 23:00:24 GMT 420764
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/03314819.jpg Fri, 08 Jan 2016 23:00:30 GMT 360538
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/03614903.jpg Fri, 08 Jan 2016 23:00:28 GMT 600491
+shares/win7/SMP351recordings/SMP-351-P118_20150819-153857/thumbnails/03914755.jpg Fri, 08 Jan 2016 23:00:24 GMT 428335
+shares/win7/SMP351recordings/temp/SMP-351-0C-2A-E5_20150803-230901Z/episode.xml Mon, 03 Aug 2015 23:19:36 GMT 514
+shares/win7/SMP351recordings/temp/SMP-351-0C-2A-E5_20150803-230901Z/SMP-351-0C-2A-E5_20150803-230901Z.json Mon, 03 Aug 2015 23:19:36 GMT 1437
+shares/win7/SMP351recordings/temp/SMP-351-0C-2A-E5_20150803-230901Z/SMP-351-0C-2A-E5_20150803-230901Z_S1R1 - Copy.m4v Mon, 03 Aug 2015 23:19:36 GMT 2215086
+shares/win7/SMP351recordings/temp/SMP-351-0C-2A-E5_20150803-230901Z/SMP-351-0C-2A-E5_20150803-230901Z_S1R1.m4v Mon, 03 Aug 2015 23:19:36 GMT 2215086
+shares/win7/SMP351recordings/temp/SMP-351-0C-2A-E5_20150803-230901Z/thumbnails/00015140.jpg Mon, 03 Aug 2015 23:19:36 GMT 13817
+shares/win7/SMP352recordings/SMP-B108_20160718-214718Z/SMP-B108_20160718-214718Z.json Mon, 18 Jul 2016 21:52:40 GMT 2051
+shares/win7/SMP352recordings/SMP-B108_20160718-214718Z/SMP-B108_20160718-214718Z_S1R1.m4v Mon, 18 Jul 2016 21:54:36 GMT 64597135
+shares/win7/SMP352recordings/SMP-B108_20160718-214718Z/SMP-B108_20160718-214718Z_S2R1.m4v Mon, 18 Jul 2016 21:54:22 GMT 52555998
+shares/win7/SMP352recordings/SMP-B108_20160718-214718Z/thumbnails_1/00015366.jpg Mon, 18 Jul 2016 21:54:24 GMT 252068
+shares/win7/SMP352recordings/SMP-B108_20160718-214718Z/thumbnails_1/00074866.jpg Mon, 18 Jul 2016 21:54:22 GMT 87471
+shares/win7/SMP352recordings/SMP-B108_20160718-214718Z/thumbnails_2/00011700.jpg Mon, 18 Jul 2016 21:54:24 GMT 249887
+shares/win7/SMP352recordings/SMP-B108_20160718-214718Z/thumbnails_2/00059700.jpg Mon, 18 Jul 2016 21:54:24 GMT 93030
+shares/win7/SMP352recordings/SMP-B108_20160718-214718Z/Thumbs.db Mon, 18 Jul 2016 23:12:17 GMT 28672
+shares/win7/SonyVegas/test16MbpsMainConcept.mp4 Thu, 06 Mar 2014 21:54:13 GMT 112195274
+shares/win7/SonyVegas/test40Mbps2.mp4 Thu, 06 Mar 2014 21:36:47 GMT 57549717
+shares/win7/swank/A32871_WS_LW_XX_XX_ES_NoSub_AAAD.mp4 Mon, 11 May 2015 15:18:10 GMT 158957568
+shares/win7/swank/A32871_WS_LW_XX_XX_ES_NoSub_AAAD.mpeg Mon, 11 May 2015 15:18:10 GMT 158957568
+shares/win7/swank/A32871_WS_LW_XX_XX_ES_Sub_AAAD.mp4 Mon, 11 May 2015 13:57:26 GMT 176304850
+shares/win7/swank/A32871_WS_LW_XX_XX_ES_Sub_AAAD.mpeg Mon, 11 May 2015 13:57:26 GMT 176304850
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_noNotes.mp4 Mon, 11 May 2015 20:30:46 GMT 158426317
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_noSqBkts.mp4 Mon, 11 May 2015 20:42:34 GMT 158426265
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_NoSub_AAAD.mp4 Mon, 11 May 2015 15:25:42 GMT 158467415
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_withASCIISub_AAAD.mp4 Mon, 11 May 2015 16:43:26 GMT 158428370
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_withASCIISub_AAAD_utf8.mp4 Mon, 11 May 2015 18:29:30 GMT 158428242
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_withASCIISub_AAAD_utf8b.mp4 Mon, 11 May 2015 19:16:38 GMT 158428242
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_withASCIISub_AAAD_utf8_srtfix.mp4 Mon, 11 May 2015 20:24:28 GMT 158426349
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_withASCIISub_AAAD_utf8_webvtt.mp4 Mon, 11 May 2015 19:15:22 GMT 32
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_withHints_withASCIISub_AAAD.mp4 Mon, 11 May 2015 16:57:14 GMT 32
+shares/win7/swank/A32871_WS_LW_XX_XX_noES_withSub_AAAD.mp4 Mon, 11 May 2015 16:03:32 GMT 158490781
+shares/win7/swank/A32871_WS_LW_XX_XX_withES_NoSub_AAAD.mp4 Mon, 11 May 2015 15:41:58 GMT 168078268
+shares/win7/swank/A32871_WS_LW_XX_XX_withES_withSub_AAAD.mp4 Mon, 11 May 2015 15:54:12 GMT 168095434
+shares/win7/swank/GARNET-2341/A32871_WS_LW_XX_XX_ES_Sub_AAAD.mp4 Tue, 12 May 2015 16:07:48 GMT 176304850
+shares/win7/swank/V32871_720x480p2997_Multichannel_MP41M.mpeg Mon, 11 May 2015 14:30:26 GMT 109304068
+shares/win7/swank/V32871_WS_XX_XX_XX_1200kbps_16x9_AVC_192kbps_AAC_MP4S.mpeg Mon, 11 May 2015 14:31:58 GMT 103129647
+shares/win7/swank/V32871_WS_XX_XX_XX_1200kbps_WStoLB_AVC_192kbps_AAC_MP4S.mpeg Mon, 11 May 2015 14:31:32 GMT 101075823
+shares/win7/swank/V32871_WS_XX_XX_XX_h264_480p_6MB_VBR_2CH_CC_AAC_T1_MOV6M.mov Mon, 11 May 2015 14:35:48 GMT 278037636
+shares/win7/swank/V32871_WS_XX_XX_XX_h264_480p_6MB_VBR_WStoLB_2CH_CC_AAC_T1_MOV6M.mov Mon, 11 May 2015 14:35:02 GMT 225547736
+shares/win7/TearsOfSteel/srt-files/originals/TOS-CH-traditional - ä½ çœŸæ˜¯çˆ›é€äº†ï¼Œæ¹¯å§†.srt Mon, 21 Jul 2014 15:49:34 GMT 4708
+shares/win7/TearsOfSteel/srt-files/originals/TOS-CH-traditional.srt Mon, 21 Jul 2014 15:49:34 GMT 4708
+shares/win7/TearsOfSteel/srt-files/originals/TOS-CH.srt Mon, 21 Jul 2014 15:49:40 GMT 4945
+shares/win7/TearsOfSteel/srt-files/originals/TOS-de.srt Mon, 21 Jul 2014 15:51:18 GMT 4851
+shares/win7/TearsOfSteel/srt-files/originals/TOS-en.srt Mon, 21 Jul 2014 14:33:32 GMT 4764
+shares/win7/TearsOfSteel/srt-files/originals/TOS-es.srt Mon, 21 Jul 2014 15:51:26 GMT 4948
+shares/win7/TearsOfSteel/srt-files/originals/TOS-fr-orig.srt Mon, 13 Oct 2014 15:27:24 GMT 4908
+shares/win7/TearsOfSteel/srt-files/originals/TOS-it.srt Mon, 21 Jul 2014 15:50:56 GMT 4744
+shares/win7/TearsOfSteel/srt-files/originals/TOS-JP - ã‚ãªãŸã¯é¦¬é¹¿ã‚ˆã€ãƒˆãƒ .srt Mon, 21 Jul 2014 15:49:46 GMT 4965
+shares/win7/TearsOfSteel/srt-files/originals/TOS-JP.srt Mon, 21 Jul 2014 15:49:46 GMT 4965
+shares/win7/TearsOfSteel/srt-files/originals/TOS-PT-BR.srt Mon, 21 Jul 2014 15:49:52 GMT 4686
+shares/win7/TearsOfSteel/srt-files/originals/TOS-ru - ÐŸÐ¾ÑÐ»ÑƒÑˆÐ°Ð¹.srt Mon, 21 Jul 2014 15:49:12 GMT 5929
+shares/win7/TearsOfSteel/srt-files/originals/TOS-ru.srt Mon, 21 Jul 2014 15:49:12 GMT 5929
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-CH.srt Fri, 12 Sep 2014 14:43:21 GMT 4516
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-de.srt Thu, 11 Sep 2014 18:37:50 GMT 4851
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-en.srt Thu, 11 Sep 2014 18:37:50 GMT 4764
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-es.srt Thu, 11 Sep 2014 18:46:35 GMT 4989
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-fr.srt Mon, 13 Oct 2014 15:27:22 GMT 4908
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-it.srt Thu, 11 Sep 2014 18:37:50 GMT 4744
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-JP.srt Thu, 11 Sep 2014 18:37:50 GMT 4965
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-PT-BR.srt Fri, 12 Sep 2014 14:34:26 GMT 4762
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/tears_of_steel_1080p-ru.srt Thu, 11 Sep 2014 18:37:50 GMT 5929
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears-of-steel-working.zip Thu, 14 Jul 2016 20:53:38 GMT 17769
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-CH.srt Fri, 12 Sep 2014 14:43:21 GMT 4516
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-de.srt Thu, 11 Sep 2014 18:37:50 GMT 4851
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-en.srt Thu, 11 Sep 2014 18:37:50 GMT 4764
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-es.srt Thu, 11 Sep 2014 18:46:35 GMT 4989
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-fr.srt Mon, 13 Oct 2014 15:27:22 GMT 4908
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-it.srt Thu, 11 Sep 2014 18:37:50 GMT 4744
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-JP.srt Thu, 11 Sep 2014 18:37:50 GMT 4965
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-PT-BR.srt Fri, 12 Sep 2014 14:34:26 GMT 4762
+shares/win7/TearsOfSteel/srt-files/tears-of-steel-working/test/tears_of_steel_1080p-ru.srt Thu, 11 Sep 2014 18:37:50 GMT 5929
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-CH-trad-works-start1-cut-open-lines-UTF8.srt Tue, 14 Oct 2014 20:23:27 GMT 4640
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-CH-works-start1-remove-open-lines.srt Fri, 12 Sep 2014 14:43:21 GMT 4516
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-CH.srt Fri, 12 Sep 2014 14:43:21 GMT 4516
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-de-works.srt Thu, 11 Sep 2014 18:37:50 GMT 4851
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-en-works.srt Thu, 11 Sep 2014 18:37:50 GMT 4764
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-es-works-removed-inverted-exclamation.srt Thu, 11 Sep 2014 18:46:35 GMT 4989
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-fr.srt Mon, 13 Oct 2014 15:27:22 GMT 4908
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-it-works.srt Thu, 11 Sep 2014 18:37:50 GMT 4744
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-JP-works.srt Thu, 11 Sep 2014 18:37:50 GMT 4965
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-PT-BR--works.srt Fri, 12 Sep 2014 14:34:26 GMT 4762
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p-ru-works.srt Thu, 11 Sep 2014 18:37:50 GMT 5929
+shares/win7/TearsOfSteel/srt-files/tears_of_steel_1080p.srt Tue, 14 Oct 2014 20:23:27 GMT 4640
+shares/win7/TearsOfSteel/subtitle-languages-confirmed.txt Wed, 15 Oct 2014 13:50:07 GMT 225
+shares/win7/TearsOfSteel/tears_of_steel_1080p-CH-trad.srt Tue, 14 Oct 2014 20:23:27 GMT 4640
+shares/win7/TearsOfSteel/tears_of_steel_1080p-es.srt Mon, 21 Jul 2014 15:51:26 GMT 4948
+shares/win7/TearsOfSteel/tears_of_steel_1080p-fr.srt Mon, 13 Oct 2014 15:27:22 GMT 4908
+shares/win7/TearsOfSteel/tears_of_steel_1080p-jp.srt Thu, 11 Sep 2014 18:37:50 GMT 4965
+shares/win7/TearsOfSteel/tears_of_steel_1080p-ru.srt Fri, 19 Aug 2016 23:33:14 GMT 5926
+shares/win7/TearsOfSteel/tears_of_steel_1080p.mov Mon, 21 Jul 2014 15:24:34 GMT 583774083
+shares/win7/TearsOfSteel/tears_of_steel_1080p.mp4 Mon, 21 Jul 2014 19:34:11 GMT 319206166
+shares/win7/TearsOfSteel/tears_of_steel_1080p.srt Fri, 12 Sep 2014 14:43:21 GMT 4516
+shares/win7/TearsOfSteel/tears_of_steel_1080p_video.mp4 Thu, 07 Apr 2016 21:16:06 GMT 307109654
+shares/win7/temp/dmh_recording-codec1-60fps.mp4 Fri, 14 Oct 2016 19:53:58 GMT 12530859
+shares/win7/temp/dmh_recording-codec1.mpg Fri, 14 Oct 2016 19:33:42 GMT 14089188
+shares/win7/temp/NHK_Financial_News_Japan.mp4 Tue, 29 Nov 2011 05:00:06 GMT 139057399
+shares/win7/temp/NHK_Financial_News_Japan.mp4 - Shortcut.lnk Wed, 25 Feb 2015 16:38:11 GMT 1304
+shares/win7/temp/NHK_Financial_News_Japan_isom.mp4 Wed, 25 Feb 2015 16:39:25 GMT 138967756
+shares/win7/temp/Peanuts-2015-Official-Teaser.mp4 Mon, 13 Mar 2017 21:13:12 GMT 31238955
+shares/win7/temp/test2-2ch-audio-AAC.mp4 Mon, 17 Oct 2016 20:54:26 GMT 7148129
+shares/win7/temp/test2.mp4 Fri, 21 Aug 2015 16:13:16 GMT 9256481
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/episode.xml Thu, 21 Nov 2013 18:28:16 GMT 437
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/thumbnails/00014187.png Thu, 21 Nov 2013 18:28:17 GMT 192204
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/thumbnails/00037113.png Thu, 21 Nov 2013 18:28:17 GMT 254424
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/thumbnails/00052024.png Thu, 21 Nov 2013 18:28:17 GMT 221729
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/thumbnails/00088510.png Thu, 21 Nov 2013 18:28:16 GMT 292004
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/thumbnails/00111558.png Thu, 21 Nov 2013 18:28:16 GMT 207550
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/Thumbs.db Fri, 03 Jan 2014 20:06:00 GMT 9216
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/unknown_20131121_182440.m4v Thu, 21 Nov 2013 18:28:54 GMT 74235363
+shares/win7/temp/v0.12.0047/adhoc_20131121_182440/unknown_20131121_182440.xml Thu, 21 Nov 2013 18:28:15 GMT 753
+shares/win7/temp/v0.12.0047/adhoc_20131121_184144/episode.xml Thu, 21 Nov 2013 19:31:46 GMT 455
+shares/win7/temp/v0.12.0047/adhoc_20131121_184144/PCR-351-0A-6C-C5_20131121_184144.m4v Thu, 21 Nov 2013 19:32:42 GMT 115182912
+shares/win7/temp/v0.12.0047/adhoc_20131121_184144/PCR-351-0A-6C-C5_20131121_184144.xml Thu, 21 Nov 2013 19:31:46 GMT 666
+shares/win7/temp/v0.12.0047/adhoc_20131121_184144/thumbnails/00014360.png Thu, 21 Nov 2013 19:31:47 GMT 94860
+shares/win7/temp/v0.12.0047/adhoc_20131121_184144/thumbnails/00140305.png Thu, 21 Nov 2013 19:31:47 GMT 236495
+shares/win7/temp/v0.12.0047/adhoc_20131121_184144/thumbnails/00160766.png Thu, 21 Nov 2013 19:31:47 GMT 272303
+shares/win7/temp/v0.12.0047/adhoc_20131121_184144/thumbnails/00182000.png Thu, 21 Nov 2013 19:31:46 GMT 278373
+shares/win7/temp/v0.12.0047/adhoc_20131121_184144/Thumbs.db Fri, 03 Jan 2014 19:51:39 GMT 10752
+shares/win7/temp/v0.14.0025/adhoc_20000101_201139/episode.xml Fri, 03 Jan 2014 19:43:54 GMT 455
+shares/win7/temp/v0.14.0025/adhoc_20000101_201139/PCR-351-0A-6C-C5_20000101_201139.m4v Fri, 03 Jan 2014 19:43:57 GMT 38371044
+shares/win7/temp/v0.14.0025/adhoc_20000101_201139/PCR-351-0A-6C-C5_20000101_201139.xml Fri, 03 Jan 2014 19:43:54 GMT 558
+shares/win7/temp/v0.14.0025/adhoc_20000101_201139/thumbnails/00014582.png Fri, 03 Jan 2014 19:43:54 GMT 640980
+shares/win7/temp/v0.14.0025/adhoc_20000101_201638/episode.xml Fri, 03 Jan 2014 19:42:30 GMT 455
+shares/win7/temp/v0.14.0025/adhoc_20000101_201638/PCR-351-0A-6C-C5_20000101_201638.m4v Fri, 03 Jan 2014 19:42:32 GMT 27188945
+shares/win7/temp/v0.14.0025/adhoc_20000101_201638/PCR-351-0A-6C-C5_20000101_201638.xml Fri, 03 Jan 2014 19:42:30 GMT 558
+shares/win7/temp/v0.14.0025/adhoc_20000101_201638/thumbnails/00014410.png Fri, 03 Jan 2014 19:42:30 GMT 630997
+shares/win7/temp.jspf Thu, 22 Aug 2013 15:25:59 GMT 55
+shares/win7/test-thumbs/Artbeats_1.ts Tue, 14 Jan 2014 21:38:14 GMT 346060812
+shares/win7/test-thumbs/Artbeats_1_18Mbps-20sec.avi Mon, 28 Dec 2015 22:06:53 GMT 258434448
+shares/win7/test-thumbs/Artbeats_1_18Mbps-30fps-20sec.mp4 - Shortcut.lnk Wed, 27 Nov 2013 20:29:53 GMT 1385
+shares/win7/test-thumbs/A_storm_at_Pors-Loubous.png Wed, 23 Oct 2013 14:55:03 GMT 2817869
+shares/win7/test-thumbs/newPlaylist.jspf Wed, 12 Feb 2014 17:22:17 GMT 256
+shares/win7/test-thumbs/Slide2.png Wed, 25 Sep 2013 00:51:04 GMT 193510
+shares/win7/test-thumbs/thumbs/Terrace_field_yunnan_china_denoised.png Wed, 23 Oct 2013 18:12:18 GMT 4267448
+shares/win7/test-thumbs/thumbs/Thumbs.db Wed, 20 Nov 2013 22:19:14 GMT 275968
+shares/win7/test-thumbs/thumbs/UTarvasjÃµgi.png Wed, 23 Oct 2013 18:11:22 GMT 4581633
+shares/win7/TexasDemo/1920x1080p30-Nov2013demoSlides.mp4 Wed, 06 Nov 2013 15:21:51 GMT 72514752
+shares/win7/TexasDemo/1920x1080p30-Oct2013demoSlides.mp4 Wed, 23 Oct 2013 00:28:07 GMT 47288310
+shares/win7/TexasDemo/1920x1080p30-wikiImages2.mp4 Thu, 07 Nov 2013 00:26:50 GMT 165987942
+shares/win7/TexasDemo/Financial Power Point Demo - New Color Scheme-crf2.mp4 Wed, 25 Sep 2013 00:26:20 GMT 1592802
+shares/win7/TexasDemo/images/Thumbs.db Tue, 27 Aug 2013 16:00:31 GMT 77312
+shares/win7/TexasDemo/Thumbs.db Wed, 25 Sep 2013 00:29:56 GMT 15872
+shares/win7/Thumbs.db Mon, 11 Nov 2013 19:44:44 GMT 229888
+shares/win7/Timescapes/TimeScapes 1080p.mp4 Fri, 25 May 2012 09:41:48 GMT 3740861729
+shares/win7/Timescapes/TimeScapes_1080p_long.mp4 Fri, 08 Sep 2017 15:39:34 GMT 7483661684
+shares/win7/TV/turkishTV-audio-swap.mp4 Fri, 29 Jul 2016 17:44:40 GMT 42695040
+shares/win7/TV/turkishTV.mp4 Fri, 29 Jul 2016 08:14:06 GMT 42722665
+shares/win7/vaddioCapture/vaddioCapture.mp4 Tue, 04 Aug 2015 16:20:01 GMT 334840265
+shares/win7/vaddioCapture/vaddioCaptureQsetBest.mp4 Wed, 05 Aug 2015 18:29:06 GMT 691802656
+shares/win7/vaddioCapture/vaddioCaptureQsetBetter.mp4 Tue, 04 Aug 2015 17:21:17 GMT 388372983
+shares/win7/vesa-cvt/1024x768p60(4x3)_31main15GOP5Mbps44k.MP4 Fri, 20 Jul 2012 14:28:59 GMT 50581748
+shares/win7/vesa-cvt/1024x768p60(4x3)_42high15GOP5Mbps44k-CRF10-40Mmax-30Mbuf.mp4 Tue, 18 Mar 2014 16:25:17 GMT 59981839
+shares/win7/vesa-cvt/1024x768p60(4x3)_42high15GOP5Mbps44k-CRF12-40Mmax-40Mbuf.mp4 Tue, 18 Mar 2014 16:08:41 GMT 48380414
+shares/win7/vesa-cvt/1024x768p60(4x3)_42high15GOP5Mbps44k-CRF16-40Mmax-40Mbuf.mp4 Tue, 18 Mar 2014 16:05:10 GMT 31696441
+shares/win7/vesa-cvt/1024x768p60(4x3)_42high15GOP5Mbps44k-CRF6-40Mmax-30Mbuf.mp4 Tue, 18 Mar 2014 16:32:25 GMT 92606105
+shares/win7/vesa-cvt/1024x768p60(4x3)_42high15GOP5Mbps44k-CRF8-40Mmax-30Mbuf.mp4 Tue, 18 Mar 2014 16:29:43 GMT 74550331
+shares/win7/vesa-cvt/1024x768p60(4x3)_42high15GOP5Mbps44k_aac.ts Mon, 14 Jan 2013 20:02:54 GMT 54913672
+shares/win7/vesa-cvt/1024x768p60(4x3)_noCABAC_31main30GOP5Mbps48k_aac.ts Mon, 14 Jan 2013 20:05:42 GMT 52624584
+shares/win7/vesa-cvt/Thumbs.db Fri, 04 Oct 2013 21:49:02 GMT 22016
+shares/win7/Video3.mov Thu, 29 Aug 2013 21:54:18 GMT 1430992
+shares/win7/videoQ/A1_1280x720.bmp Sun, 22 Apr 2012 20:07:15 GMT 2764854
+shares/win7/videoQ/A1_1920x1080.bmp Sun, 22 Apr 2012 20:07:43 GMT 6220854
+shares/win7/videoQ/A1_1920x1080p60.mp4 Wed, 11 May 2016 15:26:41 GMT 6184090
+shares/win7/videoQ/A1_720x480_logo_placeholder.bmp Tue, 26 Jul 2011 23:26:51 GMT 1036854
+shares/win7/videoQ/A1_720x576_logo_placeholder.bmp Tue, 26 Jul 2011 23:24:44 GMT 1244214
+shares/win7/videoQ/FR1920x1080.BMP Mon, 23 Apr 2012 00:37:41 GMT 6220854
+shares/win7/videoQ/HGS1920x1080.BMP Mon, 23 Apr 2012 00:37:51 GMT 6220854
+shares/win7/videoQ/LINYRGB1920x1080.BMP Mon, 23 Apr 2012 00:51:25 GMT 6220854
+shares/win7/videoQ/VGS1920x1080.BMP Mon, 23 Apr 2012 00:27:43 GMT 6220854
+shares/win7/videoQ/VQM1280x720.bmp Mon, 23 Apr 2012 00:20:13 GMT 2764854
+shares/win7/videoQ/VQM1920x1080.bmp Mon, 23 Apr 2012 00:18:15 GMT 6220854
+shares/win7/videoQ/VQM720x480.bmp Wed, 06 Apr 2011 02:40:07 GMT 1036854
+shares/win7/videoQ/VQM720x576.BMP Tue, 23 Aug 2011 23:00:56 GMT 1244214
+shares/win7/Vimeo/Calculate.mp4 Wed, 04 Jul 2012 14:50:32 GMT 31365258
+shares/win7/Vimeo/LandscapesV2.mp4.flv Wed, 04 Jul 2012 16:00:36 GMT 123825990
+shares/win7/Vimeo/Thumbs.db Fri, 13 Nov 2015 18:07:31 GMT 37888
+shares/win7/Vimeo/WaterEdit.mp4.flv Wed, 04 Jul 2012 15:11:42 GMT 104882927
+shares/win7/Vimeo/Yosemite.mp4.flv Wed, 04 Jul 2012 06:43:32 GMT 167210043
+shares/win7/Vimeo/YosemiteHD.mp4.flv Wed, 04 Jul 2012 07:48:44 GMT 78396301
+shares/win7/win7.txt Tue, 09 Dec 2014 17:12:00 GMT 873197
+shares/win7/WM01_004.mov Thu, 29 Aug 2013 21:54:18 GMT 1430992
+shares/win7/YouTube/Ana Vidovic  Recital and Interview - YouTube.mp4 Fri, 31 Oct 2014 14:06:53 GMT 67084013
+shares/win7/YouTube/ISS-seg-no-audio.ts Tue, 17 Jan 2017 18:15:12 GMT 43052
+shares/win7/YouTube/ISS-seg-no-video-map.mp4 Tue, 17 Jan 2017 19:24:40 GMT 30279
+shares/win7/YouTube/ISS-seg.ts Tue, 17 Jan 2017 18:07:38 GMT 87608
+shares/win7/YouTube/NASA live stream - Earth From Space LIVE Feed _ Incredible ISS live stream of Earth from space-qzMQza8xZCc.mp4 Tue, 17 Jan 2017 18:22:36 GMT 8995983
+shares/win7/YouTube/seg.ts Tue, 17 Jan 2017 17:03:40 GMT 105656
+shares/win7/zones/40MbpsClips.txt Thu, 06 Nov 2014 19:28:36 GMT 54495
+shares/win7/zones/4k-zone-0.bmp Tue, 09 Sep 2014 21:39:36 GMT 6220854
+shares/win7/zones/4k-zone-1.bmp Tue, 09 Sep 2014 21:39:37 GMT 6220854
+shares/win7/zones/4k-zone-10.bmp Tue, 09 Sep 2014 21:39:41 GMT 6220854
+shares/win7/zones/4k-zone-11.bmp Tue, 09 Sep 2014 21:39:41 GMT 6220854
+shares/win7/zones/4k-zone-12.bmp Tue, 09 Sep 2014 21:39:41 GMT 6220854
+shares/win7/zones/4k-zone-13.bmp Tue, 09 Sep 2014 21:39:42 GMT 6220854
+shares/win7/zones/4k-zone-14.bmp Tue, 09 Sep 2014 21:39:43 GMT 6220854
+shares/win7/zones/4k-zone-15.bmp Tue, 09 Sep 2014 21:39:43 GMT 6220854
+shares/win7/zones/4k-zone-16.bmp Tue, 09 Sep 2014 21:39:44 GMT 6220854
+shares/win7/zones/4k-zone-17.bmp Tue, 09 Sep 2014 21:39:44 GMT 6220854
+shares/win7/zones/4k-zone-18.bmp Tue, 09 Sep 2014 21:39:44 GMT 6220854
+shares/win7/zones/4k-zone-19.bmp Tue, 09 Sep 2014 21:39:45 GMT 6220854
+shares/win7/zones/4k-zone-2.bmp Tue, 09 Sep 2014 21:39:37 GMT 6220854
+shares/win7/zones/4k-zone-20.bmp Tue, 09 Sep 2014 21:39:45 GMT 6220854
+shares/win7/zones/4k-zone-21.bmp Tue, 09 Sep 2014 21:39:46 GMT 6220854
+shares/win7/zones/4k-zone-22.bmp Tue, 09 Sep 2014 21:39:46 GMT 6220854
+shares/win7/zones/4k-zone-23.bmp Tue, 09 Sep 2014 21:39:47 GMT 6220854
+shares/win7/zones/4k-zone-24.bmp Tue, 09 Sep 2014 21:39:47 GMT 6220854
+shares/win7/zones/4k-zone-25.bmp Tue, 09 Sep 2014 21:39:48 GMT 6220854
+shares/win7/zones/4k-zone-26.bmp Tue, 09 Sep 2014 21:39:48 GMT 6220854
+shares/win7/zones/4k-zone-27.bmp Tue, 09 Sep 2014 21:39:49 GMT 6220854
+shares/win7/zones/4k-zone-28.bmp Tue, 09 Sep 2014 21:39:49 GMT 6220854
+shares/win7/zones/4k-zone-29.bmp Tue, 09 Sep 2014 21:39:49 GMT 6220854
+shares/win7/zones/4k-zone-3.bmp Tue, 09 Sep 2014 21:39:37 GMT 6220854
+shares/win7/zones/4k-zone-30.bmp Tue, 09 Sep 2014 21:39:50 GMT 6220854
+shares/win7/zones/4k-zone-31.bmp Tue, 09 Sep 2014 21:39:51 GMT 6220854
+shares/win7/zones/4k-zone-32.bmp Tue, 09 Sep 2014 21:39:51 GMT 6220854
+shares/win7/zones/4k-zone-33.bmp Tue, 09 Sep 2014 21:39:51 GMT 6220854
+shares/win7/zones/4k-zone-34.bmp Tue, 09 Sep 2014 21:39:52 GMT 6220854
+shares/win7/zones/4k-zone-35.bmp Tue, 09 Sep 2014 21:39:52 GMT 6220854
+shares/win7/zones/4k-zone-36.bmp Tue, 09 Sep 2014 21:39:53 GMT 6220854
+shares/win7/zones/4k-zone-37.bmp Tue, 09 Sep 2014 21:39:53 GMT 6220854
+shares/win7/zones/4k-zone-38.bmp Tue, 09 Sep 2014 21:39:54 GMT 6220854
+shares/win7/zones/4k-zone-39.bmp Tue, 09 Sep 2014 21:39:54 GMT 6220854
+shares/win7/zones/4k-zone-4.bmp Tue, 09 Sep 2014 21:39:38 GMT 6220854
+shares/win7/zones/4k-zone-40.bmp Tue, 09 Sep 2014 21:39:55 GMT 6220854
+shares/win7/zones/4k-zone-41.bmp Tue, 09 Sep 2014 21:39:55 GMT 6220854
+shares/win7/zones/4k-zone-42.bmp Tue, 09 Sep 2014 21:39:55 GMT 6220854
+shares/win7/zones/4k-zone-43.bmp Tue, 09 Sep 2014 21:39:56 GMT 6220854
+shares/win7/zones/4k-zone-44.bmp Tue, 09 Sep 2014 21:39:57 GMT 6220854
+shares/win7/zones/4k-zone-45.bmp Tue, 09 Sep 2014 21:39:58 GMT 6220854
+shares/win7/zones/4k-zone-46.bmp Tue, 09 Sep 2014 21:39:58 GMT 6220854
+shares/win7/zones/4k-zone-47.bmp Tue, 09 Sep 2014 21:39:59 GMT 6220854
+shares/win7/zones/4k-zone-48.bmp Tue, 09 Sep 2014 21:39:59 GMT 6220854
+shares/win7/zones/4k-zone-49.bmp Tue, 09 Sep 2014 21:40:00 GMT 6220854
+shares/win7/zones/4k-zone-5.bmp Tue, 09 Sep 2014 21:39:38 GMT 6220854
+shares/win7/zones/4k-zone-50.bmp Tue, 09 Sep 2014 21:40:00 GMT 6220854
+shares/win7/zones/4k-zone-51.bmp Tue, 09 Sep 2014 21:40:01 GMT 6220854
+shares/win7/zones/4k-zone-52.bmp Tue, 09 Sep 2014 21:40:01 GMT 6220854
+shares/win7/zones/4k-zone-53.bmp Tue, 09 Sep 2014 21:40:02 GMT 6220854
+shares/win7/zones/4k-zone-54.bmp Tue, 09 Sep 2014 21:40:02 GMT 6220854
+shares/win7/zones/4k-zone-55.bmp Tue, 09 Sep 2014 21:40:02 GMT 6220854
+shares/win7/zones/4k-zone-56.bmp Tue, 09 Sep 2014 21:40:03 GMT 6220854
+shares/win7/zones/4k-zone-57.bmp Tue, 09 Sep 2014 21:40:03 GMT 6220854
+shares/win7/zones/4k-zone-58.bmp Tue, 09 Sep 2014 21:40:04 GMT 6220854
+shares/win7/zones/4k-zone-59.bmp Tue, 09 Sep 2014 21:40:04 GMT 6220854
+shares/win7/zones/4k-zone-6.bmp Tue, 09 Sep 2014 21:39:39 GMT 6220854
+shares/win7/zones/4k-zone-7.bmp Tue, 09 Sep 2014 21:39:39 GMT 6220854
+shares/win7/zones/4k-zone-8.bmp Tue, 09 Sep 2014 21:39:39 GMT 6220854
+shares/win7/zones/4k-zone-9.bmp Tue, 09 Sep 2014 21:39:40 GMT 6220854
+shares/win7/zones/zone-10s-20Mbps.MP4 Thu, 31 Aug 2017 22:41:57 GMT 14761465
+shares/win7/zones/zone-10s.mp4 Thu, 31 Aug 2017 22:35:19 GMT 8141044
+shares/win7/zones/zone.mp4 Thu, 31 Aug 2017 22:01:14 GMT 968271
+winSCP/Artbeats_1_18Mbps-20sec.mp4 Wed, 13 Nov 2013 14:52:32 GMT 44004579
+winSCP/Artbeats_2_5Mbps-20sec-fast.mp4 Wed, 18 May 2016 21:41:32 GMT 11071720
+431927296 Bytes Left
