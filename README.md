@@ -1,4 +1,4 @@
-# Directory Tree in Python
+# Directory Tree
 
 # Overview
 This application was created for a work project, which involved a device driver communicating 
