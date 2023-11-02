@@ -17,7 +17,7 @@ The items can also be sorted either alphanumerically or by the date they were mo
 ```python
 from directory import Directory
 
-my_directory = Directory(read_file_name='file_paths.txt', path='/shares/win7/Artbeats', sort_by='Alphanumeric')
+my_directory = Directory(file_name='file_paths.txt', path='/shares/win7/Artbeats', sort='Alphanumeric')
 ```
 
 ## Attributes
@@ -33,17 +33,17 @@ my_directory.path = '/shares/win7/Audio'
 
 ### Get current sorting method of items
 ```python
-my_directory.sort_by
+my_directory.sort
 ```
 
 ### Sort items alphanumerically
 ```python
-my_directory.sort_by = 'Alphanumeric'
+my_directory.sort = 'Alphanumeric'
 ```
 
 ### Sort items by date modified
 ```python
-my_directory.sort_by = 'Date Modified'
+my_directory.sort = 'Date Modified'
 ```
 
 ## Methods

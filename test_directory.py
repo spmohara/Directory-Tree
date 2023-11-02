@@ -1,7 +1,7 @@
 from directory import Directory
 import logging
 
-my_directory = Directory(read_file_name='file_paths.txt', path='/shares/win7/Artbeats', sort_by='Alphanumeric')
+my_directory = Directory(file_name='file_paths.txt', path='/shares/win7/Artbeats', sort='Alphanumeric')
 
 """Show initial directory items"""
 print('Initial Directory Path:', my_directory.path, '\n')
@@ -29,5 +29,5 @@ print('New Directory Path:', my_directory.path, '\n')
 print('Files & Folders in New Directory:', my_directory.get_items(), '\n')
 
 """Sort new directory items by date modified"""
-my_directory.sort_by = 'Date Modified'
+my_directory.sort = 'Date Modified'
 print('Files & Folders in New Directory by Date Modified:', my_directory.get_items(), '\n')
