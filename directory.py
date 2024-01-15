@@ -47,7 +47,6 @@ class Directory():
         self._directory = OrderedDict()
         self._directory_lists = {'All': [], 'Files': [], 'Folders': []}
 
-    # GETTERS/SETTERS
     @property
     def file_name(self):
         """ Get/set the file_name attribute and update the directory lists. """
@@ -87,54 +86,6 @@ class Directory():
         if hasattr(self, '_file_data'):  # block on init
             self._parse_file_data()
 
-    # HELPER METHODS
-    def _read_file_data(self):
-        try:
-            with open(self._file_name, encoding='utf8') as f:
-                self._file_data = f.read()
-        except FileNotFoundError:
-            raise AttributeError('File does not exist')
-        self._parse_file_data()
-
-    def _parse_file_data(self):
-        # ex: [['shares', 'win7', 'Artbeats', '1920x1080-Artbeats-3-v2.mp4', 'Tue, 22 Oct 2013 15:48:42']]
-        iter = re.finditer(self._file_regex, self._file_data)
-        all_path_items = [file.group('path').split('/') + [file.group('date')] for file in iter]
-        if self._sort == 'Date Modified':
-            all_path_items.sort(key=lambda date: datetime.strptime(date[-1], '%a, %d %b %Y %H:%M:%S'), reverse=True)
-        self._build_directory(all_path_items)
-    
-    def _build_directory(self, all_path_items):
-        # ex: OrderedDict([('shares', {'win7': {'Artbeats': {'1920x1080-Artbeats-3-v2.mp4': 'File'}}})])
-        self._directory.clear()
-        for path_items in all_path_items:
-            branch = self._directory
-            for item in path_items[:-2]:  # -2 index to not include date modified
-                branch = branch.setdefault(item, OrderedDict())
-            branch[path_items[-2]] = 'File'  # mark all files w/ 'File' tag string to differentiate from subdirectory
-        self._traverse_directory()
-
-    def _traverse_directory(self):
-        current_branch = self._directory  # initialize
-        for item in self._path.strip('/').split('/'):
-            if item in current_branch:
-                current_branch = current_branch[item]  # traverse through directory
-            else:
-                raise AttributeError('Invalid file path specified')
-        self._build_directory_lists(current_branch)
-
-    def _build_directory_lists(self, current_branch):
-        self._directory_lists = {type_: [] for type_ in self._directory_lists}  # reinitialize
-        for item in current_branch:
-            if current_branch[item] == 'File':
-                self._directory_lists['Files'].append(item)  # files only
-            else:
-                self._directory_lists['Folders'].append(item)  # folders only
-            self._directory_lists['All'].append(item)  # files and folders
-        if self._sort == 'Alphanumeric':
-            self._directory_lists = {type_: sorted(self._directory_lists[type_], key=lambda item: item.lower()) for type_ in self._directory_lists}
-
-    # USER METHODS
     def get_items(self, type_='All', search_term=None):
         """ Returns the files and/or folders in the current directory. An optional
         search_term parameter may be specified to return a filtered list of items.
@@ -196,3 +147,49 @@ class Directory():
         else:
             del path_items[-1]  # delete last item
         self.path = '/' + '/'.join(path_items)
+
+    def _read_file_data(self):
+        try:
+            with open(self._file_name, encoding='utf8') as f:
+                self._file_data = f.read()
+        except FileNotFoundError:
+            raise AttributeError('File does not exist')
+        self._parse_file_data()
+
+    def _parse_file_data(self):
+        # ex: [['shares', 'win7', 'Artbeats', '1920x1080-Artbeats-3-v2.mp4', 'Tue, 22 Oct 2013 15:48:42']]
+        iter = re.finditer(self._file_regex, self._file_data)
+        all_path_items = [file.group('path').split('/') + [file.group('date')] for file in iter]
+        if self._sort == 'Date Modified':
+            all_path_items.sort(key=lambda date: datetime.strptime(date[-1], '%a, %d %b %Y %H:%M:%S'), reverse=True)
+        self._build_directory(all_path_items)
+    
+    def _build_directory(self, all_path_items):
+        # ex: OrderedDict([('shares', {'win7': {'Artbeats': {'1920x1080-Artbeats-3-v2.mp4': 'File'}}})])
+        self._directory.clear()
+        for path_items in all_path_items:
+            branch = self._directory
+            for item in path_items[:-2]:  # -2 index to not include date modified
+                branch = branch.setdefault(item, OrderedDict())
+            branch[path_items[-2]] = 'File'  # mark all files w/ 'File' tag string to differentiate from subdirectory
+        self._traverse_directory()
+
+    def _traverse_directory(self):
+        current_branch = self._directory  # initialize
+        for item in self._path.strip('/').split('/'):
+            if item in current_branch:
+                current_branch = current_branch[item]  # traverse through directory
+            else:
+                raise AttributeError('Invalid file path specified')
+        self._build_directory_lists(current_branch)
+
+    def _build_directory_lists(self, current_branch):
+        self._directory_lists = {type_: [] for type_ in self._directory_lists}  # reinitialize
+        for item in current_branch:
+            if current_branch[item] == 'File':
+                self._directory_lists['Files'].append(item)  # files only
+            else:
+                self._directory_lists['Folders'].append(item)  # folders only
+            self._directory_lists['All'].append(item)  # files and folders
+        if self._sort == 'Alphanumeric':
+            self._directory_lists = {type_: sorted(self._directory_lists[type_], key=lambda item: item.lower()) for type_ in self._directory_lists}

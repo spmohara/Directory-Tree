@@ -1,5 +1,4 @@
 from directory import Directory
-import logging
 
 my_directory = Directory(file_name='file_paths.txt', path='/shares/win7/Artbeats', sort='Alphanumeric')
 
