@@ -14,17 +14,17 @@ class Directory():
 
     Attributes
     ----------
-    file_name: str
-        The name of the .txt file to read with the list of file paths.
+    read_file: str
+        The path of the file to read with the list of file paths.
             ex: ``'file_paths.txt'``
 
     path: str
-        The path to set as the current directory.
+        The path to set as the current directory (default is root ``'/'``).
             ex: ``'/shares/win7/Artbeats'``
 
     sort: str
         The sorting method used to order items.
-            Optional parameter, ``'Alphanumeric'`` or ``'Date Modified'`` (default is ``'Alphanumeric'``)
+            ``'Alphanumeric'`` (default) or ``'Date Modified'``
 
     Methods
     -------
@@ -34,8 +34,8 @@ class Directory():
     step(direction, subdirectory=None):
         Steps in/out of a directory and updates the directory lists.
     """
-    def __init__(self, file_name='file_paths.txt', path='/', sort='Alphanumeric'):
-        self.file_name = file_name
+    def __init__(self, read_file, path='/', sort='Alphanumeric'):
+        self.read_file = read_file
         self.path = path
         self.sort = sort
         self._file_data = None
@@ -48,21 +48,21 @@ class Directory():
         self._directory_lists = {'All': [], 'Files': [], 'Folders': []}
 
     @property
-    def file_name(self):
-        """ Get/set the file_name attribute and update the directory lists. """
-        return self._file_name
+    def read_file(self):
+        """ Get/set the read_file attribute and update the directory lists (except on init). """
+        return self._read_file
 
-    @file_name.setter
-    def file_name(self, value):
+    @read_file.setter
+    def read_file(self, value):
         if not isinstance(value, str) or not value.endswith('.txt'):
-            raise ValueError('Invalid file_name attribute specified')
-        self._file_name = value
+            raise ValueError('Invalid read file attribute specified')
+        self._read_file = value
         if hasattr(self, '_file_data'):  # block on init
             self._read_file_data()
 
     @property
     def path(self):
-        """ Get/set the path attribute and update the directory lists. """
+        """ Get/set the path attribute and update the directory lists (except on init). """
         return self._path
 
     @path.setter
@@ -75,13 +75,13 @@ class Directory():
 
     @property
     def sort(self):
-        """ Get/set the sort attribute and update the directory lists. """
+        """ Get/set the sort attribute and update the directory lists (except on init). """
         return self._sort
 
     @sort.setter
     def sort(self, value):
         if value not in ('Alphanumeric', 'Date Modified'):
-            raise ValueError('Invalid sort by attribute specified')
+            raise ValueError('Invalid sort attribute specified')
         self._sort = value
         if hasattr(self, '_file_data'):  # block on init
             self._parse_file_data()
@@ -93,7 +93,7 @@ class Directory():
         Parameters
         ----------
         type_: str
-            Optional parameter, ``'All'``, ``'Files'``, ``'Folders'`` (default is ``'All'``)
+            ``'All'`` (default), ``'Files'``, ``'Folders'``
 
         search_term: str
             Optional parameter
@@ -129,7 +129,7 @@ class Directory():
             ``'In'`` or ``'Out'``
 
         subdirectory: str
-            Optional parameter, only used when direction parameter is ``'In'``
+            Only required when direction parameter is ``'In'``
                 ex: ``'Subdirectory 1'``
 
         Returns
@@ -150,7 +150,7 @@ class Directory():
 
     def _read_file_data(self):
         try:
-            with open(self._file_name, encoding='utf8') as f:
+            with open(self._read_file, encoding='utf8') as f:
                 self._file_data = f.read()
         except FileNotFoundError:
             raise AttributeError('File does not exist')
@@ -180,7 +180,7 @@ class Directory():
             if item in current_branch:
                 current_branch = current_branch[item]  # traverse through directory
             else:
-                raise AttributeError('Invalid file path specified')
+                raise AttributeError('Invalid path specified')
         self._build_directory_lists(current_branch)
 
     def _build_directory_lists(self, current_branch):

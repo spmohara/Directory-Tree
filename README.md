@@ -17,10 +17,20 @@ The items can also be sorted either alphanumerically or by the date they were mo
 ```python
 from directory import Directory
 
-my_directory = Directory(file_name='file_paths.txt', path='/shares/win7/Artbeats', sort='Alphanumeric')
+my_directory = Directory(read_file='file_paths.txt', path='/shares/win7/Artbeats', sort='Alphanumeric')
 ```
 
 ## Attributes
+### Get read file path
+```python
+my_directory.read_file
+```
+
+### Set read file path
+```python
+my_directory.read_file = 'file_paths.txt'
+```
+
 ### Get current directory path
 ```python
 my_directory.path
@@ -31,17 +41,17 @@ my_directory.path
 my_directory.path = '/shares/win7/Audio'
 ```
 
-### Get current sorting method of items
+### Get sorting method of items
 ```python
 my_directory.sort
 ```
 
-### Sort items alphanumerically
+### Set sorting method of items as alphanumeric
 ```python
 my_directory.sort = 'Alphanumeric'
 ```
 
-### Sort items by date modified
+### Set sorting method of items as date modified
 ```python
 my_directory.sort = 'Date Modified'
 ```
@@ -49,12 +59,12 @@ my_directory.sort = 'Date Modified'
 ## Methods
 ### Get files in current directory
 ```python
-my_directory.get_items(type_='Files')
+my_directory.get_items('Files')
 ```
 
 ### Get folders in current directory
 ```python
-my_directory.get_items(type_='Folders')
+my_directory.get_items('Folders')
 ```
 
 ### Get files and folders in current directory
@@ -64,12 +74,12 @@ my_directory.get_items()
 
 ### Search for files in current directory
 ```python
-my_directory.get_items(type_='Files', search_term='Mbps')
+my_directory.get_items('Files', search_term='Mbps')
 ```
 
 ### Search for folders in current directory
 ```python
-my_directory.get_items(type_='Folders', search_term='short')
+my_directory.get_items('Folders', search_term='short')
 ```
 
 ### Search for files and folders in current directory
@@ -79,12 +89,12 @@ my_directory.get_items(search_term='test')
 
 ### Step into subdirectory
 ```python
-my_directory.step(direction='In', subdirectory='withMusic')
+my_directory.step('In', subdirectory='withMusic')
 ```
 
 ### Step out of current directory
 ```python
-my_directory.step(direction='Out')
+my_directory.step('Out')
 ```
 
 ## Workflow
