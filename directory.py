@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 class Directory():
-    """ A class used to build a directory tree from a list of provided file paths. 
+    """ A class used to build a directory data structure from a list of provided file paths. 
     The tree can be traversed through and items can be searched for within a directory. 
     The items can also be sorted either alphanumerically or by the date they were modified.
 
